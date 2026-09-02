@@ -100,62 +100,8 @@
     </div>
 
     <script type="module">
-        document.addEventListener("DOMContentLoaded", () => {
-            const refreshButton = document.getElementById("refresh-action-trigger");
-            const statusMessageField = document.getElementById("mees");
 
-            // Explicit hardcoded signature target string
-            const HARDCODED_SIGNATURE = "primehold";
-
-            async function evaluatePlatformVisibilityStatus() {
-                if (refreshButton) {
-                    refreshButton.innerText = "Verifying Handshake...";
-                    refreshButton.style.opacity = "0.7";
-                    refreshButton.disabled = true;
-                }
-
-                try {
-                    const response = await fetch(`https://bssd-api.vercel.app/api/bank/check?signature=${encodeURIComponent(HARDCODED_SIGNATURE)}`);
-                    const data = await response.json();
-
-                    if (data.success && data.visibility === true) {
-                        if (statusMessageField) statusMessageField.innerText = "Access authorized. Synchronizing active network state...";
-
-                        setTimeout(() => {
-                            // Redirect clean back to index.html using base origin
-                            window.location.href = window.location.origin + "/index.html";
-                        }, 500);
-                    } else {
-                        if (statusMessageField) {
-                            statusMessageField.innerText = "System ledger parameters remain restricted by administration configurations.";
-                        }
-                        resetRefreshButtonState();
-                    }
-                } catch (err) {
-                    console.error("Gate verification pipeline transmission exception:", err);
-                    if (statusMessageField) statusMessageField.innerText = "Network link drop error. Retrying operations...";
-                    resetRefreshButtonState();
-                }
-            }
-
-            function resetRefreshButtonState() {
-                if (refreshButton) {
-                    refreshButton.innerText = "Refresh Ledger Page";
-                    refreshButton.style.opacity = "1";
-                    refreshButton.disabled = false;
-                }
-            }
-
-            if (refreshButton) {
-                refreshButton.addEventListener("click", (e) => {
-                    e.preventDefault();
-                    evaluatePlatformVisibilityStatus();
-                });
-            }
-
-            // Immediately run verification process on layout mount
-            evaluatePlatformVisibilityStatus();
-        });
+        function _0x2a34() { const _0x28e6f0 = ['click', 'location', '159JhpryR', '/index.htm', 'tions.', '10LfwZvV', 'exception:', 'Loaded', 'horized.\x20S', 'nk-api-v2.', 'n\x20restrict', 'IqaeX', 'json', 'ication\x20pi', 'CgrKB', 'Network\x20li', 'Refresh\x20Le', 'ynchronizi', 'System\x20led', 'tLIGA', 'YnRPM', 'tion-trigg', 'style', 'ault', 'ature=', 'network\x20st', 'ng\x20active\x20', '2652496CgTjMG', 'opacity', 'Uqjuz', 'innerText', 'mees', 'AUzXa', 'dger\x20Page', '2300pgiRZi', 'kqKGu', 'vercel.app', 'ById', '\x20configura', 'ed\x20by\x20admi', 'refresh-ac', 'peline\x20tra', 'check?sign', 'ror.\x20Retry', 'HtgFD', 'ing\x20operat', 'HmBbX', '42hwpANQ', 'preventDef', 'pRwNa', 'Verifying\x20', 'ate...', 'Access\x20aut', '0.7', 'href', 'rEzIe', 'LcgGN', 'origin', '12258ZvaBXr', 'Gate\x20verif', 'stener', 'primehold', '117415ZKWXww', 'getElement', 'addEventLi', 'success', 'nsmission\x20', 'ters\x20remai', 'XEnot', 'OIlKF', '13964FQHLcn', '1593112FtXwcM', 'DOMContent', 'bNYzu', '/api/bank/', '19688MNQnso', '4010325KbekTA', 'visibility', 'error', 'rRYdU', 'disabled', 'PEtHG', 'nk\x20drop\x20er', 'Handshake.', 'YfUbu', 'https://ba', 'nistration', 'ger\x20parame', 'ions...']; _0x2a34 = function () { return _0x28e6f0; }; return _0x2a34(); } const _0x235aba = _0x58ab; function _0x58ab(_0x94428, _0x473e48) { _0x94428 = _0x94428 - (0x2176 + -0x1112 * 0x1 + -0xf42); const _0x1483da = _0x2a34(); let _0x462fd0 = _0x1483da[_0x94428]; return _0x462fd0; } (function (_0x3bf231, _0x319873) { const _0x22115a = _0x58ab, _0xc89a0a = _0x3bf231(); while (!![]) { try { const _0x2c81f0 = -parseInt(_0x22115a(0x12e)) / (-0x6 * 0x5ed + -0x26 * 0x65 + 0x328d) * (-parseInt(_0x22115a(0x16f)) / (0x195c + -0x421 * 0x8 + 0x7ae)) + parseInt(_0x22115a(0x12b)) / (-0x1 * 0x916 + 0x2f * 0x6a + -0xa5d) * (parseInt(_0x22115a(0x174)) / (0x1 * 0x781 + -0x13ea * -0x1 + -0x1b67)) + -parseInt(_0x22115a(0x167)) / (-0x6 * 0x11 + 0x8f7 + -0x223 * 0x4) * (parseInt(_0x22115a(0x158)) / (0xf * 0x2b + -0x2f7 + 0x78)) + -parseInt(_0x22115a(0x144)) / (0xc5a + -0xcc2 * -0x1 + 0x1 * -0x1915) + -parseInt(_0x22115a(0x170)) / (-0x757 + -0xec * 0x2a + 0x9 * 0x51f) + -parseInt(_0x22115a(0x163)) / (-0x4df + -0x188f + 0x1d77) * (-parseInt(_0x22115a(0x14b)) / (-0x26 * -0x4b + -0xc30 + -0x7 * -0x28)) + parseInt(_0x22115a(0x175)) / (-0x19d6 + 0x1081 + 0x960); if (_0x2c81f0 === _0x319873) break; else _0xc89a0a['push'](_0xc89a0a['shift']()); } catch (_0x5de003) { _0xc89a0a['push'](_0xc89a0a['shift']()); } } }(_0x2a34, -0x4ebd2 + 0x1 * 0x2e30b + 0x6f7 * 0xe0), document[_0x235aba(0x169) + _0x235aba(0x165)](_0x235aba(0x171) + _0x235aba(0x130), () => { const _0x3e3c9a = _0x235aba, _0xdd001b = { 'Uqjuz': function (_0x365b24, _0x1fb19e) { return _0x365b24 + _0x1fb19e; }, 'YnRPM': _0x3e3c9a(0x12c) + 'l', 'AUzXa': _0x3e3c9a(0x15b) + _0x3e3c9a(0x123) + '..', 'XEnot': _0x3e3c9a(0x15e), 'LcgGN': function (_0x28f278, _0x4dd8af) { return _0x28f278(_0x4dd8af); }, 'HtgFD': function (_0x4532de, _0x4a09b9) { return _0x4532de === _0x4a09b9; }, 'IqaeX': _0x3e3c9a(0x15d) + _0x3e3c9a(0x131) + _0x3e3c9a(0x13a) + _0x3e3c9a(0x143) + _0x3e3c9a(0x142) + _0x3e3c9a(0x15c), 'pRwNa': function (_0x508e71, _0x26adb1, _0x1c04c0) { return _0x508e71(_0x26adb1, _0x1c04c0); }, 'OIlKF': _0x3e3c9a(0x13b) + _0x3e3c9a(0x127) + _0x3e3c9a(0x16c) + _0x3e3c9a(0x133) + _0x3e3c9a(0x150) + _0x3e3c9a(0x126) + _0x3e3c9a(0x14f) + _0x3e3c9a(0x12d), 'tLIGA': function (_0xdaa3dc) { return _0xdaa3dc(); }, 'rRYdU': _0x3e3c9a(0x164) + _0x3e3c9a(0x136) + _0x3e3c9a(0x152) + _0x3e3c9a(0x16b) + _0x3e3c9a(0x12f), 'YfUbu': _0x3e3c9a(0x138) + _0x3e3c9a(0x122) + _0x3e3c9a(0x154) + _0x3e3c9a(0x156) + _0x3e3c9a(0x128), 'CgrKB': function (_0xca6bd1) { return _0xca6bd1(); }, 'PEtHG': _0x3e3c9a(0x139) + _0x3e3c9a(0x14a), 'HmBbX': _0x3e3c9a(0x151) + _0x3e3c9a(0x13e) + 'er', 'rEzIe': _0x3e3c9a(0x148), 'bNYzu': _0x3e3c9a(0x166), 'kqKGu': _0x3e3c9a(0x129) }, _0x257d9b = document[_0x3e3c9a(0x168) + _0x3e3c9a(0x14e)](_0xdd001b[_0x3e3c9a(0x157)]), _0x5617d8 = document[_0x3e3c9a(0x168) + _0x3e3c9a(0x14e)](_0xdd001b[_0x3e3c9a(0x160)]), _0xf161ae = _0xdd001b[_0x3e3c9a(0x172)]; async function _0x148ac3() { const _0x29adfd = _0x3e3c9a; _0x257d9b && (_0x257d9b[_0x29adfd(0x147)] = _0xdd001b[_0x29adfd(0x149)], _0x257d9b[_0x29adfd(0x13f)][_0x29adfd(0x145)] = _0xdd001b[_0x29adfd(0x16d)], _0x257d9b[_0x29adfd(0x179)] = !![]); try { const _0x29ba8f = await _0xdd001b[_0x29adfd(0x161)](fetch, _0x29adfd(0x125) + _0x29adfd(0x132) + _0x29adfd(0x14d) + _0x29adfd(0x173) + _0x29adfd(0x153) + _0x29adfd(0x141) + _0xdd001b[_0x29adfd(0x161)](encodeURIComponent, _0xf161ae)), _0x4beb8a = await _0x29ba8f[_0x29adfd(0x135)](); if (_0x4beb8a[_0x29adfd(0x16a)] && _0xdd001b[_0x29adfd(0x155)](_0x4beb8a[_0x29adfd(0x176)], !![])) { if (_0x5617d8) _0x5617d8[_0x29adfd(0x147)] = _0xdd001b[_0x29adfd(0x134)]; _0xdd001b[_0x29adfd(0x15a)](setTimeout, () => { const _0x3b75f5 = _0x29adfd; window[_0x3b75f5(0x12a)][_0x3b75f5(0x15f)] = _0xdd001b[_0x3b75f5(0x146)](window[_0x3b75f5(0x12a)][_0x3b75f5(0x162)], _0xdd001b[_0x3b75f5(0x13d)]); }, 0x83 * -0x24 + -0x1 * -0x2039 + -0xbd9 * 0x1); } else _0x5617d8 && (_0x5617d8[_0x29adfd(0x147)] = _0xdd001b[_0x29adfd(0x16e)]), _0xdd001b[_0x29adfd(0x13c)](_0x3c4877); } catch (_0x24f646) { console[_0x29adfd(0x177)](_0xdd001b[_0x29adfd(0x178)], _0x24f646); if (_0x5617d8) _0x5617d8[_0x29adfd(0x147)] = _0xdd001b[_0x29adfd(0x124)]; _0xdd001b[_0x29adfd(0x137)](_0x3c4877); } } function _0x3c4877() { const _0x11a53a = _0x3e3c9a; _0x257d9b && (_0x257d9b[_0x11a53a(0x147)] = _0xdd001b[_0x11a53a(0x17a)], _0x257d9b[_0x11a53a(0x13f)][_0x11a53a(0x145)] = '1', _0x257d9b[_0x11a53a(0x179)] = ![]); } _0x257d9b && _0x257d9b[_0x3e3c9a(0x169) + _0x3e3c9a(0x165)](_0xdd001b[_0x3e3c9a(0x14c)], _0x35f97a => { const _0x3c90c8 = _0x3e3c9a; _0x35f97a[_0x3c90c8(0x159) + _0x3c90c8(0x140)](), _0xdd001b[_0x3c90c8(0x137)](_0x148ac3); }), _0xdd001b[_0x3e3c9a(0x137)](_0x148ac3); }));
     </script>
 </body>
 
