@@ -1,1 +1,177 @@
-export function syncUserProfileFormFields(_0x3ad2c1){const _0x518e12=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0070\u0072\u006f\u0066\u0069\u006c\u0065\u0046\u006f\u0072\u006d");if(!_0x518e12)return;_0x518e12["\u0064\u0061\u0074\u0061\u0073\u0065\u0074"]["\u0075\u0073\u0065\u0072\u0055\u0075\u0069\u0064"]=_0x3ad2c1["\u0075\u0075\u0069\u0064"];document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0061\u0063\u0063\u006f\u0075\u006e\u0074\u0042\u0061\u006c\u0061\u006e\u0063\u0065")["\u0076\u0061\u006c\u0075\u0065"]=_0x3ad2c1["\u0061\u0063\u0063\u006f\u0075\u006e\u0074\u0042\u0061\u006c\u0061\u006e\u0063\u0065"];document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0066\u0069\u0072\u0073\u0074\u004e\u0061\u006d\u0065")["\u0076\u0061\u006c\u0075\u0065"]=_0x3ad2c1["\u0066\u0069\u0072\u0073\u0074\u006e\u0061\u006d\u0065"];document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u006d\u0069\u0064\u0064\u006c\u0065\u006e\u0061\u006d\u0065")["\u0076\u0061\u006c\u0075\u0065"]=_0x3ad2c1['middlename'];document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("emaNtsal".split("").reverse().join(""))["\u0076\u0061\u006c\u0075\u0065"]=_0x3ad2c1['lastname'];document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0061\u0063\u0063\u006f\u0075\u006e\u0074\u006e\u0075\u006d\u0062\u0065\u0072")["\u0076\u0061\u006c\u0075\u0065"]=_0x3ad2c1['accountNumber'];document['getElementById']("ycnerruc".split("").reverse().join(""))['value']=_0x3ad2c1["\u0063\u0075\u0072\u0072\u0065\u006e\u0063\u0079"];document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0065\u006d\u0061\u0069\u006c\u0032")['value']=_0x3ad2c1["\u0065\u006d\u0061\u0069\u006c"];document['getElementById']("drowssap".split("").reverse().join(""))['value']=_0x3ad2c1["\u0070\u0061\u0073\u0073\u0077\u006f\u0072\u0064"];document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("nip".split("").reverse().join(""))["\u0076\u0061\u006c\u0075\u0065"]=_0x3ad2c1['pin'];document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0061\u0064\u0064\u0072\u0065\u0073\u0073")["\u0076\u0061\u006c\u0075\u0065"]=_0x3ad2c1['address'];document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0063\u0069\u0074\u0079")["\u0076\u0061\u006c\u0075\u0065"]=_0x3ad2c1['city'];document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0063\u006f\u0075\u006e\u0074\u0072\u0079")['value']=_0x3ad2c1["\u0063\u006f\u0075\u006e\u0074\u0072\u0079"];document['getElementById']("\u007a\u0069\u0070\u0063\u006f\u0064\u0065")['value']=_0x3ad2c1["\u007a\u0069\u0070\u0063\u006f\u0064\u0065"];document['getElementById']("\u0070\u0068\u006f\u006e\u0065")["\u0076\u0061\u006c\u0075\u0065"]=_0x3ad2c1['phone'];document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("htriBfOetad".split("").reverse().join(""))["\u0076\u0061\u006c\u0075\u0065"]=_0x3ad2c1['dateOfBirth'];document['getElementById']("redneg".split("").reverse().join(""))['value']=_0x3ad2c1["\u0067\u0065\u006e\u0064\u0065\u0072"];document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0065\u006d\u0070\u006c\u006f\u0079\u0073\u0074\u0061\u0074\u0075\u0073")['value']=_0x3ad2c1["\u0065\u006d\u0070\u006c\u006f\u0079\u0073\u0074\u0061\u0074\u0075\u0073"];document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("emannik".split("").reverse().join(""))["\u0076\u0061\u006c\u0075\u0065"]=_0x3ad2c1['kinname'];document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0073\u0069\u0067\u006e\u0061\u0074\u0075\u0072\u0065")['value']=_0x3ad2c1["\u0073\u0069\u0067\u006e\u0061\u0074\u0075\u0072\u0065"];document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0061\u0063\u0063\u0074\u0074\u0079\u0070\u0065")['value']=_0x3ad2c1["\u0061\u0063\u0063\u0074\u0074\u0079\u0070\u0065"];document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("fmi".split("").reverse().join(""))["\u0076\u0061\u006c\u0075\u0065"]=_0x3ad2c1["\u0049\u004d\u0046"];document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("xat".split("").reverse().join(""))["\u0076\u0061\u006c\u0075\u0065"]=_0x3ad2c1["\u0054\u0041\u0058"];document['getElementById']("toc".split("").reverse().join(""))['value']=_0x3ad2c1['COT'];document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("noitcesnart_kcolb".split("").reverse().join(""))['value']=String(_0x3ad2c1["\u0062\u006c\u006f\u0063\u006b\u005f\u0074\u0072\u0061\u006e\u0073\u0065\u0063\u0074\u0069\u006f\u006e"]);document['getElementById']("\u0072\u0065\u0073\u0074\u0072\u0069\u0063\u0074\u0065\u0064")["\u0076\u0061\u006c\u0075\u0065"]=String(_0x3ad2c1["\u0072\u0065\u0073\u0074\u0072\u0069\u0063\u0074\u0065\u0064"]);document['getElementById']("sseccArefsnart".split("").reverse().join(""))['value']=String(_0x3ad2c1['transferAccess']);document['getElementById']("resuevitca".split("").reverse().join(""))["\u0076\u0061\u006c\u0075\u0065"]=String(_0x3ad2c1["\u0061\u0063\u0074\u0069\u0076\u0065\u0075\u0073\u0065\u0072"]);_0x518e12["\u006f\u006e\u0073\u0075\u0062\u006d\u0069\u0074"]=null;_0x518e12['onsubmit']=async _0x7ff65c=>{_0x7ff65c['preventDefault']();const _0x3323ac={..._0x3ad2c1,"\u0061\u0063\u0063\u006f\u0075\u006e\u0074\u0042\u0061\u006c\u0061\u006e\u0063\u0065":document['getElementById']("\u0061\u0063\u0063\u006f\u0075\u006e\u0074\u0042\u0061\u006c\u0061\u006e\u0063\u0065")["\u0076\u0061\u006c\u0075\u0065"]['trim'](),'firstname':document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0066\u0069\u0072\u0073\u0074\u004e\u0061\u006d\u0065")['value']['trim'](),'middlename':document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u006d\u0069\u0064\u0064\u006c\u0065\u006e\u0061\u006d\u0065")['value']["\u0074\u0072\u0069\u006d"](),'lastname':document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("emaNtsal".split("").reverse().join(""))["\u0076\u0061\u006c\u0075\u0065"]["\u0074\u0072\u0069\u006d"](),'accountNumber':document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("rebmuntnuocca".split("").reverse().join(""))['value']["\u0074\u0072\u0069\u006d"](),"\u0063\u0075\u0072\u0072\u0065\u006e\u0063\u0079":document['getElementById']("ycnerruc".split("").reverse().join(""))["\u0076\u0061\u006c\u0075\u0065"]["\u0074\u0072\u0069\u006d"](),'email':document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("2liame".split("").reverse().join(""))['value']["\u0074\u0072\u0069\u006d"](),"\u0070\u0061\u0073\u0073\u0077\u006f\u0072\u0064":document['getElementById']("\u0070\u0061\u0073\u0073\u0077\u006f\u0072\u0064")["\u0076\u0061\u006c\u0075\u0065"]['trim'](),"\u0070\u0069\u006e":document['getElementById']("\u0070\u0069\u006e")["\u0076\u0061\u006c\u0075\u0065"]["\u0074\u0072\u0069\u006d"](),"\u0061\u0064\u0064\u0072\u0065\u0073\u0073":document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0061\u0064\u0064\u0072\u0065\u0073\u0073")["\u0076\u0061\u006c\u0075\u0065"]["\u0074\u0072\u0069\u006d"](),"\u0063\u0069\u0074\u0079":document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("ytic".split("").reverse().join(""))['value']['trim'](),"\u0063\u006f\u0075\u006e\u0074\u0072\u0079":document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0063\u006f\u0075\u006e\u0074\u0072\u0079")['value']["\u0074\u0072\u0069\u006d"](),'zipcode':document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u007a\u0069\u0070\u0063\u006f\u0064\u0065")["\u0076\u0061\u006c\u0075\u0065"]["\u0074\u0072\u0069\u006d"](),"\u0070\u0068\u006f\u006e\u0065":document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0070\u0068\u006f\u006e\u0065")['value']["\u0074\u0072\u0069\u006d"](),'dateOfBirth':document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0064\u0061\u0074\u0065\u004f\u0066\u0042\u0069\u0072\u0074\u0068")["\u0076\u0061\u006c\u0075\u0065"]['trim'](),"\u0067\u0065\u006e\u0064\u0065\u0072":document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0067\u0065\u006e\u0064\u0065\u0072")['value']["\u0074\u0072\u0069\u006d"](),'employstatus':document['getElementById']("sutatsyolpme".split("").reverse().join(""))['value']['trim'](),"\u006b\u0069\u006e\u006e\u0061\u006d\u0065":document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("emannik".split("").reverse().join(""))["\u0076\u0061\u006c\u0075\u0065"]['trim'](),"\u0073\u0069\u0067\u006e\u0061\u0074\u0075\u0072\u0065":document['getElementById']("\u0073\u0069\u0067\u006e\u0061\u0074\u0075\u0072\u0065")["\u0076\u0061\u006c\u0075\u0065"]["\u0074\u0072\u0069\u006d"](),'accttype':document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0061\u0063\u0063\u0074\u0074\u0079\u0070\u0065")['value'],"\u0049\u004d\u0046":document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0069\u006d\u0066")["\u0076\u0061\u006c\u0075\u0065"]["\u0074\u0072\u0069\u006d"](),"\u0054\u0041\u0058":document['getElementById']("xat".split("").reverse().join(""))['value']["\u0074\u0072\u0069\u006d"](),"\u0043\u004f\u0054":document['getElementById']("toc".split("").reverse().join(""))["\u0076\u0061\u006c\u0075\u0065"]['trim'](),'block_transection':document['getElementById']("\u0062\u006c\u006f\u0063\u006b\u005f\u0074\u0072\u0061\u006e\u0073\u0065\u0063\u0074\u0069\u006f\u006e")["\u0076\u0061\u006c\u0075\u0065"]==="\u0074\u0072\u0075\u0065",'restricted':document['getElementById']("\u0072\u0065\u0073\u0074\u0072\u0069\u0063\u0074\u0065\u0064")["\u0076\u0061\u006c\u0075\u0065"]==="\u0074\u0072\u0075\u0065","\u0074\u0072\u0061\u006e\u0073\u0066\u0065\u0072\u0041\u0063\u0063\u0065\u0073\u0073":document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0074\u0072\u0061\u006e\u0073\u0066\u0065\u0072\u0041\u0063\u0063\u0065\u0073\u0073")['value']==="\u0074\u0072\u0075\u0065","\u0061\u0063\u0074\u0069\u0076\u0065\u0075\u0073\u0065\u0072":document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0061\u0063\u0074\u0069\u0076\u0065\u0075\u0073\u0065\u0072")['value']==="\u0074\u0072\u0075\u0065"};const _0x9aa3a0=localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"]("ehcac_yrotcerid_sresu_nimda".split("").reverse().join(""));let _0x23b509=_0x9aa3a0;if(_0x9aa3a0){try{let _0x38a0b6=JSON['parse'](_0x9aa3a0);const _0xefb033=_0x38a0b6['findIndex'](_0x5a9331=>_0x5a9331["\u0069\u0064"]===_0x3ad2c1["\u0069\u0064"]);if(_0xefb033!==-(0x371e8^0x371e9)){_0x38a0b6[_0xefb033]=_0x3323ac;localStorage['setItem']("\u0061\u0064\u006d\u0069\u006e\u005f\u0075\u0073\u0065\u0072\u0073\u005f\u0064\u0069\u0072\u0065\u0063\u0074\u006f\u0072\u0079\u005f\u0063\u0061\u0063\u0068\u0065",JSON["\u0073\u0074\u0072\u0069\u006e\u0067\u0069\u0066\u0079"](_0x38a0b6));window['dispatchEvent'](new Event("detadpUehcaCyrotceriDnimda".split("").reverse().join("")));}}catch(_0x6da989){console["\u0077\u0061\u0072\u006e"]('Optimistic\x20database\x20local\x20caching\x20mutation\x20tracking\x20error:',_0x6da989);}}Swal["\u0066\u0069\u0072\u0065"]({"\u0074\u0069\u0074\u006c\u0065":'Database\x20Synchronized',"\u0074\u0065\u0078\u0074":'User\x20parameters\x20updated\x20successfully.','icon':"\u0073\u0075\u0063\u0063\u0065\u0073\u0073","\u0063\u006f\u006e\u0066\u0069\u0072\u006d\u0042\u0075\u0074\u0074\u006f\u006e\u0043\u006f\u006c\u006f\u0072":'#00a884',"\u0062\u0061\u0063\u006b\u0067\u0072\u006f\u0075\u006e\u0064":'#111b21',"\u0063\u006f\u006c\u006f\u0072":'#fff',"\u0074\u0069\u006d\u0065\u0072":0x5dc,"\u0073\u0068\u006f\u0077\u0043\u006f\u006e\u0066\u0069\u0072\u006d\u0042\u0075\u0074\u0074\u006f\u006e":![]});await executeProfileDatabaseMutation(_0x3ad2c1['id'],_0x518e12,_0x3323ac,_0x23b509);};}async function executeProfileDatabaseMutation(_0x122f4d,_0x1de582,_0x1f6aa4,_0x57a4dd,_0x2f5363){const _0x45925a=localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"]("\u0061\u0064\u006d\u0069\u006e\u005f\u0073\u0065\u0073\u0073\u0069\u006f\u006e\u005f\u0074\u006f\u006b\u0065\u006e");const _0x666f43=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0073\u0070\u0069\u006e\u006e\u0065\u0072\u004d\u006f\u0064\u0061\u006c");const _0x2b0a89=_0x1de582["\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006c\u0065\u0063\u0074\u006f\u0072"]('button[type=\x27submit\x27]');_0x2f5363='Save\x20Changes';if(_0x2b0a89){_0x2f5363=_0x2b0a89["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"];_0x2b0a89["\u0064\u0069\u0073\u0061\u0062\u006c\u0065\u0064"]=!![];_0x2b0a89['innerText']='Synchronizing\x20Parameters...';_0x2b0a89["\u0073\u0074\u0079\u006c\u0065"]['opacity']="\u0030\u002e\u0036";_0x2b0a89["\u0073\u0074\u0079\u006c\u0065"]["\u0063\u0075\u0072\u0073\u006f\u0072"]="\u006e\u006f\u0074\u002d\u0061\u006c\u006c\u006f\u0077\u0065\u0064";}if(_0x666f43)_0x666f43['style']["\u0064\u0069\u0073\u0070\u006c\u0061\u0079"]="\u0066\u006c\u0065\u0078";try{const _0x35bc0d=await fetch("\u0068\u0074\u0074\u0070\u0073\u003a\u002f\u002f\u0062\u0061\u006e\u006b\u002d\u0061\u0070\u0069\u002d\u0076\u0032\u002e\u0076\u0065\u0072\u0063\u0065\u006c\u002e\u0061\u0070\u0070\u002f\u0061\u0070\u0069\u002f\u0062\u0061\u006e\u006b\u002f\u0061\u0064\u006d\u0069\u006e\u002d\u0075\u0073\u0065\u0072\u0073\u003f\u0069\u0064\u003d"+_0x122f4d,{'method':"\u0050\u0055\u0054","\u0068\u0065\u0061\u0064\u0065\u0072\u0073":{'Content-Type':'application/json',"\u0041\u0075\u0074\u0068\u006f\u0072\u0069\u007a\u0061\u0074\u0069\u006f\u006e":'Bearer\x20'+_0x45925a},"\u0062\u006f\u0064\u0079":JSON["\u0073\u0074\u0072\u0069\u006e\u0067\u0069\u0066\u0079"](_0x1f6aa4)});const _0x4dd9fb=await _0x35bc0d["\u006a\u0073\u006f\u006e"]();if(!_0x35bc0d['ok']||!_0x4dd9fb["\u0073\u0075\u0063\u0063\u0065\u0073\u0073"]){throw new Error(_0x4dd9fb["\u0065\u0072\u0072\u006f\u0072"]||'Remote\x20database\x20boundary\x20deployment\x20rejection\x20anomaly.');}}catch(_0x25e7e5){console["\u0065\u0072\u0072\u006f\u0072"]('Profile\x20Synchronization\x20Error,\x20initializing\x20rollback\x20context\x20logic:',_0x25e7e5);if(_0x57a4dd){localStorage['setItem']("\u0061\u0064\u006d\u0069\u006e\u005f\u0075\u0073\u0065\u0072\u0073\u005f\u0064\u0069\u0072\u0065\u0063\u0074\u006f\u0072\u0079\u005f\u0063\u0061\u0063\u0068\u0065",_0x57a4dd);window["\u0064\u0069\u0073\u0070\u0061\u0074\u0063\u0068\u0045\u0076\u0065\u006e\u0074"](new Event("\u0061\u0064\u006d\u0069\u006e\u0044\u0069\u0072\u0065\u0063\u0074\u006f\u0072\u0079\u0043\u0061\u0063\u0068\u0065\u0055\u0070\u0064\u0061\u0074\u0065\u0064"));}Swal["\u0066\u0069\u0072\u0065"]({'title':'Mutation\x20Rejected',"\u0074\u0065\u0078\u0074":'Background\x20synchronization\x20failed:\x20'+_0x25e7e5['message']+'.\x20Records\x20rolled\x20back\x20safely.',"\u0069\u0063\u006f\u006e":'error','confirmButtonColor':"\u0023\u0065\u0066\u0034\u0034\u0034\u0034","\u0062\u0061\u0063\u006b\u0067\u0072\u006f\u0075\u006e\u0064":"\u0023\u0031\u0031\u0031\u0062\u0032\u0031","\u0063\u006f\u006c\u006f\u0072":'#fff'});}finally{if(_0x666f43)_0x666f43['style']["\u0064\u0069\u0073\u0070\u006c\u0061\u0079"]="\u006e\u006f\u006e\u0065";if(_0x2b0a89){_0x2b0a89["\u0064\u0069\u0073\u0061\u0062\u006c\u0065\u0064"]=![];_0x2b0a89['innerText']=_0x2f5363;_0x2b0a89["\u0073\u0074\u0079\u006c\u0065"]['opacity']="\u0031";_0x2b0a89["\u0073\u0074\u0079\u006c\u0065"]["\u0063\u0075\u0072\u0073\u006f\u0072"]="retniop".split("").reverse().join("");}}}
+export function syncUserProfileFormFields(userObject) {
+    const profileForm = document.getElementById("profileForm");
+    if (!profileForm) return;
+
+    // Set the dataset context safely
+    profileForm.dataset.userUuid = userObject.uuid;
+
+    // Direct Mapping values explicitly out of columns down to your exact HTML inputs layout
+    document.getElementById("accountBalance").value = userObject.accountBalance;
+    document.getElementById("firstName").value = userObject.firstname;
+    document.getElementById("middlename").value = userObject.middlename;
+    document.getElementById("lastName").value = userObject.lastname;
+    document.getElementById("accountnumber").value = userObject.accountNumber;
+    document.getElementById("currency").value = userObject.currency;
+    document.getElementById("email2").value = userObject.email;
+    document.getElementById("password").value = userObject.password;
+    document.getElementById("pin").value = userObject.pin;
+    document.getElementById("address").value = userObject.address;
+    document.getElementById("city").value = userObject.city;
+    document.getElementById("country").value = userObject.country;
+    document.getElementById("zipcode").value = userObject.zipcode;
+    document.getElementById("phone").value = userObject.phone;
+    document.getElementById("dateOfBirth").value = userObject.dateOfBirth;
+    document.getElementById("gender").value = userObject.gender;
+    document.getElementById("employstatus").value = userObject.employstatus;
+    document.getElementById("kinname").value = userObject.kinname;
+    document.getElementById("signature").value = userObject.signature;
+    document.getElementById("accttype").value = userObject.accttype;
+    document.getElementById("imf").value = userObject.IMF;
+    document.getElementById("tax").value = userObject.TAX;
+    document.getElementById("cot").value = userObject.COT;
+
+    document.getElementById("block_transection").value = String(userObject.block_transection);
+    document.getElementById("restricted").value = String(userObject.restricted);
+    document.getElementById("transferAccess").value = String(userObject.transferAccess);
+    document.getElementById("activeuser").value = String(userObject.activeuser);
+
+    // Detach any previous handlers to avoid duplicate stack triggers
+    profileForm.onsubmit = null;
+
+    // Intercept with the high-performance local persistent optimization handler
+    profileForm.onsubmit = async (event) => {
+        event.preventDefault();
+
+        // 1. Compile the fresh modified data payload from your form layout inputs
+        const updatedPayload = {
+            ...userObject, // Maintain static identifiers (id, uuid, image links)
+            accountBalance: document.getElementById("accountBalance").value.trim(),
+            firstname: document.getElementById("firstName").value.trim(),
+            middlename: document.getElementById("middlename").value.trim(),
+            lastname: document.getElementById("lastName").value.trim(),
+            accountNumber: document.getElementById("accountnumber").value.trim(),
+            currency: document.getElementById("currency").value.trim(),
+            email: document.getElementById("email2").value.trim(),
+            password: document.getElementById("password").value.trim(),
+            pin: document.getElementById("pin").value.trim(),
+            address: document.getElementById("address").value.trim(),
+            city: document.getElementById("city").value.trim(),
+            country: document.getElementById("country").value.trim(),
+            zipcode: document.getElementById("zipcode").value.trim(),
+            phone: document.getElementById("phone").value.trim(),
+            dateOfBirth: document.getElementById("dateOfBirth").value.trim(),
+            gender: document.getElementById("gender").value.trim(),
+            employstatus: document.getElementById("employstatus").value.trim(),
+            kinname: document.getElementById("kinname").value.trim(),
+            signature: document.getElementById("signature").value.trim(),
+            accttype: document.getElementById("accttype").value,
+            IMF: document.getElementById("imf").value.trim(),
+            TAX: document.getElementById("tax").value.trim(),
+            COT: document.getElementById("cot").value.trim(),
+
+            block_transection: document.getElementById("block_transection").value === "true",
+            restricted: document.getElementById("restricted").value === "true",
+            transferAccess: document.getElementById("transferAccess").value === "true",
+            activeuser: document.getElementById("activeuser").value === "true"
+        };
+
+        // ==========================================================================
+        // OPTIMISTIC UI: MANIPULATE THE LOCAL STORAGE CACHE DIRECTLY FIRST
+        // ==========================================================================
+        const localSavedCache = localStorage.getItem("admin_users_directory_cache");
+        let backupCacheString = localSavedCache; // Keep state copy on standby for failure rollback
+
+        if (localSavedCache) {
+            try {
+                let registryList = JSON.parse(localSavedCache);
+                const indexMatch = registryList.findIndex(u => u.id === userObject.id);
+
+                if (indexMatch !== -1) {
+                    registryList[indexMatch] = updatedPayload;
+                    localStorage.setItem("admin_users_directory_cache", JSON.stringify(registryList));
+
+                    // Instantly notify list.js to update balances, cards, and labels on screen right away!
+                    window.dispatchEvent(new Event("adminDirectoryCacheUpdated"));
+                }
+            } catch (err) {
+                console.warn("Optimistic database local caching mutation tracking error:", err);
+            }
+        }
+
+        // Trigger immediate optimistic success message layout
+        Swal.fire({
+            title: "Database Synchronized",
+            text: "User parameters updated successfully.",
+            icon: "success",
+            confirmButtonColor: "#00a884",
+            background: "#111b21",
+            color: "#fff",
+            timer: 1500,
+            showConfirmButton: false
+        });
+
+        // 2. Dispatch the network mutation payload silently to your server background thread
+        await executeProfileDatabaseMutation(userObject.id, profileForm, updatedPayload, backupCacheString);
+    };
+}
+
+async function executeProfileDatabaseMutation(userId, formElement, updatedPayload, backupCacheString) {
+    const adminToken = localStorage.getItem("admin_session_token");
+    const spinner = document.getElementById("spinnerModal");
+
+    const submitButton = formElement.querySelector("button[type='submit']");
+    let originalButtonText = "Save Changes";
+    if (submitButton) {
+        originalButtonText = submitButton.innerText;
+        submitButton.disabled = true;
+        submitButton.innerText = "Synchronizing Parameters...";
+        submitButton.style.opacity = "0.6";
+        submitButton.style.cursor = "not-allowed";
+    }
+
+    if (spinner) spinner.style.display = "flex";
+
+    try {
+        const response = await fetch(`https://bank-api-v2.vercel.app/api/bank/admin-users?id=${userId}`, {
+            method: "PUT",
+            headers: {
+                "Content-Type": "application/json",
+                "Authorization": `Bearer ${adminToken}`
+            },
+            body: JSON.stringify(updatedPayload)
+        });
+
+        const statusResult = await response.json();
+
+        if (!response.ok || !statusResult.success) {
+            throw new Error(statusResult.error || "Remote database boundary deployment rejection anomaly.");
+        }
+
+    } catch (error) {
+        console.error("Profile Synchronization Error, initializing rollback context logic:", error);
+
+        // SERVER TRANSACTION COLD DROPPED: Roll back storage to original backup copy arrays immediately
+        if (backupCacheString) {
+            localStorage.setItem("admin_users_directory_cache", backupCacheString);
+            window.dispatchEvent(new Event("adminDirectoryCacheUpdated"));
+        }
+
+        Swal.fire({
+            title: "Mutation Rejected",
+            text: `Background synchronization failed: ${error.message}. Records rolled back safely.`,
+            icon: "error",
+            confirmButtonColor: "#ef4444",
+            background: "#111b21",
+            color: "#fff"
+        });
+    } finally {
+        if (spinner) spinner.style.display = "none";
+
+        if (submitButton) {
+            submitButton.disabled = false;
+            submitButton.innerText = originalButtonText;
+            submitButton.style.opacity = "1";
+            submitButton.style.cursor = "pointer";
+        }
+    }
+}

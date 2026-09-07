@@ -1,1 +1,487 @@
-document["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("dedaoLtnetnoCMOD".split("").reverse().join(""),()=>{const _0x4a5caf=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0073\u0065\u0063\u0075\u0072\u0065\u002d\u0063\u0068\u0061\u0074\u002d\u0064\u0072\u0061\u0077\u0065\u0072");const _0xd94f25=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("reward-tahc-esolc".split("").reverse().join(""));const _0x1dcbf5=document['getElementById']("\u0063\u0068\u0061\u0074\u002d\u0063\u0065\u006e\u0074\u0065\u0072\u002d\u0074\u0072\u0069\u0067\u0067\u0065\u0072");if(!_0x4a5caf){console['error']('Chat\x20engine\x20layout\x20target\x20node\x20framework\x20element\x20was\x20not\x20detected.');return;}const _0x434697=_0x4a5caf['querySelector']("\u002e\u0063\u0068\u0061\u0074\u002d\u006d\u0073\u0067\u002d\u0073\u0065\u006e\u0064\u002d\u0062\u0074\u006e");const _0x172944=_0x4a5caf['querySelector']("\u002e\u0063\u0068\u0061\u0074\u002d\u0069\u006e\u0070\u0075\u0074\u002d\u0066\u0069\u0065\u006c\u0064");const _0x577027=_0x4a5caf["\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006c\u0065\u0063\u0074\u006f\u0072"]("\u002e\u0063\u0068\u0061\u0074\u002d\u006d\u0065\u0073\u0073\u0061\u0067\u0065\u002d\u0064\u0069\u0073\u0070\u006c\u0061\u0079\u002d\u0073\u0074\u0072\u0065\u0061\u006d");const _0x227249=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("tupni-elif-neddih-tahc".split("").reverse().join(""));const _0x48c1d7="\u0067\u005f\u006c\u0069\u0074\u0065\u005f\u0063\u0068\u0061\u0074\u005f\u0073\u0074\u0072\u0065\u0061\u006d\u005f\u0064\u0061\u0074\u0061\u005f\u0061\u0072\u0072\u0061\u0079";function _0x2306da(_0x2d6dc5,_0x1ffb61,_0x5d43c1,_0x4c53b0){const _0x101771=_0x2d6dc5['sender_role']==="\u0075\u0073\u0065\u0072"||_0x2d6dc5['sender_role']!=="nimda".split("").reverse().join("");const _0x4134bb=_0x101771?"\u006f\u0075\u0074\u0067\u006f\u0069\u006e\u0067":"\u0069\u006e\u0063\u006f\u006d\u0069\u006e\u0067";_0x1ffb61='';if(_0x2d6dc5["\u0069\u0073\u0053\u0065\u006e\u0064\u0069\u006e\u0067"])_0x1ffb61='\x20msg-bubble-is-sending';if(_0x2d6dc5["\u0069\u0073\u0046\u0061\u0069\u006c\u0065\u0064"])_0x1ffb61='\x20msg-bubble-execution-failed';_0x5d43c1='';if(_0x2d6dc5['attachment_url']){_0x5d43c1='<img\x20src=\x22'+_0x2d6dc5["\u0061\u0074\u0074\u0061\u0063\u0068\u006d\u0065\u006e\u0074\u005f\u0075\u0072\u006c"]+'\x22\x20style=\x22max-width:100%;\x20border-radius:6px;\x20margin-bottom:4px;\x20display:block;\x22\x20alt=\x22Media\x20Object\x22>';}_0x4c53b0='';if(_0x2d6dc5['isSending'])_0x4c53b0='\x20<small\x20class=\x22text-sending-indicator\x22\x20style=\x22opacity:0.7;\x22>⏱️\x20Sending...</small>';if(_0x2d6dc5["\u0069\u0073\u0046\u0061\u0069\u006c\u0065\u0064"])_0x4c53b0='\x20<small\x20class=\x22text-failed-indicator\x22\x20style=\x22color:#ef4444;\x22>🔴\x20Failed\x20to\x20Sync</small>';const _0xa54b30=_0x2d6dc5["\u0063\u0072\u0065\u0061\u0074\u0065\u0064\u005f\u0061\u0074"]?new Date(_0x2d6dc5["\u0063\u0072\u0065\u0061\u0074\u0065\u0064\u005f\u0061\u0074"])["\u0074\u006f\u004c\u006f\u0063\u0061\u006c\u0065\u0054\u0069\u006d\u0065\u0053\u0074\u0072\u0069\u006e\u0067"]([],{'hour':"\u0032\u002d\u0064\u0069\u0067\u0069\u0074",'minute':"\u0032\u002d\u0064\u0069\u0067\u0069\u0074","\u0068\u006f\u0075\u0072\u0031\u0032":![]}):"--:--".split("").reverse().join("");return'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+_0x5d43c1+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>'+_0x59c9a9(_0x2d6dc5["\u006d\u0065\u0073\u0073\u0061\u0067\u0065\u005f\u0062\u006f\u0064\u0079"]||'')+'</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22msg-timestamp\x22>'+_0xa54b30+_0x4c53b0+'</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20';}function _0x22c66d(_0x52d8fd,_0x307718=![]){if(!_0x577027)return;const _0x203a08=_0x577027["\u0073\u0063\u0072\u006f\u006c\u006c\u0054\u006f\u0070"];const _0x4e1adf=_0x577027["\u0073\u0063\u0072\u006f\u006c\u006c\u0048\u0065\u0069\u0067\u0068\u0074"];const _0xd57ed4=_0x577027['clientHeight'];const _0x4c02cc=_0x4e1adf-_0x203a08<=_0xd57ed4+(0xb6db2^0xb6d8e);if(_0x52d8fd["\u006c\u0065\u006e\u0067\u0074\u0068"]>(0x22506^0x22506)){const _0x5a37a0=_0x577027['querySelector']('[data-system-default=\x22true\x22]');if(_0x5a37a0)_0x5a37a0["\u0072\u0065\u006d\u006f\u0076\u0065"]();}if(_0x52d8fd['length']===(0x3d0a4^0x3d0a4)&&_0x577027["\u0063\u0068\u0069\u006c\u0064\u0072\u0065\u006e"]["\u006c\u0065\u006e\u0067\u0074\u0068"]===(0x33613^0x33613)){_0x577027["\u0069\u006e\u006e\u0065\u0072\u0048\u0054\u004d\u004c"]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22msg-bubble\x20incoming\x22\x20data-system-default=\x22true\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>Hello,\x20how\x20can\x20we\x20assist\x20your\x20capital\x20operations\x20today?</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22msg-timestamp\x22>System\x20Desk</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>';return;}_0x52d8fd['forEach'](_0x13c079=>{const _0x25c02e=_0x13c079["\u0069\u0064"]?_0x13c079['id']["\u0074\u006f\u0053\u0074\u0072\u0069\u006e\u0067"]():'';let _0x5b8110=null;if(_0x25c02e){_0x5b8110=_0x577027["\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006c\u0065\u0063\u0074\u006f\u0072"]('[data-msg-node-id=\x22'+_0x25c02e+'\x22]');}if(_0x5b8110){const _0xd578fa=_0x13c079["\u0069\u0073\u0053\u0065\u006e\u0064\u0069\u006e\u0067"]!==_0x5b8110["\u0063\u006c\u0061\u0073\u0073\u004c\u0069\u0073\u0074"]['contains']("gnidnes-si-elbbub-gsm".split("").reverse().join(""))||_0x13c079['isFailed']!==_0x5b8110["\u0063\u006c\u0061\u0073\u0073\u004c\u0069\u0073\u0074"]['contains']("deliaf-noitucexe-elbbub-gsm".split("").reverse().join(""));if(_0xd578fa||_0x25c02e["\u0073\u0074\u0061\u0072\u0074\u0073\u0057\u0069\u0074\u0068"]("\u0074\u0065\u006d\u0070\u005f\u006d\u0073\u0067\u005f")){const _0x531553=_0x13c079['sender_role']==="\u0075\u0073\u0065\u0072"||_0x13c079["\u0073\u0065\u006e\u0064\u0065\u0072\u005f\u0072\u006f\u006c\u0065"]!=="\u0061\u0064\u006d\u0069\u006e";const _0x45a9ae=_0x531553?"gniogtuo".split("").reverse().join(""):"\u0069\u006e\u0063\u006f\u006d\u0069\u006e\u0067";_0x5b8110["\u0063\u006c\u0061\u0073\u0073\u004e\u0061\u006d\u0065"]='msg-bubble\x20'+_0x45a9ae+(_0x13c079["\u0069\u0073\u0053\u0065\u006e\u0064\u0069\u006e\u0067"]?'\x20msg-bubble-is-sending':'')+(_0x13c079["\u0069\u0073\u0046\u0061\u0069\u006c\u0065\u0064"]?'\x20msg-bubble-execution-failed':'');_0x5b8110['innerHTML']=_0x2306da(_0x13c079);}}else{const _0x4b05bb=_0x13c079['sender_role']==="resu".split("").reverse().join("")||_0x13c079['sender_role']!=="\u0061\u0064\u006d\u0069\u006e";const _0x5ed295=_0x4b05bb?"\u006f\u0075\u0074\u0067\u006f\u0069\u006e\u0067":"\u0069\u006e\u0063\u006f\u006d\u0069\u006e\u0067";const _0x56adc3=document["\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006c\u0065\u006d\u0065\u006e\u0074"]("vid".split("").reverse().join(""));_0x56adc3["\u0063\u006c\u0061\u0073\u0073\u004e\u0061\u006d\u0065"]='msg-bubble\x20'+_0x5ed295+(_0x13c079["\u0069\u0073\u0053\u0065\u006e\u0064\u0069\u006e\u0067"]?'\x20msg-bubble-is-sending':'')+(_0x13c079['isFailed']?'\x20msg-bubble-execution-failed':'');if(_0x25c02e){_0x56adc3["\u0073\u0065\u0074\u0041\u0074\u0074\u0072\u0069\u0062\u0075\u0074\u0065"]("di-edon-gsm-atad".split("").reverse().join(""),_0x25c02e);}_0x56adc3["\u0069\u006e\u006e\u0065\u0072\u0048\u0054\u004d\u004c"]=_0x2306da(_0x13c079);_0x577027['appendChild'](_0x56adc3);}});const _0x40ab89=_0x577027["\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006c\u0065\u0063\u0074\u006f\u0072\u0041\u006c\u006c"]("\u005b\u0064\u0061\u0074\u0061\u002d\u006d\u0073\u0067\u002d\u006e\u006f\u0064\u0065\u002d\u0069\u0064\u005d");_0x40ab89["\u0066\u006f\u0072\u0045\u0061\u0063\u0068"](_0x46a778=>{const _0x2040a1=_0x46a778['getAttribute']("\u0064\u0061\u0074\u0061\u002d\u006d\u0073\u0067\u002d\u006e\u006f\u0064\u0065\u002d\u0069\u0064");const _0x260c9b=_0x52d8fd["\u0073\u006f\u006d\u0065"](_0x37654b=>_0x37654b["\u0069\u0064"]&&_0x37654b['id']["\u0074\u006f\u0053\u0074\u0072\u0069\u006e\u0067"]()===_0x2040a1);if(!_0x260c9b&&!_0x2040a1["\u0073\u0074\u0061\u0072\u0074\u0073\u0057\u0069\u0074\u0068"]("\u0074\u0065\u006d\u0070\u005f\u006d\u0073\u0067\u005f")){_0x46a778["\u0072\u0065\u006d\u006f\u0076\u0065"]();}});let _0x583572=_0x577027['querySelector']("\u0023\u0069\u006f\u0073\u002d\u0073\u0063\u0072\u006f\u006c\u006c\u002d\u0061\u006e\u0063\u0068\u006f\u0072\u002d\u006e\u006f\u0064\u0065");if(!_0x583572){_0x583572=document["\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006c\u0065\u006d\u0065\u006e\u0074"]("vid".split("").reverse().join(""));_0x583572["\u0069\u0064"]="\u0069\u006f\u0073\u002d\u0073\u0063\u0072\u006f\u006c\u006c\u002d\u0061\u006e\u0063\u0068\u006f\u0072\u002d\u006e\u006f\u0064\u0065";_0x583572["\u0073\u0074\u0079\u006c\u0065"]["\u0063\u006c\u0065\u0061\u0072"]="htob".split("").reverse().join("");_0x583572["\u0073\u0074\u0079\u006c\u0065"]['height']="\u0031\u0070\u0078";_0x583572["\u0073\u0074\u0079\u006c\u0065"]['width']="%001".split("").reverse().join("");_0x577027["\u0061\u0070\u0070\u0065\u006e\u0064\u0043\u0068\u0069\u006c\u0064"](_0x583572);}else{_0x577027["\u0061\u0070\u0070\u0065\u006e\u0064\u0043\u0068\u0069\u006c\u0064"](_0x583572);}if(_0x307718||_0x4c02cc&&!_0x307718){requestAnimationFrame(()=>{setTimeout(()=>{_0x577027['scrollTop']=_0x577027["\u0073\u0063\u0072\u006f\u006c\u006c\u0048\u0065\u0069\u0067\u0068\u0074"]+(0xa62ce^0xa6126);},0xc2dbe^0xc2d96);});}}function _0x111bb7(){const _0x501aad=localStorage['getItem'](_0x48c1d7);if(_0x501aad){try{const _0x114113=JSON['parse'](_0x501aad);_0x22c66d(_0x114113,![]);}catch(_0x39d765){console["\u0077\u0061\u0072\u006e"]('⚠️\x20Chat\x20array\x20local\x20cache\x20parse\x20error:',_0x39d765);}}else if(_0x577027&&_0x577027["\u0063\u0068\u0069\u006c\u0064\u0072\u0065\u006e"]['length']===(0x1fb13^0x1fb13)){_0x577027['innerHTML']='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22msg-bubble\x20incoming\x22\x20data-system-default=\x22true\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>Hello,\x20how\x20can\x20we\x20assist\x20your\x20capital\x20operations\x20today?</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22msg-timestamp\x22>System\x20Desk</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>';}}const _0x503847=()=>{_0x4a5caf['classList']["\u0061\u0064\u0064"]("\u0061\u0063\u0074\u0069\u0076\u0065","\u006f\u0070\u0065\u006e");localStorage["\u0073\u0065\u0074\u0049\u0074\u0065\u006d"]("\u0067\u005f\u006c\u0069\u0074\u0065\u005f\u0063\u0068\u0061\u0074\u005f\u0073\u0074\u0061\u0074\u0065","\u006f\u0070\u0065\u006e");if(_0x1dcbf5){_0x1dcbf5['removeAttribute']("\u0064\u0061\u0074\u0061\u002d\u0063\u006f\u0075\u006e\u0074");_0x1dcbf5['classList']['remove']("\u0063\u0068\u0061\u0074\u002d\u006e\u006f\u0074\u0069\u0066\u0069\u0063\u0061\u0074\u0069\u006f\u006e\u002d\u0062\u0061\u0064\u0067\u0065");}_0x111bb7();_0x2a916b();};const _0x32640b=()=>{_0x4a5caf["\u0063\u006c\u0061\u0073\u0073\u004c\u0069\u0073\u0074"]["\u0072\u0065\u006d\u006f\u0076\u0065"]("\u0061\u0063\u0074\u0069\u0076\u0065","\u006f\u0070\u0065\u006e");localStorage['setItem']("etats_tahc_etil_g".split("").reverse().join(""),"\u0063\u006c\u006f\u0073\u0065\u0064");};const _0x501824=localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"]("etats_tahc_etil_g".split("").reverse().join(""));if(_0x501824==="nepo".split("").reverse().join("")){_0x4a5caf["\u0063\u006c\u0061\u0073\u0073\u004c\u0069\u0073\u0074"]["\u0061\u0064\u0064"]("\u0061\u0063\u0074\u0069\u0076\u0065","nepo".split("").reverse().join(""));}if(_0x1dcbf5){_0x1dcbf5["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("\u0063\u006c\u0069\u0063\u006b",_0x1bf65e=>{_0x1bf65e['preventDefault']();_0x1bf65e["\u0073\u0074\u006f\u0070\u0050\u0072\u006f\u0070\u0061\u0067\u0061\u0074\u0069\u006f\u006e"]();const _0x5ac901=_0x4a5caf['classList']['contains']("\u006f\u0070\u0065\u006e");if(_0x5ac901){_0x32640b();}else{_0x503847();}});}document['addEventListener']("\u0063\u006c\u0069\u0063\u006b",_0x37f396=>{const _0x2c0e1a=_0x4a5caf['classList']['contains']("\u006f\u0070\u0065\u006e")||_0x4a5caf['classList']["\u0063\u006f\u006e\u0074\u0061\u0069\u006e\u0073"]("evitca".split("").reverse().join(""));if(_0x2c0e1a){const _0x139fe6=_0x4a5caf["\u0063\u006f\u006e\u0074\u0061\u0069\u006e\u0073"](_0x37f396["\u0074\u0061\u0072\u0067\u0065\u0074"]);const _0x32a3d8=_0x1dcbf5&&_0x1dcbf5["\u0063\u006f\u006e\u0074\u0061\u0069\u006e\u0073"](_0x37f396["\u0074\u0061\u0072\u0067\u0065\u0074"]);if(!_0x139fe6&&!_0x32a3d8){_0x32640b();}}});if(_0xd94f25){_0xd94f25["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("\u0063\u006c\u0069\u0063\u006b",_0x269142=>{_0x269142['preventDefault']();_0x32640b();});}document['addEventListener']("\u006b\u0065\u0079\u0064\u006f\u0077\u006e",_0x581461=>{if(_0x581461["\u006b\u0065\u0079"]==="\u0045\u0073\u0063\u0061\u0070\u0065")_0x32640b();});async function _0x2a916b(){const _0x3e31ba=localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"]("\u0075\u0073\u0065\u0072\u005f\u0073\u0065\u0073\u0073\u0069\u006f\u006e\u005f\u0074\u006f\u006b\u0065\u006e");if(!_0x3e31ba)return;try{const _0x18e5c5=await fetch("\u0068\u0074\u0074\u0070\u0073\u003a\u002f\u002f\u0062\u0061\u006e\u006b\u002d\u0061\u0070\u0069\u002d\u0076\u0032\u002e\u0076\u0065\u0072\u0063\u0065\u006c\u002e\u0061\u0070\u0070\u002f\u0061\u0070\u0069\u002f\u0062\u0061\u006e\u006b\u002f\u0061\u0064\u006d\u0069\u006e\u002d\u0063\u0068\u0061\u0074",{'method':"\u0047\u0045\u0054",'headers':{'Authorization':'Bearer\x20'+_0x3e31ba}});const _0x4c69a1=await _0x18e5c5['json']();if(!_0x18e5c5["\u006f\u006b"]||!_0x4c69a1['success'])throw new Error(_0x4c69a1['error']);const _0x340bc7=_0x4c69a1['chats']||[];const _0x49223d=localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"](_0x48c1d7);let _0x477800=[];if(_0x49223d){try{_0x477800=JSON['parse'](_0x49223d);}catch(_0x487b95){}}const _0x387337=_0x477800['filter'](_0x4b803d=>_0x4b803d["\u0069\u0073\u0053\u0065\u006e\u0064\u0069\u006e\u0067"]===!![]||_0x4b803d["\u0069\u0073\u0046\u0061\u0069\u006c\u0065\u0064"]===!![]);const _0x564892=_0x387337["\u0066\u0069\u006c\u0074\u0065\u0072"](_0x13bb41=>!_0x340bc7["\u0073\u006f\u006d\u0065"](_0x5b3323=>_0x5b3323['id']===_0x13bb41["\u0069\u0064"]));localStorage["\u0073\u0065\u0074\u0049\u0074\u0065\u006d"](_0x48c1d7,JSON["\u0073\u0074\u0072\u0069\u006e\u0067\u0069\u0066\u0079"](_0x340bc7));const _0x2b2300=_0x340bc7['concat'](_0x564892);_0x22c66d(_0x2b2300,![]);}catch(_0x90b938){console["\u0065\u0072\u0072\u006f\u0072"]('Failed\x20to\x20synchronise\x20real-time\x20client\x20chat\x20streams:',_0x90b938);}}_0x111bb7();_0x2a916b();setInterval(_0x2a916b,0xa3b1b^0xa34bb);function _0x5385cf(_0x3c599e,_0x47596c,_0x3c2782){let _0x572ad2=[];const _0x12f560=localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"](_0x48c1d7);if(_0x12f560){try{_0x572ad2=JSON["\u0070\u0061\u0072\u0073\u0065"](_0x12f560);}catch(_0x2c5e23){}}_0x572ad2=_0x572ad2["\u0066\u0069\u006c\u0074\u0065\u0072"](_0x329dae=>_0x329dae['id']&&!_0x329dae['id']["\u0074\u006f\u0053\u0074\u0072\u0069\u006e\u0067"]()['startsWith']("\u0074\u0065\u006d\u0070\u005f\u006d\u0073\u0067\u005f"));const _0x4e94b7={'id':_0x3c2782,"\u0073\u0065\u006e\u0064\u0065\u0072\u005f\u0072\u006f\u006c\u0065":'user','message_body':_0x3c599e,"\u0061\u0074\u0074\u0061\u0063\u0068\u006d\u0065\u006e\u0074\u005f\u0075\u0072\u006c":_0x47596c,"\u0063\u0072\u0065\u0061\u0074\u0065\u0064\u005f\u0061\u0074":new Date()["\u0074\u006f\u0049\u0053\u004f\u0053\u0074\u0072\u0069\u006e\u0067"](),"\u0069\u0073\u0053\u0065\u006e\u0064\u0069\u006e\u0067":!![]};_0x572ad2["\u0070\u0075\u0073\u0068"](_0x4e94b7);localStorage["\u0073\u0065\u0074\u0049\u0074\u0065\u006d"](_0x48c1d7,JSON["\u0073\u0074\u0072\u0069\u006e\u0067\u0069\u0066\u0079"](_0x572ad2));_0x22c66d(_0x572ad2,!![]);}function _0x4a321d(_0x266aae){const _0x932945=localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"](_0x48c1d7);if(!_0x932945)return;try{let _0x204079=JSON['parse'](_0x932945);const _0x5e6618=_0x204079["\u0066\u0069\u006e\u0064\u0049\u006e\u0064\u0065\u0078"](_0x193bca=>_0x193bca['id']===_0x266aae);if(_0x5e6618!==-(0x8d026^0x8d027)){_0x204079[_0x5e6618]["\u0069\u0073\u0053\u0065\u006e\u0064\u0069\u006e\u0067"]=![];_0x204079[_0x5e6618]["\u0069\u0073\u0046\u0061\u0069\u006c\u0065\u0064"]=!![];localStorage["\u0073\u0065\u0074\u0049\u0074\u0065\u006d"](_0x48c1d7,JSON['stringify'](_0x204079));_0x22c66d(_0x204079,![]);}}catch(_0x6c1a7e){}}const _0xf64e35=async()=>{const _0x1e4a93=localStorage['getItem']("\u0075\u0073\u0065\u0072\u005f\u0073\u0065\u0073\u0073\u0069\u006f\u006e\u005f\u0074\u006f\u006b\u0065\u006e");const _0x172b1d=_0x172944["\u0076\u0061\u006c\u0075\u0065"]['trim']();if(!_0x172b1d)return;if(!_0x1e4a93){alert('Session\x20credentials\x20invalid.\x20Log\x20in\x20again.');return;}const _0x487e0a="\u0074\u0065\u006d\u0070\u005f\u006d\u0073\u0067\u005f"+Date["\u006e\u006f\u0077"]();_0x5385cf(_0x172b1d,null,_0x487e0a);_0x172944["\u0076\u0061\u006c\u0075\u0065"]='';try{const _0x3d714b=await fetch("tahc-nimda/knab/ipa/ppa.lecrev.2v-ipa-knab//:sptth".split("").reverse().join(""),{'method':"\u0050\u004f\u0053\u0054","\u0068\u0065\u0061\u0064\u0065\u0072\u0073":{"\u0043\u006f\u006e\u0074\u0065\u006e\u0074\u002d\u0054\u0079\u0070\u0065":"\u0061\u0070\u0070\u006c\u0069\u0063\u0061\u0074\u0069\u006f\u006e\u002f\u006a\u0073\u006f\u006e","\u0041\u0075\u0074\u0068\u006f\u0072\u0069\u007a\u0061\u0074\u0069\u006f\u006e":'Bearer\x20'+_0x1e4a93},"\u0062\u006f\u0064\u0079":JSON['stringify']({"\u006d\u0065\u0073\u0073\u0061\u0067\u0065\u005f\u0062\u006f\u0064\u0079":_0x172b1d,"\u0061\u0074\u0074\u0061\u0063\u0068\u006d\u0065\u006e\u0074\u005f\u0075\u0072\u006c":null})});if(!_0x3d714b['ok'])throw new Error('Server\x20storage\x20drop.');const _0x5b514f=await _0x3d714b['json']();if(_0x5b514f['success']&&_0x5b514f['message']){const _0xd650a=localStorage['getItem'](_0x48c1d7);if(_0xd650a){try{let _0x186b1e=JSON['parse'](_0xd650a);const _0x2f5abf=_0x186b1e["\u0066\u0069\u006e\u0064\u0049\u006e\u0064\u0065\u0078"](_0x32d631=>_0x32d631['id']===_0x487e0a);if(_0x2f5abf!==-(0xd1e7f^0xd1e7e)){const _0xd434e1=_0x577027['querySelector']('[data-msg-node-id=\x22'+_0x487e0a+'\x22]');if(_0xd434e1&&_0x5b514f['message']["\u0069\u0064"]){_0xd434e1["\u0073\u0065\u0074\u0041\u0074\u0074\u0072\u0069\u0062\u0075\u0074\u0065"]("\u0064\u0061\u0074\u0061\u002d\u006d\u0073\u0067\u002d\u006e\u006f\u0064\u0065\u002d\u0069\u0064",_0x5b514f["\u006d\u0065\u0073\u0073\u0061\u0067\u0065"]['id']['toString']());}_0x186b1e[_0x2f5abf]=_0x5b514f["\u006d\u0065\u0073\u0073\u0061\u0067\u0065"];_0x186b1e[_0x2f5abf]["\u0069\u0073\u0053\u0065\u006e\u0064\u0069\u006e\u0067"]=![];_0x186b1e[_0x2f5abf]["\u0069\u0073\u0046\u0061\u0069\u006c\u0065\u0064"]=![];localStorage["\u0073\u0065\u0074\u0049\u0074\u0065\u006d"](_0x48c1d7,JSON["\u0073\u0074\u0072\u0069\u006e\u0067\u0069\u0066\u0079"](_0x186b1e));_0x22c66d(_0x186b1e,!![]);return;}}catch(_0x4e2508){}}}await _0x2a916b();}catch(_0x185c37){console['error']('Live\x20message\x20dispatch\x20failed:',_0x185c37);_0x4a321d(_0x487e0a);}};if(_0x227249){_0x227249["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("egnahc".split("").reverse().join(""),async _0x12d4ad=>{if(_0x12d4ad['target']["\u0066\u0069\u006c\u0065\u0073"]['length']===(0x7371b^0x7371b))return;const _0x1cb404=localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"]("nekot_noisses_resu".split("").reverse().join(""));if(!_0x1cb404)return;const _0x198e92=localStorage['getItem']("diuu_resu".split("").reverse().join(""))||'';const _0x449176=_0x12d4ad["\u0074\u0061\u0072\u0067\u0065\u0074"]["\u0066\u0069\u006c\u0065\u0073"][0x20898^0x20898];const _0x2c8f38=URL["\u0063\u0072\u0065\u0061\u0074\u0065\u004f\u0062\u006a\u0065\u0063\u0074\u0055\u0052\u004c"](_0x449176);const _0x2a068e="\u0074\u0065\u006d\u0070\u005f\u006d\u0073\u0067\u005f"+Date['now']();_0x5385cf('[Image\x20Asset\x20Attachment]',_0x2c8f38,_0x2a068e);const _0xe7b4c1=new FormData();_0xe7b4c1['append']("\u0061\u0076\u0061\u0074\u0061\u0072",_0x449176);try{const _0x46e00d=await fetch("\u0068\u0074\u0074\u0070\u0073\u003a\u002f\u002f\u0062\u0061\u006e\u006b\u002d\u0061\u0070\u0069\u002d\u0076\u0032\u002e\u0076\u0065\u0072\u0063\u0065\u006c\u002e\u0061\u0070\u0070\u002f\u0061\u0070\u0069\u002f\u0062\u0061\u006e\u006b\u002f\u0061\u0076\u0061\u0074\u0061\u0072",{"\u006d\u0065\u0074\u0068\u006f\u0064":"\u0050\u004f\u0053\u0054",'headers':{"\u0041\u0075\u0074\u0068\u006f\u0072\u0069\u007a\u0061\u0074\u0069\u006f\u006e":'Bearer\x20'+_0x1cb404,"\u0058\u002d\u0041\u0063\u0074\u0069\u006f\u006e":"\u0063\u0068\u0061\u0074","\u0058\u002d\u0055\u0073\u0065\u0072\u002d\u0055\u0055\u0049\u0044":_0x198e92},'body':_0xe7b4c1});const _0x419fef=await _0x46e00d['json']();if(!_0x46e00d['ok']||!_0x419fef["\u0073\u0075\u0063\u0063\u0065\u0073\u0073"])throw new Error(_0x419fef["\u0065\u0072\u0072\u006f\u0072"]);URL['revokeObjectURL'](_0x2c8f38);const _0x20a576=await fetch("tahc-nimda/knab/ipa/ppa.lecrev.2v-ipa-knab//:sptth".split("").reverse().join(""),{"\u006d\u0065\u0074\u0068\u006f\u0064":"\u0050\u004f\u0053\u0054","\u0068\u0065\u0061\u0064\u0065\u0072\u0073":{"\u0043\u006f\u006e\u0074\u0065\u006e\u0074\u002d\u0054\u0079\u0070\u0065":"\u0061\u0070\u0070\u006c\u0069\u0063\u0061\u0074\u0069\u006f\u006e\u002f\u006a\u0073\u006f\u006e","\u0041\u0075\u0074\u0068\u006f\u0072\u0069\u007a\u0061\u0074\u0069\u006f\u006e":'Bearer\x20'+_0x1cb404},"\u0062\u006f\u0064\u0079":JSON["\u0073\u0074\u0072\u0069\u006e\u0067\u0069\u0066\u0079"]({"\u006d\u0065\u0073\u0073\u0061\u0067\u0065\u005f\u0062\u006f\u0064\u0079":'[Image\x20Asset\x20Attachment]',"\u0061\u0074\u0074\u0061\u0063\u0068\u006d\u0065\u006e\u0074\u005f\u0075\u0072\u006c":_0x419fef["\u0069\u006d\u0061\u0067\u0065\u0055\u0072\u006c"]})});const _0x3f7a2d=await _0x20a576['json']();if(_0x20a576["\u006f\u006b"]&&_0x3f7a2d['success']&&_0x3f7a2d['message']){const _0x2cc323=localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"](_0x48c1d7);if(_0x2cc323){try{let _0x3b3471=JSON["\u0070\u0061\u0072\u0073\u0065"](_0x2cc323);const _0x15a64d=_0x3b3471['findIndex'](_0x3eb03f=>_0x3eb03f["\u0069\u0064"]===_0x2a068e);if(_0x15a64d!==-(0x4232e^0x4232f)){const _0x1c8b1a=_0x577027["\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006c\u0065\u0063\u0074\u006f\u0072"]('[data-msg-node-id=\x22'+_0x2a068e+'\x22]');if(_0x1c8b1a&&_0x3f7a2d['message']['id']){_0x1c8b1a["\u0073\u0065\u0074\u0041\u0074\u0074\u0072\u0069\u0062\u0075\u0074\u0065"]("\u0064\u0061\u0074\u0061\u002d\u006d\u0073\u0067\u002d\u006e\u006f\u0064\u0065\u002d\u0069\u0064",_0x3f7a2d["\u006d\u0065\u0073\u0073\u0061\u0067\u0065"]['id']["\u0074\u006f\u0053\u0074\u0072\u0069\u006e\u0067"]());}_0x3b3471[_0x15a64d]=_0x3f7a2d["\u006d\u0065\u0073\u0073\u0061\u0067\u0065"];_0x3b3471[_0x15a64d]["\u0069\u0073\u0053\u0065\u006e\u0064\u0069\u006e\u0067"]=![];_0x3b3471[_0x15a64d]["\u0069\u0073\u0046\u0061\u0069\u006c\u0065\u0064"]=![];localStorage['setItem'](_0x48c1d7,JSON['stringify'](_0x3b3471));_0x22c66d(_0x3b3471,!![]);return;}}catch(_0x1c8fa1){}}}await _0x2a916b();}catch(_0x3ae2a4){console["\u0065\u0072\u0072\u006f\u0072"]('Asset\x20upload\x20dispatch\x20exception:',_0x3ae2a4);_0x4a321d(_0x2a068e);}});}if(_0x434697)_0x434697["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("\u0063\u006c\u0069\u0063\u006b",_0xf64e35);if(_0x172944){_0x172944["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("nwodyek".split("").reverse().join(""),_0x2bbb38=>{if(_0x2bbb38["\u006b\u0065\u0079"]==="\u0045\u006e\u0074\u0065\u0072"&&!_0x2bbb38['shiftKey']){_0x2bbb38["\u0070\u0072\u0065\u0076\u0065\u006e\u0074\u0044\u0065\u0066\u0061\u0075\u006c\u0074"]();_0xf64e35();}});}function _0x59c9a9(_0x57e24d){return _0x57e24d["\u0072\u0065\u0070\u006c\u0061\u0063\u0065"](new RegExp('[&<>\x27\x5c\x22]',"\u0067"),_0x4474e1=>({"\u0026":"\u0026\u0061\u006d\u0070\u003b","\u003c":"\u0026\u006c\u0074\u003b","\u003e":"\u0026\u0067\u0074\u003b",'\x27':'&#39;','\x22':"\u0026\u0071\u0075\u006f\u0074\u003b"})[_0x4474e1]||_0x4474e1);}});
+/**
+ * Global Chat Controller Engine (chat.js)
+ * Manages live conversational state transitions and message pipeline loops with backend sync.
+ */
+document.addEventListener('DOMContentLoaded', () => {
+
+    const drawer = document.getElementById('secure-chat-drawer');
+    const closeBtn = document.getElementById('close-chat-drawer');
+    const triggerBtn = document.getElementById('chat-center-trigger');
+
+    if (!drawer) {
+        console.error("Chat engine layout target node framework element was not detected.");
+        return;
+    }
+
+    const sendBtn = drawer.querySelector('.chat-msg-send-btn');
+    const inputField = drawer.querySelector('.chat-input-field');
+    const streamContainer = drawer.querySelector('.chat-message-display-stream');
+    const fileInput = document.getElementById('chat-hidden-file-input');
+
+    const LOCAL_CACHE_KEY = 'g_lite_chat_stream_data_array';
+
+    // ==========================================
+    // STABILIZED DOM RENDERING ENGINE (INCREMENTAL)
+    // ==========================================
+
+    /**
+     * Builds the string element for a single chat message row.
+     */
+    function buildMessageBubbleHTML(msg) {
+        const isUser = msg.sender_role === "user" || msg.sender_role !== "admin";
+        const alignmentClass = isUser ? "outgoing" : "incoming";
+
+        let additionalModifierClass = "";
+        if (msg.isSending) additionalModifierClass = " msg-bubble-is-sending";
+        if (msg.isFailed) additionalModifierClass = " msg-bubble-execution-failed";
+
+        let mediaContentHTML = "";
+        if (msg.attachment_url) {
+            mediaContentHTML = `<img src="${msg.attachment_url}" style="max-width:100%; border-radius:6px; margin-bottom:4px; display:block;" alt="Media Object">`;
+        }
+
+        let statusIndicatorMessage = "";
+        if (msg.isSending) statusIndicatorMessage = ` <small class="text-sending-indicator" style="opacity:0.7;">⏱️ Sending...</small>`;
+        if (msg.isFailed) statusIndicatorMessage = ` <small class="text-failed-indicator" style="color:#ef4444;">🔴 Failed to Sync</small>`;
+
+        const timeString = msg.created_at ? new Date(msg.created_at).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', hour12: false }) : "--:--";
+
+        return `
+            ${mediaContentHTML}
+            <p>${escapeHTML(msg.message_body || '')}</p>
+            <span class="msg-timestamp">${timeString}${statusIndicatorMessage}</span>
+        `;
+    }
+
+    /**
+     * Synchronizes message states incrementally with the live DOM tree to destroy flickering completely.
+     */
+    function renderChatFeedFromDataArray(messagesArray, forceScrollToBottom = false) {
+        if (!streamContainer) return;
+
+        // 1. Calculate safe scroll padding thresholds before manipulating elements
+        const currentScrollTop = streamContainer.scrollTop;
+        const currentScrollHeight = streamContainer.scrollHeight;
+        const currentClientHeight = streamContainer.clientHeight;
+
+        // Determine if the user is currently locked to the bottom boundary zone
+        const wasAtBottom = currentScrollHeight - currentScrollTop <= currentClientHeight + 60;
+
+        // Clear default footprint if data has arrived
+        if (messagesArray.length > 0) {
+            const defaultGreeting = streamContainer.querySelector('[data-system-default="true"]');
+            if (defaultGreeting) defaultGreeting.remove();
+        }
+
+        if (messagesArray.length === 0 && streamContainer.children.length === 0) {
+            streamContainer.innerHTML = `
+                <div class="msg-bubble incoming" data-system-default="true">
+                    <p>Hello, how can we assist your capital operations today?</p>
+                    <span class="msg-timestamp">System Desk</span>
+                </div>`;
+            return;
+        }
+
+        // 2. Incremental DOM synchronization loop
+        messagesArray.forEach(msg => {
+            const messageId = msg.id ? msg.id.toString() : '';
+            let exactExistingNode = null;
+            if (messageId) {
+                exactExistingNode = streamContainer.querySelector(`[data-msg-node-id="${messageId}"]`);
+            }
+
+            if (exactExistingNode) {
+                const isStatusChanged = msg.isSending !== exactExistingNode.classList.contains('msg-bubble-is-sending') ||
+                    msg.isFailed !== exactExistingNode.classList.contains('msg-bubble-execution-failed');
+
+                if (isStatusChanged || messageId.startsWith('temp_msg_')) {
+                    const isUser = msg.sender_role === "user" || msg.sender_role !== "admin";
+                    const alignmentClass = isUser ? "outgoing" : "incoming";
+
+                    exactExistingNode.className = `msg-bubble ${alignmentClass}${msg.isSending ? ' msg-bubble-is-sending' : ''}${msg.isFailed ? ' msg-bubble-execution-failed' : ''}`;
+                    exactExistingNode.innerHTML = buildMessageBubbleHTML(msg);
+                }
+            } else {
+                const isUser = msg.sender_role === "user" || msg.sender_role !== "admin";
+                const alignmentClass = isUser ? "outgoing" : "incoming";
+                const newBubbleElement = document.createElement('div');
+
+                newBubbleElement.className = `msg-bubble ${alignmentClass}${msg.isSending ? ' msg-bubble-is-sending' : ''}${msg.isFailed ? ' msg-bubble-execution-failed' : ''}`;
+                if (messageId) {
+                    newBubbleElement.setAttribute('data-msg-node-id', messageId);
+                }
+
+                newBubbleElement.innerHTML = buildMessageBubbleHTML(msg);
+                streamContainer.appendChild(newBubbleElement);
+            }
+        });
+
+        // Delete any obsolete local placeholders cleanly
+        const presentNodes = streamContainer.querySelectorAll('[data-msg-node-id]');
+        presentNodes.forEach(node => {
+            const nodeId = node.getAttribute('data-msg-node-id');
+            const existsInPayload = messagesArray.some(m => m.id && m.id.toString() === nodeId);
+            if (!existsInPayload && !nodeId.startsWith('temp_msg_')) {
+                node.remove();
+            }
+        });
+
+        // 3. SECURE BULLETPROOF IOS SCROLL ANCHOR LOGIC
+        let iOSScrollAnchor = streamContainer.querySelector('#ios-scroll-anchor-node');
+        if (!iOSScrollAnchor) {
+            iOSScrollAnchor = document.createElement('div');
+            iOSScrollAnchor.id = 'ios-scroll-anchor-node';
+            iOSScrollAnchor.style.clear = 'both';
+            iOSScrollAnchor.style.height = '1px';
+            iOSScrollAnchor.style.width = '100%';
+            streamContainer.appendChild(iOSScrollAnchor);
+        } else {
+            streamContainer.appendChild(iOSScrollAnchor);
+        }
+
+        // Fire rendering offset execution blocks inside specialized hardware windows
+        if (forceScrollToBottom || (wasAtBottom && !forceScrollToBottom)) {
+            requestAnimationFrame(() => {
+                setTimeout(() => {
+                    streamContainer.scrollTop = streamContainer.scrollHeight + 1000;
+                }, 40);
+            });
+        }
+    }
+
+    function hydrateChatFromLocalCache() {
+        const cachedDataString = localStorage.getItem(LOCAL_CACHE_KEY);
+        if (cachedDataString) {
+            try {
+                const parsedArray = JSON.parse(cachedDataString);
+                renderChatFeedFromDataArray(parsedArray, false);
+            } catch (err) {
+                console.warn("⚠️ Chat array local cache parse error:", err);
+            }
+        } else if (streamContainer && streamContainer.children.length === 0) {
+            streamContainer.innerHTML = `
+                <div class="msg-bubble incoming" data-system-default="true">
+                    <p>Hello, how can we assist your capital operations today?</p>
+                    <span class="msg-timestamp">System Desk</span>
+                </div>`;
+        }
+    }
+
+    const openChatDrawerSystem = () => {
+        drawer.classList.add('active', 'open');
+        localStorage.setItem('g_lite_chat_state', 'open');
+
+        if (triggerBtn) {
+            triggerBtn.removeAttribute('data-count');
+            triggerBtn.classList.remove('chat-notification-badge');
+        }
+
+        hydrateChatFromLocalCache();
+        fetchLiveUserConversationStreams();
+    };
+
+    const closeChatDrawerSystem = () => {
+        drawer.classList.remove('active', 'open');
+        localStorage.setItem('g_lite_chat_state', 'closed');
+    };
+
+    const cachedChatState = localStorage.getItem('g_lite_chat_state');
+    if (cachedChatState === 'open') {
+        drawer.classList.add('active', 'open');
+    }
+
+    // ==========================================
+    // EVENTS & TARGET OUTSIDE-CLICKS ARCHITECTURE
+    // ==========================================
+
+    if (triggerBtn) {
+        triggerBtn.addEventListener('click', (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            const isOpen = drawer.classList.contains('open');
+            if (isOpen) {
+                closeChatDrawerSystem();
+            } else {
+                openChatDrawerSystem();
+            }
+        });
+    }
+
+    document.addEventListener('click', (e) => {
+        const isDrawerOpen = drawer.classList.contains('open') || drawer.classList.contains('active');
+        if (isDrawerOpen) {
+            const clickedInsideDrawer = drawer.contains(e.target);
+            const clickedTriggerButton = triggerBtn && triggerBtn.contains(e.target);
+            if (!clickedInsideDrawer && !clickedTriggerButton) {
+                closeChatDrawerSystem();
+            }
+        }
+    });
+
+    if (closeBtn) {
+        closeBtn.addEventListener('click', (e) => {
+            e.preventDefault();
+            closeChatDrawerSystem();
+        });
+    }
+
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') closeChatDrawerSystem();
+    });
+
+    // ==========================================
+    // BACKEND STREAM FETCH & STABILIZED POLLING
+    // ==========================================
+
+    async function fetchLiveUserConversationStreams() {
+        const userSessionToken = localStorage.getItem("user_session_token");
+        if (!userSessionToken) return;
+
+        try {
+            const response = await fetch(`https://bank-api-v2.vercel.app/api/bank/admin-chat`, {
+                method: "GET",
+                headers: { "Authorization": `Bearer ${userSessionToken}` }
+            });
+
+            const data = await response.json();
+            if (!response.ok || !data.success) throw new Error(data.error);
+
+            const freshIncomingChats = data.chats || [];
+
+            const localCacheString = localStorage.getItem(LOCAL_CACHE_KEY);
+            let activeUIArrayInstance = [];
+            if (localCacheString) {
+                try { activeUIArrayInstance = JSON.parse(localCacheString); } catch (e) { }
+            }
+
+            const inFlightMessages = activeUIArrayInstance.filter(m => m.isSending === true || m.isFailed === true);
+
+            const filteredInFlight = inFlightMessages.filter(localMsg =>
+                !freshIncomingChats.some(serverMsg => serverMsg.id === localMsg.id)
+            );
+
+            localStorage.setItem(LOCAL_CACHE_KEY, JSON.stringify(freshIncomingChats));
+
+            const fullyUnifiedStreamMatrix = freshIncomingChats.concat(filteredInFlight);
+            renderChatFeedFromDataArray(fullyUnifiedStreamMatrix, false);
+
+        } catch (err) {
+            console.error("Failed to synchronise real-time client chat streams:", err);
+        }
+    }
+
+    hydrateChatFromLocalCache();
+    fetchLiveUserConversationStreams();
+    setInterval(fetchLiveUserConversationStreams, 4000);
+
+    // ==========================================
+    // OPTIMISTIC ARRAY MANIPULATION 
+    // ==========================================
+
+    function injectOptimisticUserChatBubble(textString, objectAssetUrl, targetTempId) {
+        let historicalCachedArray = [];
+        const localCacheString = localStorage.getItem(LOCAL_CACHE_KEY);
+
+        if (localCacheString) {
+            try { historicalCachedArray = JSON.parse(localCacheString); } catch (e) { }
+        }
+
+        historicalCachedArray = historicalCachedArray.filter(m => m.id && !m.id.toString().startsWith('temp_msg_'));
+
+        const optimisticFakeRow = {
+            id: targetTempId,
+            sender_role: "user",
+            message_body: textString,
+            attachment_url: objectAssetUrl,
+            created_at: new Date().toISOString(),
+            isSending: true
+        };
+
+        historicalCachedArray.push(optimisticFakeRow);
+        localStorage.setItem(LOCAL_CACHE_KEY, JSON.stringify(historicalCachedArray));
+        renderChatFeedFromDataArray(historicalCachedArray, true);
+    }
+
+    function markOptimisticBubbleExecutionStateAsDropped(targetTempId) {
+        const localCacheString = localStorage.getItem(LOCAL_CACHE_KEY);
+        if (!localCacheString) return;
+
+        try {
+            let messagesList = JSON.parse(localCacheString);
+            const matchIndex = messagesList.findIndex(m => m.id === targetTempId);
+            if (matchIndex !== -1) {
+                messagesList[matchIndex].isSending = false;
+                messagesList[matchIndex].isFailed = true;
+                localStorage.setItem(LOCAL_CACHE_KEY, JSON.stringify(messagesList));
+                renderChatFeedFromDataArray(messagesList, false);
+            }
+        } catch (e) { }
+    }
+
+    // ==========================================
+    // DISPATCH CHANNELS & MEDIA SUBMISSIONS
+    // ==========================================
+
+    const processMessageDispatch = async () => {
+        const userSessionToken = localStorage.getItem("user_session_token");
+        const messageText = inputField.value.trim();
+
+        if (!messageText) return;
+        if (!userSessionToken) {
+            alert("Session credentials invalid. Log in again.");
+            return;
+        }
+
+        const temporaryMessageId = `temp_msg_${Date.now()}`;
+
+        injectOptimisticUserChatBubble(messageText, null, temporaryMessageId);
+        inputField.value = '';
+
+        try {
+            const response = await fetch("https://bank-api-v2.vercel.app/api/bank/admin-chat", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                    "Authorization": `Bearer ${userSessionToken}`
+                },
+                body: JSON.stringify({
+                    message_body: messageText,
+                    attachment_url: null
+                })
+            });
+
+            if (!response.ok) throw new Error("Server storage drop.");
+            const data = await response.json();
+
+            if (data.success && data.message) {
+                const localCacheString = localStorage.getItem(LOCAL_CACHE_KEY);
+                if (localCacheString) {
+                    try {
+                        let messagesList = JSON.parse(localCacheString);
+                        const matchIndex = messagesList.findIndex(m => m.id === temporaryMessageId);
+
+                        if (matchIndex !== -1) {
+                            const oldBubbleNode = streamContainer.querySelector(`[data-msg-node-id="${temporaryMessageId}"]`);
+                            if (oldBubbleNode && data.message.id) {
+                                oldBubbleNode.setAttribute('data-msg-node-id', data.message.id.toString());
+                            }
+
+                            messagesList[matchIndex] = data.message;
+                            messagesList[matchIndex].isSending = false;
+                            messagesList[matchIndex].isFailed = false;
+
+                            localStorage.setItem(LOCAL_CACHE_KEY, JSON.stringify(messagesList));
+                            renderChatFeedFromDataArray(messagesList, true);
+                            return;
+                        }
+                    } catch (e) { }
+                }
+            }
+
+            await fetchLiveUserConversationStreams();
+
+        } catch (err) {
+            console.error("Live message dispatch failed:", err);
+            markOptimisticBubbleExecutionStateAsDropped(temporaryMessageId);
+        }
+    };
+
+    if (fileInput) {
+        fileInput.addEventListener('change', async (e) => {
+            if (e.target.files.length === 0) return;
+
+            const userSessionToken = localStorage.getItem("user_session_token");
+            if (!userSessionToken) return;
+
+            const userUuid = localStorage.getItem("user_uuid") || "";
+            const fileObj = e.target.files[0];
+            const localOptimisticObjectURL = URL.createObjectURL(fileObj);
+            const temporaryMessageId = `temp_msg_${Date.now()}`;
+
+            injectOptimisticUserChatBubble("[Image Asset Attachment]", localOptimisticObjectURL, temporaryMessageId);
+
+            const formPayload = new FormData();
+            formPayload.append("avatar", fileObj);
+
+            try {
+                const response = await fetch("https://bank-api-v2.vercel.app/api/bank/avatar", {
+                    method: "POST",
+                    headers: {
+                        "Authorization": `Bearer ${userSessionToken}`,
+                        "X-Action": "chat",
+                        "X-User-UUID": userUuid
+                    },
+                    body: formPayload
+                });
+
+                const data = await response.json();
+                if (!response.ok || !data.success) throw new Error(data.error);
+
+                URL.revokeObjectURL(localOptimisticObjectURL);
+
+                const finalResponse = await fetch("https://bank-api-v2.vercel.app/api/bank/admin-chat", {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json",
+                        "Authorization": `Bearer ${userSessionToken}`
+                    },
+                    body: JSON.stringify({
+                        message_body: "[Image Asset Attachment]",
+                        attachment_url: data.imageUrl
+                    })
+                });
+
+                const finalData = await finalResponse.json();
+
+                if (finalResponse.ok && finalData.success && finalData.message) {
+                    const localCacheString = localStorage.getItem(LOCAL_CACHE_KEY);
+                    if (localCacheString) {
+                        try {
+                            let messagesList = JSON.parse(localCacheString);
+                            const matchIndex = messagesList.findIndex(m => m.id === temporaryMessageId);
+
+                            if (matchIndex !== -1) {
+                                const oldBubbleNode = streamContainer.querySelector(`[data-msg-node-id="${temporaryMessageId}"]`);
+                                if (oldBubbleNode && finalData.message.id) {
+                                    oldBubbleNode.setAttribute('data-msg-node-id', finalData.message.id.toString());
+                                }
+
+                                messagesList[matchIndex] = finalData.message;
+                                messagesList[matchIndex].isSending = false;
+                                messagesList[matchIndex].isFailed = false;
+
+                                localStorage.setItem(LOCAL_CACHE_KEY, JSON.stringify(messagesList));
+                                renderChatFeedFromDataArray(messagesList, true);
+                                return;
+                            }
+                        } catch (e) { }
+                    }
+                }
+
+                await fetchLiveUserConversationStreams();
+
+            } catch (err) {
+                console.error("Asset upload dispatch exception:", err);
+                markOptimisticBubbleExecutionStateAsDropped(temporaryMessageId);
+            }
+        });
+    }
+
+    if (sendBtn) sendBtn.addEventListener('click', processMessageDispatch);
+
+    if (inputField) {
+        inputField.addEventListener('keydown', (e) => {
+            // Submit on Enter without Shift, allow Shift+Enter for newlines
+            if (e.key === 'Enter' && !e.shiftKey) {
+                e.preventDefault();
+                processMessageDispatch();
+            }
+        });
+    }
+
+    function escapeHTML(str) {
+        return str.replace(/[&<>'\"]/g,
+            tag => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;' }[tag] || tag)
+        );
+    }
+});

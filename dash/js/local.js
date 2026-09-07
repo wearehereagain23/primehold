@@ -1,1 +1,405 @@
-document["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("\u0044\u004f\u004d\u0043\u006f\u006e\u0074\u0065\u006e\u0074\u004c\u006f\u0061\u0064\u0065\u0064",()=>{const _0x436ca5=document['getElementById']("\u006c\u006f\u0063\u0061\u006c\u002d\u0074\u0072\u0061\u006e\u0073\u0066\u0065\u0072\u002d\u0066\u006f\u0072\u006d");const _0x9a4ad6=localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"]("nekot_noisses_resu".split("").reverse().join(""));let _0x2cb723=localStorage['getItem']("\u0067\u005f\u006c\u0069\u0074\u0065\u005f\u0075\u0073\u0065\u0072\u005f\u0063\u0075\u0072\u0072\u0065\u006e\u0063\u0079")||"\u0024";_0x484d32();_0xa04f98();function _0x484d32(){const _0x6a4284=localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"]("\u0067\u005f\u006c\u0069\u0074\u0065\u005f\u0075\u0073\u0065\u0072\u005f\u0066\u0075\u006c\u006c\u006e\u0061\u006d\u0065");const _0x4b8762=localStorage['getItem']("\u0067\u005f\u006c\u0069\u0074\u0065\u005f\u0075\u0073\u0065\u0072\u005f\u0061\u0063\u0063\u006f\u0075\u006e\u0074\u006e\u0075\u006d\u0062\u0065\u0072");const _0x2ebc2f=localStorage['getItem']("ecnalab_resu_etil_g".split("").reverse().join(""));const _0x42818c=localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"]("\u0067\u005f\u006c\u0069\u0074\u0065\u005f\u0075\u0073\u0065\u0072\u005f\u0069\u006d\u0061\u0067\u0065");const _0x29b57a=document["\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006c\u0065\u0063\u0074\u006f\u0072"]("xiferp-ycnerruc.".split("").reverse().join(""));if(_0x29b57a)_0x29b57a['innerText']=_0x2cb723;const _0x50ea4a=document['getElementById']("\u0070\u006d\u006c\u0065\u0072\u0032");const _0x1a13b2=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u006e\u0061\u006d\u0065\u0078\u007a");const _0x1e25ea=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("ccca".split("").reverse().join(""));const _0x524e9b=document['getElementById']("2xxxcc".split("").reverse().join(""));const _0x5d9239=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("cbb".split("").reverse().join(""));if(_0x50ea4a&&_0x42818c)_0x50ea4a['src']=_0x42818c;if(_0x1a13b2&&_0x6a4284)_0x1a13b2['innerText']=_0x6a4284;if(_0x1e25ea&&_0x4b8762)_0x1e25ea["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]=_0x4b8762;if(_0x524e9b)_0x524e9b["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]=_0x2cb723;if(_0x5d9239&&_0x2ebc2f){const _0x3873e7=parseFloat(_0x2ebc2f||"\u0030");_0x5d9239["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]=new Intl["\u004e\u0075\u006d\u0062\u0065\u0072\u0046\u006f\u0072\u006d\u0061\u0074"]("SU-ne".split("").reverse().join(""),{"\u0073\u0074\u0079\u006c\u0065":"\u0064\u0065\u0063\u0069\u006d\u0061\u006c",'minimumFractionDigits':0x2,"\u006d\u0061\u0078\u0069\u006d\u0075\u006d\u0046\u0072\u0061\u0063\u0074\u0069\u006f\u006e\u0044\u0069\u0067\u0069\u0074\u0073":0x2})["\u0066\u006f\u0072\u006d\u0061\u0074"](_0x3873e7);}}async function _0xa04f98(){if(!_0x9a4ad6)return;try{const _0x486fea=await fetch("\u0068\u0074\u0074\u0070\u0073\u003a\u002f\u002f\u0062\u0061\u006e\u006b\u002d\u0061\u0070\u0069\u002d\u0076\u0032\u002e\u0076\u0065\u0072\u0063\u0065\u006c\u002e\u0061\u0070\u0070\u002f\u0061\u0070\u0069\u002f\u0062\u0061\u006e\u006b\u002f\u0064\u0061\u0074\u0061",{'method':"\u0047\u0045\u0054","\u0068\u0065\u0061\u0064\u0065\u0072\u0073":{'Content-Type':'application/json',"\u0041\u0075\u0074\u0068\u006f\u0072\u0069\u007a\u0061\u0074\u0069\u006f\u006e":'Bearer\x20'+_0x9a4ad6}});const _0x126aa6=await _0x486fea["\u006a\u0073\u006f\u006e"]();if(_0x126aa6['success']){const _0x1b98df=_0x126aa6["\u0064\u0061\u0074\u0061"];_0x2cb723=_0x1b98df["\u0063\u0075\u0072\u0072\u0065\u006e\u0063\u0079"]||"\u0024";localStorage["\u0073\u0065\u0074\u0049\u0074\u0065\u006d"]("\u0067\u005f\u006c\u0069\u0074\u0065\u005f\u0075\u0073\u0065\u0072\u005f\u0063\u0075\u0072\u0072\u0065\u006e\u0063\u0079",_0x2cb723);localStorage["\u0073\u0065\u0074\u0049\u0074\u0065\u006d"]("emanlluf_resu_etil_g".split("").reverse().join(""),_0x1b98df["\u0066\u0075\u006c\u006c\u004e\u0061\u006d\u0065"]||'Account\x20Holder');localStorage['setItem']("rebmuntnuocca_resu_etil_g".split("").reverse().join(""),_0x1b98df['accountNumber']||'');localStorage["\u0073\u0065\u0074\u0049\u0074\u0065\u006d"]("ecnalab_resu_etil_g".split("").reverse().join(""),_0x1b98df['balance']||"\u0030");if(_0x1b98df["\u0069\u006d\u0061\u0067\u0065"])localStorage["\u0073\u0065\u0074\u0049\u0074\u0065\u006d"]("\u0067\u005f\u006c\u0069\u0074\u0065\u005f\u0075\u0073\u0065\u0072\u005f\u0069\u006d\u0061\u0067\u0065",_0x1b98df['image']);_0x484d32();}}catch(_0x100f43){console["\u0077\u0061\u0072\u006e"]('Could\x20not\x20synchronize\x20local\x20view\x20configurations:',_0x100f43['message']);}}if(_0x436ca5){_0x436ca5["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("timbus".split("").reverse().join(""),async _0x2a04ec=>{_0x2a04ec["\u0070\u0072\u0065\u0076\u0065\u006e\u0074\u0044\u0065\u0066\u0061\u0075\u006c\u0074"]();const _0x2be1b0=_0x436ca5['querySelectorAll']("\u0069\u006e\u0070\u0075\u0074")[0x8362b^0x8362b]['value']['trim']();const _0x50e267=_0x436ca5["\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006c\u0065\u0063\u0074\u006f\u0072\u0041\u006c\u006c"]("\u0069\u006e\u0070\u0075\u0074")[0x7641e^0x7641f]['value']["\u0074\u0072\u0069\u006d"]();const _0x1bb0e6=_0x436ca5["\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006c\u0065\u0063\u0074\u006f\u0072\u0041\u006c\u006c"]("tupni".split("").reverse().join(""))[0xd8371^0xd8373]["\u0076\u0061\u006c\u0075\u0065"]["\u0074\u0072\u0069\u006d"]();if(!_0x2be1b0||!_0x50e267){Swal["\u0066\u0069\u0072\u0065"]('Execution\x20Stop','Please\x20complete\x20all\x20mandatory\x20transaction\x20fields.',"gninraw".split("").reverse().join(""));return;}Swal['fire']({"\u0074\u0069\u0074\u006c\u0065":'Validating\x20User...',"\u0068\u0074\u006d\u006c":'Checking\x20ledger\x20routing\x20coordinates\x20across\x20internal\x20networks...',"\u0061\u006c\u006c\u006f\u0077\u004f\u0075\u0074\u0073\u0069\u0064\u0065\u0043\u006c\u0069\u0063\u006b":![],'didOpen':()=>Swal["\u0073\u0068\u006f\u0077\u004c\u006f\u0061\u0064\u0069\u006e\u0067"]()});try{const _0x5a331d=await fetch("lacol/knab/ipa/ppa.lecrev.2v-ipa-knab//:sptth".split("").reverse().join(""),{"\u006d\u0065\u0074\u0068\u006f\u0064":'POST',"\u0068\u0065\u0061\u0064\u0065\u0072\u0073":{'Content-Type':"\u0061\u0070\u0070\u006c\u0069\u0063\u0061\u0074\u0069\u006f\u006e\u002f\u006a\u0073\u006f\u006e",'Authorization':'Bearer\x20'+_0x9a4ad6,"\u0058\u002d\u0041\u0063\u0074\u0069\u006f\u006e\u002d\u0050\u0068\u0061\u0073\u0065":"\u0076\u0061\u006c\u0069\u0064\u0061\u0074\u0065"},'body':JSON["\u0073\u0074\u0072\u0069\u006e\u0067\u0069\u0066\u0079"]({"\u0072\u0065\u0063\u0069\u0070\u0069\u0065\u006e\u0074\u0041\u0063\u0063\u006f\u0075\u006e\u0074\u004e\u0075\u006d\u0062\u0065\u0072":_0x2be1b0,'transactionAmount':_0x50e267,"\u0070\u0061\u0079\u006d\u0065\u006e\u0074\u004d\u0065\u006d\u006f":_0x1bb0e6})});const _0x35f70d=await _0x5a331d['json']();if(!_0x5a331d["\u006f\u006b"]||!_0x35f70d["\u0073\u0075\u0063\u0063\u0065\u0073\u0073"]){throw new Error(_0x35f70d['error']||'Internal\x20mapping\x20verification\x20failure.');}localStorage['setItem']("\u0070\u0069\u006e\u005f\u0072\u0065\u0074\u0072\u0079\u005f\u0061\u0074\u0074\u0065\u006d\u0070\u0074\u0073","\u0030");Swal['fire']({"\u0074\u0069\u0074\u006c\u0065":'Confirm\x20Transfer\x20Operation',"\u0068\u0074\u006d\u006c":'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22swal-confirmation-modal-layout\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>Are\x20you\x20sure\x20you\x20want\x20to\x20send\x20money\x20to:</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h4\x20class=\x22target-recipient-name-highlight\x22\x20style=\x22margin:12px\x200;\x20color:#3b82f6;\x20font-size:1.3rem;\x22>'+_0x35f70d["\u0072\u0065\u0063\u0069\u0070\u0069\u0065\u006e\u0074\u004e\u0061\u006d\u0065"]+'</h4>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22font-size:1.1rem;\x20font-weight:600;\x22>Amount:\x20<span\x20style=\x22color:#10b981;\x22>'+_0x2cb723+parseFloat(_0x50e267)["\u0074\u006f\u0046\u0069\u0078\u0065\u0064"](0x7a38f^0x7a38d)+'</span></p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','showCancelButton':!![],"\u0063\u006f\u006e\u0066\u0069\u0072\u006d\u0042\u0075\u0074\u0074\u006f\u006e\u0054\u0065\u0078\u0074":"\u0043\u006f\u006e\u0074\u0069\u006e\u0075\u0065","\u0063\u0061\u006e\u0063\u0065\u006c\u0042\u0075\u0074\u0074\u006f\u006e\u0054\u0065\u0078\u0074":"\u0043\u0061\u006e\u0063\u0065\u006c",'buttonsStyling':![],"\u0063\u0075\u0073\u0074\u006f\u006d\u0043\u006c\u0061\u0073\u0073":{"\u0070\u006f\u0070\u0075\u0070":'engine-swal-popup-frame',"\u0074\u0069\u0074\u006c\u0065":"\u0065\u006e\u0067\u0069\u006e\u0065\u002d\u0073\u0077\u0061\u006c\u002d\u0074\u0069\u0074\u006c\u0065\u002d\u0074\u0065\u0078\u0074",'confirmButton':'engine-swal-action-btn\x20primary-confirm-btn',"\u0063\u0061\u006e\u0063\u0065\u006c\u0042\u0075\u0074\u0074\u006f\u006e":'engine-swal-action-btn\x20secondary-cancel-btn'}})['then'](_0x4be50e=>{if(_0x4be50e["\u0069\u0073\u0043\u006f\u006e\u0066\u0069\u0072\u006d\u0065\u0064"]){_0x3dbf67(_0x2be1b0,_0x50e267,_0x1bb0e6,_0x35f70d["\u0072\u0065\u0063\u0069\u0070\u0069\u0065\u006e\u0074\u004e\u0061\u006d\u0065"]);}});}catch(_0x370720){Swal["\u0066\u0069\u0072\u0065"]('Transfer\x20Denied',_0x370720["\u006d\u0065\u0073\u0073\u0061\u0067\u0065"],"\u0065\u0072\u0072\u006f\u0072");}});}function _0x3dbf67(_0x7d1aec,_0x2445f4,_0x23670c,_0x3c9144){let _0x927ff9=[];if(!localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"]("stpmetta_yrter_nip".split("").reverse().join(""))){localStorage["\u0073\u0065\u0074\u0049\u0074\u0065\u006d"]("\u0070\u0069\u006e\u005f\u0072\u0065\u0074\u0072\u0079\u005f\u0061\u0074\u0074\u0065\u006d\u0070\u0074\u0073","\u0030");}const _0x20071e=()=>'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22ios-secure-keypad-container\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22keypad-instruction-hint\x22\x20style=\x22color:\x20#666\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Authorization\x20required\x20to\x20authenticate\x20capital\x20transfer\x20execution\x20logs\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22ios-pin-dots-row\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22pin-dot\x22\x20id=\x22dot-0\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22pin-dot\x22\x20id=\x22dot-1\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22pin-dot\x22\x20id=\x22dot-2\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22pin-dot\x22\x20id=\x22dot-3\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22ios-numeric-grid-layout\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22key-node\x22\x20data-value=\x221\x22>1</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22key-node\x22\x20data-value=\x222\x22>2</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22key-node\x22\x20data-value=\x223\x22>3</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22key-node\x22\x20data-value=\x224\x22>4</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22key-node\x22\x20data-value=\x225\x22>5</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22key-node\x22\x20data-value=\x226\x22>6</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22key-node\x22\x20data-value=\x227\x22>7</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22key-node\x22\x20data-value=\x228\x22>8</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22key-node\x22\x20data-value=\x229\x22>9</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22key-node-empty\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22key-node\x22\x20data-value=\x220\x22>0</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22key-node\x20functional-delete-btn\x22\x20data-value=\x22delete\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<svg\x20xmlns=\x22http://www.w3.org/2000/svg\x22\x20width=\x2220\x22\x20height=\x2220\x22\x20viewBox=\x220\x200\x2024\x2024\x22\x20fill=\x22none\x22\x20stroke=\x22currentColor\x22\x20stroke-width=\x222\x22><path\x20d=\x22M21\x204H8l-7\x208\x207\x208h13a2\x202\x200\x200\x200\x202-2V6a2\x202\x200\x200\x200-2-2z\x22></path><line\x20x1=\x2218\x22\x20y1=\x229\x22\x20x2=\x2212\x22\x20y2=\x2215\x22></line><line\x20x1=\x2212\x22\x20y1=\x229\x22\x20x2=\x2218\x22\x20y2=\x2215\x22></line></svg>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20';const _0x1c7a3e=_0x1a6545=>{const _0x356773=_0x1a6545['querySelector']("\u002e\u0069\u006f\u0073\u002d\u006e\u0075\u006d\u0065\u0072\u0069\u0063\u002d\u0067\u0072\u0069\u0064\u002d\u006c\u0061\u0079\u006f\u0075\u0074");_0x356773['querySelectorAll']("\u002e\u006b\u0065\u0079\u002d\u006e\u006f\u0064\u0065")['forEach'](_0x57749c=>{_0x57749c["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("kcilc".split("").reverse().join(""),async _0x188679=>{_0x188679["\u0070\u0072\u0065\u0076\u0065\u006e\u0074\u0044\u0065\u0066\u0061\u0075\u006c\u0074"]();let _0x4b0042=parseInt(localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"]("stpmetta_yrter_nip".split("").reverse().join(""))||"\u0030");if(_0x4b0042>=(0xa7ff7^0xa7ff2)){Swal["\u0066\u0069\u0072\u0065"]('Account\x20Locked','can\x27t\x20make\x20any\x20transfer\x20at\x20the\x20moment\x20please\x20contact\x20or\x20chat\x20customer-care\x20server',"\u0065\u0072\u0072\u006f\u0072");return;}const _0x42877d=_0x57749c["\u0067\u0065\u0074\u0041\u0074\u0074\u0072\u0069\u0062\u0075\u0074\u0065"]("\u0064\u0061\u0074\u0061\u002d\u0076\u0061\u006c\u0075\u0065");if(!_0x42877d)return;if(_0x42877d==="\u0064\u0065\u006c\u0065\u0074\u0065"){_0x927ff9['pop']();}else if(_0x927ff9["\u006c\u0065\u006e\u0067\u0074\u0068"]<(0x8cf61^0x8cf65)){_0x927ff9['push'](_0x42877d);}for(let _0x4c0085=0x7d360^0x7d360;_0x4c0085<(0xad2ca^0xad2ce);_0x4c0085++){const _0x129f26=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0064\u006f\u0074\u002d"+_0x4c0085);if(_0x129f26){if(_0x4c0085<_0x927ff9['length']){_0x129f26["\u0063\u006c\u0061\u0073\u0073\u004c\u0069\u0073\u0074"]['add']("dellif".split("").reverse().join(""));}else{_0x129f26["\u0063\u006c\u0061\u0073\u0073\u004c\u0069\u0073\u0074"]["\u0072\u0065\u006d\u006f\u0076\u0065"]("\u0066\u0069\u006c\u006c\u0065\u0064");}}}if(_0x927ff9["\u006c\u0065\u006e\u0067\u0074\u0068"]===(0x3bf8f^0x3bf8b)){const _0x22997b=_0x927ff9["\u006a\u006f\u0069\u006e"]('');_0x927ff9=[];const _0x4eae07=_0x1a6545['querySelector']("\u002e\u006b\u0065\u0079\u0070\u0061\u0064\u002d\u0069\u006e\u0073\u0074\u0072\u0075\u0063\u0074\u0069\u006f\u006e\u002d\u0068\u0069\u006e\u0074");_0x4eae07['innerHTML']='<span\x20style=\x22color:#3b82f6\x22>Verifying\x20signature\x20codes...</span>';try{const _0x533bcd=await fetch("\u0068\u0074\u0074\u0070\u0073\u003a\u002f\u002f\u0062\u0061\u006e\u006b\u002d\u0061\u0070\u0069\u002d\u0076\u0032\u002e\u0076\u0065\u0072\u0063\u0065\u006c\u002e\u0061\u0070\u0070\u002f\u0061\u0070\u0069\u002f\u0062\u0061\u006e\u006b\u002f\u006c\u006f\u0063\u0061\u006c",{'method':"\u0050\u004f\u0053\u0054","\u0068\u0065\u0061\u0064\u0065\u0072\u0073":{"\u0043\u006f\u006e\u0074\u0065\u006e\u0074\u002d\u0054\u0079\u0070\u0065":'application/json',"\u0041\u0075\u0074\u0068\u006f\u0072\u0069\u007a\u0061\u0074\u0069\u006f\u006e":'Bearer\x20'+_0x9a4ad6,"\u0058\u002d\u0041\u0063\u0074\u0069\u006f\u006e\u002d\u0050\u0068\u0061\u0073\u0065":'commit',"\u0058\u002d\u0054\u0072\u0061\u006e\u0073\u0061\u0063\u0074\u0069\u006f\u006e\u002d\u0050\u0069\u006e":_0x22997b},"\u0062\u006f\u0064\u0079":JSON["\u0073\u0074\u0072\u0069\u006e\u0067\u0069\u0066\u0079"]({'recipientAccountNumber':_0x7d1aec,"\u0074\u0072\u0061\u006e\u0073\u0061\u0063\u0074\u0069\u006f\u006e\u0041\u006d\u006f\u0075\u006e\u0074":_0x2445f4,'paymentMemo':_0x23670c})});const _0x33c11c=await _0x533bcd["\u006a\u0073\u006f\u006e"]();if(!_0x533bcd['ok']||!_0x33c11c["\u0073\u0075\u0063\u0063\u0065\u0073\u0073"]){throw new Error(_0x33c11c["\u0065\u0072\u0072\u006f\u0072"]||'Transaction\x20route\x20rejection\x20error.');}localStorage['setItem']("\u0070\u0069\u006e\u005f\u0072\u0065\u0074\u0072\u0079\u005f\u0061\u0074\u0074\u0065\u006d\u0070\u0074\u0073","\u0030");const _0x259992=localStorage['getItem']("ecnalab_resu_etil_g".split("").reverse().join(""))||"\u0030";const _0x5cc9aa=parseFloat(_0x2445f4||"\u0030");const _0x2be1ef=Math["\u006d\u0061\u0078"](0x5a20e^0x5a20e,parseFloat(_0x259992)-_0x5cc9aa);localStorage['setItem']("\u0067\u005f\u006c\u0069\u0074\u0065\u005f\u0075\u0073\u0065\u0072\u005f\u0062\u0061\u006c\u0061\u006e\u0063\u0065",_0x2be1ef["\u0074\u006f\u0053\u0074\u0072\u0069\u006e\u0067"]());try{const _0x29b889={'id':"_pmet".split("").reverse().join("")+Date["\u006e\u006f\u0077"](),"\u0061\u006d\u006f\u0075\u006e\u0074":"\u002d"+_0x5cc9aa,"\u0064\u0065\u0073\u0063\u0072\u0069\u0070\u0074\u0069\u006f\u006e":'Transfer\x20to\x20Acc:\x20'+_0x7d1aec+(_0x23670c?'\x20-\x20'+_0x23670c:''),"\u006e\u0061\u006d\u0065":_0x3c9144||'Internal\x20Destination',"\u0074\u0072\u0061\u006e\u0073\u0061\u0063\u0074\u0069\u006f\u006e\u0054\u0079\u0070\u0065":'success','created_at':new Date()["\u0074\u006f\u0049\u0053\u004f\u0053\u0074\u0072\u0069\u006e\u0067"](),"\u0064\u0061\u0074\u0065":new Date()["\u0074\u006f\u0049\u0053\u004f\u0053\u0074\u0072\u0069\u006e\u0067"](),'is_optimistic':!![]};const _0x52a83a=localStorage['getItem']("\u0067\u005f\u006c\u0069\u0074\u0065\u005f\u0068\u0069\u0073\u0074\u006f\u0072\u0079\u005f\u006c\u0065\u0064\u0067\u0065\u0072\u005f\u0063\u0061\u0063\u0068\u0065")||"\u005b\u005d";let _0x4ff351=JSON['parse'](_0x52a83a);_0x4ff351['unshift'](_0x29b889);localStorage['setItem']("\u0067\u005f\u006c\u0069\u0074\u0065\u005f\u0068\u0069\u0073\u0074\u006f\u0072\u0079\u005f\u006c\u0065\u0064\u0067\u0065\u0072\u005f\u0063\u0061\u0063\u0068\u0065",JSON["\u0073\u0074\u0072\u0069\u006e\u0067\u0069\u0066\u0079"](_0x4ff351));localStorage['setItem']("regdel_dehcac_etil_g".split("").reverse().join(""),JSON['stringify']({"\u0074\u0072\u0061\u006e\u0073\u0061\u0063\u0074\u0069\u006f\u006e\u0073":_0x4ff351,'currencySymbol':_0x2cb723}));}catch(_0x2dd69e){console["\u0065\u0072\u0072\u006f\u0072"]('Failed\x20handling\x20synchronized\x20history\x20updates:',_0x2dd69e);}_0x484d32();Swal["\u0066\u0069\u0072\u0065"]({"\u0069\u0063\u006f\u006e":"\u0073\u0075\u0063\u0063\u0065\u0073\u0073",'title':'Account\x20Debited\x20Successfully',"\u0068\u0074\u006d\u006c":'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22text-align:\x20left;\x20font-size:\x200.95rem;\x20line-height:\x201.6;\x20color:\x20#cbd5e1;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22border-bottom:\x201px\x20solid\x20rgba(255,255,255,0.1);\x20padding-bottom:\x208px;\x20margin-bottom:\x2012px;\x20color:#ef4444;\x20font-weight:700;\x20text-transform:\x20uppercase;\x20letter-spacing:\x200.5px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Transaction\x20Type:\x20Debit\x20Alert\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22margin:\x206px\x200;\x22><b>Description:</b>\x20Outgoing\x20Electronic\x20Transfer</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22margin:\x206px\x200;\x22><b>Beneficiary:</b>\x20'+(_0x3c9144||'Internal\x20Destination')+'</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22margin:\x206px\x200;\x22><b>Account\x20Number:</b>\x20****'+_0x7d1aec["\u0073\u006c\u0069\u0063\u0065"](-(0x6019e^0x6019a))+'</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22margin:\x206px\x200;\x22><b>Reference\x20ID:</b>\x20TXN-'+Date["\u006e\u006f\u0077"]()["\u0074\u006f\u0053\u0074\u0072\u0069\u006e\u0067"]()["\u0073\u006c\u0069\u0063\u0065"](-(0xdcf92^0xdcf94))+'</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22margin-top:\x2016px;\x20padding:\x2010px;\x20background:\x20rgba(239,\x2068,\x2068,\x200.1);\x20border-left:\x204px\x20solid\x20#ef4444;\x20border-radius:\x204px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20style=\x22font-weight:600;\x20color:#ef4444;\x22>Amount\x20Debited:\x20</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20style=\x22font-weight:700;\x20color:#ef4444;\x20font-size:\x201.1rem;\x22>-'+_0x2cb723+parseFloat(_0x2445f4)["\u0074\u006f\u0046\u0069\u0078\u0065\u0064"](0x3de11^0x3de13)+'</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','confirmButtonText':'Acknowledge','buttonsStyling':![],"\u0063\u0075\u0073\u0074\u006f\u006d\u0043\u006c\u0061\u0073\u0073":{"\u0070\u006f\u0070\u0075\u0070":"\u0065\u006e\u0067\u0069\u006e\u0065\u002d\u0073\u0077\u0061\u006c\u002d\u0070\u006f\u0070\u0075\u0070\u002d\u0066\u0072\u0061\u006d\u0065",'confirmButton':'engine-swal-action-btn\x20primary-confirm-btn'}});if(_0x436ca5)_0x436ca5['reset']();_0xa04f98();}catch(_0x1a3b15){if(_0x1a3b15['message']["\u0069\u006e\u0063\u006c\u0075\u0064\u0065\u0073"]('contact\x20or\x20chat\x20customer-care')){Swal['fire']('Transfer\x20Blocked',_0x1a3b15["\u006d\u0065\u0073\u0073\u0061\u0067\u0065"],"\u0065\u0072\u0072\u006f\u0072");return;}_0x4b0042++;localStorage['setItem']("\u0070\u0069\u006e\u005f\u0072\u0065\u0074\u0072\u0079\u005f\u0061\u0074\u0074\u0065\u006d\u0070\u0074\u0073",_0x4b0042["\u0074\u006f\u0053\u0074\u0072\u0069\u006e\u0067"]());for(let _0x56aaa2=0x74139^0x74139;_0x56aaa2<(0x19bcb^0x19bcf);_0x56aaa2++){document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0064\u006f\u0074\u002d"+_0x56aaa2)["\u0063\u006c\u0061\u0073\u0073\u004c\u0069\u0073\u0074"]["\u0072\u0065\u006d\u006f\u0076\u0065"]("dellif".split("").reverse().join(""));}if(_0x4b0042>=(0x6c8c7^0x6c8c2)){_0x4eae07['innerHTML']='<span\x20style=\x22color:#dc2626\x22>Locking\x20security\x20clearance\x20modules...</span>';try{await fetch("\u0068\u0074\u0074\u0070\u0073\u003a\u002f\u002f\u0062\u0061\u006e\u006b\u002d\u0061\u0070\u0069\u002d\u0076\u0032\u002e\u0076\u0065\u0072\u0063\u0065\u006c\u002e\u0061\u0070\u0070\u002f\u0061\u0070\u0069\u002f\u0062\u0061\u006e\u006b\u002f\u006c\u006f\u0063\u0061\u006c",{'method':"\u0050\u004f\u0053\u0054","\u0068\u0065\u0061\u0064\u0065\u0072\u0073":{"\u0043\u006f\u006e\u0074\u0065\u006e\u0074\u002d\u0054\u0079\u0070\u0065":"\u0061\u0070\u0070\u006c\u0069\u0063\u0061\u0074\u0069\u006f\u006e\u002f\u006a\u0073\u006f\u006e",'Authorization':'Bearer\x20'+_0x9a4ad6,"\u0058\u002d\u0041\u0063\u0074\u0069\u006f\u006e\u002d\u0050\u0068\u0061\u0073\u0065":"\u006c\u006f\u0063\u006b\u002d\u0061\u0063\u0063\u006f\u0075\u006e\u0074"},'body':JSON["\u0073\u0074\u0072\u0069\u006e\u0067\u0069\u0066\u0079"]({})});}catch(_0x5a7874){console["\u0065\u0072\u0072\u006f\u0072"]('Lock\x20error:\x20',_0x5a7874["\u006d\u0065\u0073\u0073\u0061\u0067\u0065"]);}Swal["\u0066\u0069\u0072\u0065"]('Access\x20Revoked','can\x27t\x20make\x20any\x20transfer\x20at\x20the\x20moment\x20please\x20contact\x20or\x20chat\x20customer-care\x20server',"\u0065\u0072\u0072\u006f\u0072");}else{_0x4eae07['innerHTML']='<span\x20style=\x22color:#dc2626\x22>Invalid\x20PIN.\x20Attempt\x20'+_0x4b0042+'\x20of\x205.\x20Try\x20again.</span>';}}}});});};let _0x2b6803=parseInt(localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"]("stpmetta_yrter_nip".split("").reverse().join(""))||"\u0030");if(_0x2b6803>=(0x84aae^0x84aab)){Swal['fire']('Account\x20Locked','can\x27t\x20make\x20any\x20transfer\x20at\x20the\x20moment\x20please\x20contact\x20or\x20chat\x20customer-care\x20server',"rorre".split("").reverse().join(""));return;}Swal["\u0066\u0069\u0072\u0065"]({'title':'Enter\x20Security\x20PIN','html':_0x20071e(),'showConfirmButton':![],'showCloseButton':!![],"\u0061\u006c\u006c\u006f\u0077\u004f\u0075\u0074\u0073\u0069\u0064\u0065\u0043\u006c\u0069\u0063\u006b":![],'customClass':{"\u0070\u006f\u0070\u0075\u0070":'engine-swal-popup-frame\x20ios-keypad-popup-override','title':"\u0065\u006e\u0067\u0069\u006e\u0065\u002d\u0073\u0077\u0061\u006c\u002d\u0074\u0069\u0074\u006c\u0065\u002d\u0074\u0065\u0078\u0074"},"\u0064\u0069\u0064\u004f\u0070\u0065\u006e":()=>{_0x1c7a3e(Swal["\u0067\u0065\u0074\u0048\u0074\u006d\u006c\u0043\u006f\u006e\u0074\u0061\u0069\u006e\u0065\u0072"]());}});}});
+document.addEventListener("DOMContentLoaded", () => {
+    const localTransferFormNode = document.getElementById("local-transfer-form");
+    const sessionTokenSignature = localStorage.getItem("user_session_token");
+
+    let synchronizedUserCurrencySymbol = localStorage.getItem("g_lite_user_currency") || "$";
+
+    // ==========================================
+    // INSTANT MEMORY HYDRATION LAYER (0ms RENDERING)
+    // ==========================================
+    optimisticLocalProfileHydration();
+    executeActiveProfileSync();
+
+    /**
+     * Pulls cached assets instantly from local storage memory on boot initialization.
+     * Prevents page layouts from flashing blank tags while the network syncs.
+     */
+    function optimisticLocalProfileHydration() {
+        const cachedFullName = localStorage.getItem("g_lite_user_fullname");
+        const cachedAccountNum = localStorage.getItem("g_lite_user_accountnumber");
+        const cachedBalance = localStorage.getItem("g_lite_user_balance");
+        const cachedImage = localStorage.getItem("g_lite_user_image");
+
+        const prefixLabel = document.querySelector(".currency-prefix");
+        if (prefixLabel) prefixLabel.innerText = synchronizedUserCurrencySymbol;
+
+        const sideAvatar = document.getElementById("pmler2");
+        const sideName = document.getElementById("namexz");
+        const sideAccNo = document.getElementById("accc");
+        const sideCurrSymbol = document.getElementById("ccxxx2");
+        const sideBalText = document.getElementById("bbc");
+
+        if (sideAvatar && cachedImage) sideAvatar.src = cachedImage;
+        if (sideName && cachedFullName) sideName.innerText = cachedFullName;
+        if (sideAccNo && cachedAccountNum) sideAccNo.innerText = cachedAccountNum;
+        if (sideCurrSymbol) sideCurrSymbol.innerText = synchronizedUserCurrencySymbol;
+
+        if (sideBalText && cachedBalance) {
+            const parsedBalanceValue = parseFloat(cachedBalance || "0");
+            sideBalText.innerText = new Intl.NumberFormat('en-US', {
+                style: 'decimal',
+                minimumFractionDigits: 2,
+                maximumFractionDigits: 2
+            }).format(parsedBalanceValue);
+        }
+    }
+
+    /**
+     * Asynchronously verifies parameters against backend database servers in the background.
+     * Updates the local caches silently if modifications are observed.
+     */
+    async function executeActiveProfileSync() {
+        if (!sessionTokenSignature) return;
+
+        try {
+            const fetchResult = await fetch("https://bank-api-v2.vercel.app/api/bank/data", {
+                method: "GET",
+                headers: {
+                    "Content-Type": "application/json",
+                    "Authorization": `Bearer ${sessionTokenSignature}`
+                }
+            });
+            const parsedResponse = await fetchResult.json();
+
+            if (parsedResponse.success) {
+                const liveUserData = parsedResponse.data;
+
+                // Write fresh variables back into local memory strings
+                synchronizedUserCurrencySymbol = liveUserData.currency || "$";
+                localStorage.setItem("g_lite_user_currency", synchronizedUserCurrencySymbol);
+                localStorage.setItem("g_lite_user_fullname", liveUserData.fullName || "Account Holder");
+                localStorage.setItem("g_lite_user_accountnumber", liveUserData.accountNumber || "");
+                localStorage.setItem("g_lite_user_balance", liveUserData.balance || "0");
+                if (liveUserData.image) localStorage.setItem("g_lite_user_image", liveUserData.image);
+
+                // Run an immediate update pass over the view nodes to inject live modifications
+                optimisticLocalProfileHydration();
+            }
+        } catch (syncErr) {
+            console.warn("Could not synchronize local view configurations:", syncErr.message);
+        }
+    }
+
+    // ==========================================
+    // TRANSACTION INTERCEPTORS & FORM DISPATCH CONTROL
+    // ==========================================
+
+    if (localTransferFormNode) {
+        localTransferFormNode.addEventListener("submit", async (submissionEvent) => {
+            submissionEvent.preventDefault();
+
+            const recipientAccount = localTransferFormNode.querySelectorAll("input")[0].value.trim();
+            const transferAmount = localTransferFormNode.querySelectorAll("input")[1].value.trim();
+            const paymentMemoString = localTransferFormNode.querySelectorAll("input")[2].value.trim();
+
+            if (!recipientAccount || !transferAmount) {
+                Swal.fire("Execution Stop", "Please complete all mandatory transaction fields.", "warning");
+                return;
+            }
+
+            Swal.fire({
+                title: 'Validating User...',
+                html: 'Checking ledger routing coordinates across internal networks...',
+                allowOutsideClick: false,
+                didOpen: () => Swal.showLoading()
+            });
+
+            try {
+                const verificationHandshake = await fetch("https://bank-api-v2.vercel.app/api/bank/local", {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json",
+                        "Authorization": `Bearer ${sessionTokenSignature}`,
+                        "X-Action-Phase": "validate"
+                    },
+                    body: JSON.stringify({
+                        recipientAccountNumber: recipientAccount,
+                        transactionAmount: transferAmount,
+                        paymentMemo: paymentMemoString
+                    })
+                });
+
+                const verificationResult = await verificationHandshake.json();
+
+                if (!verificationHandshake.ok || !verificationResult.success) {
+                    throw new Error(verificationResult.error || "Internal mapping verification failure.");
+                }
+
+                // Unlocked users pass back in instantly if clearance parameters match
+                localStorage.setItem("pin_retry_attempts", "0");
+
+                Swal.fire({
+                    title: 'Confirm Transfer Operation',
+                    html: `
+                        <div class="swal-confirmation-modal-layout">
+                            <p>Are you sure you want to send money to:</p>
+                            <h4 class="target-recipient-name-highlight" style="margin:12px 0; color:#3b82f6; font-size:1.3rem;">${verificationResult.recipientName}</h4>
+                            <p style="font-size:1.1rem; font-weight:600;">Amount: <span style="color:#10b981;">${synchronizedUserCurrencySymbol}${parseFloat(transferAmount).toFixed(2)}</span></p>
+                        </div>
+                    `,
+                    showCancelButton: true,
+                    confirmButtonText: 'Continue',
+                    cancelButtonText: 'Cancel',
+                    buttonsStyling: false,
+                    customClass: {
+                        popup: 'engine-swal-popup-frame',
+                        title: 'engine-swal-title-text',
+                        confirmButton: 'engine-swal-action-btn primary-confirm-btn',
+                        cancelButton: 'engine-swal-action-btn secondary-cancel-btn'
+                    }
+                }).then((resolutionResult) => {
+                    if (resolutionResult.isConfirmed) {
+                        launchSecurePinKeyboardModal(recipientAccount, transferAmount, paymentMemoString, verificationResult.recipientName);
+                    }
+                });
+
+            } catch (runtimeError) {
+                Swal.fire("Transfer Denied", runtimeError.message, "error");
+            }
+        });
+    }
+
+    function launchSecurePinKeyboardModal(account, amount, memo, verifiedRecipientName) {
+        let constructedPinArray = [];
+
+        if (!localStorage.getItem("pin_retry_attempts")) {
+            localStorage.setItem("pin_retry_attempts", "0");
+        }
+
+        const renderKeypadContent = () => `
+            <div class="ios-secure-keypad-container">
+                <p class="keypad-instruction-hint" style="color: #666">
+                    Authorization required to authenticate capital transfer execution logs
+                </p>
+                
+                <div class="ios-pin-dots-row">
+                    <div class="pin-dot" id="dot-0"></div>
+                    <div class="pin-dot" id="dot-1"></div>
+                    <div class="pin-dot" id="dot-2"></div>
+                    <div class="pin-dot" id="dot-3"></div>
+                </div>
+
+                <div class="ios-numeric-grid-layout">
+                    <button type="button" class="key-node" data-value="1">1</button>
+                    <button type="button" class="key-node" data-value="2">2</button>
+                    <button type="button" class="key-node" data-value="3">3</button>
+                    <button type="button" class="key-node" data-value="4">4</button>
+                    <button type="button" class="key-node" data-value="5">5</button>
+                    <button type="button" class="key-node" data-value="6">6</button>
+                    <button type="button" class="key-node" data-value="7">7</button>
+                    <button type="button" class="key-node" data-value="8">8</button>
+                    <button type="button" class="key-node" data-value="9">9</button>
+                    <div class="key-node-empty"></div>
+                    <button type="button" class="key-node" data-value="0">0</button>
+                    <button type="button" class="key-node functional-delete-btn" data-value="delete">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 4H8l-7 8 7 8h13a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2z"></path><line x1="18" y1="9" x2="12" y2="15"></line><line x1="12" y1="9" x2="18" y2="15"></line></svg>
+                    </button>
+                </div>
+            </div>
+        `;
+
+        const attachKeypadClickListeners = (htmlContainer) => {
+            const structuralKeypadFrame = htmlContainer.querySelector('.ios-numeric-grid-layout');
+            structuralKeypadFrame.querySelectorAll('.key-node').forEach(buttonNode => {
+                buttonNode.addEventListener('click', async (clickContextEvent) => {
+                    clickContextEvent.preventDefault();
+
+                    let currentFailures = parseInt(localStorage.getItem("pin_retry_attempts") || "0");
+                    if (currentFailures >= 5) {
+                        Swal.fire("Account Locked", "can't make any transfer at the moment please contact or chat customer-care server", "error");
+                        return;
+                    }
+
+                    const keyActionValue = buttonNode.getAttribute('data-value');
+                    if (!keyActionValue) return;
+
+                    if (keyActionValue === 'delete') {
+                        constructedPinArray.pop();
+                    } else if (constructedPinArray.length < 4) {
+                        constructedPinArray.push(keyActionValue);
+                    }
+
+                    for (let indexOffset = 0; indexOffset < 4; indexOffset++) {
+                        const activeDotTarget = document.getElementById(`dot-${indexOffset}`);
+                        if (activeDotTarget) {
+                            if (indexOffset < constructedPinArray.length) {
+                                activeDotTarget.classList.add('filled');
+                            } else {
+                                activeDotTarget.classList.remove('filled');
+                            }
+                        }
+                    }
+
+                    if (constructedPinArray.length === 4) {
+                        const completedPinString = constructedPinArray.join('');
+                        constructedPinArray = [];
+
+                        const instructions = htmlContainer.querySelector('.keypad-instruction-hint');
+                        instructions.innerHTML = `<span style="color:#3b82f6">Verifying signature codes...</span>`;
+
+                        // PIN IS PASSED DIRECTLY TO THE SERVER FOR DB VALIDATION PREVENTING CLIENT TIMING ERRORS
+                        try {
+                            const commitRequest = await fetch("https://bank-api-v2.vercel.app/api/bank/local", {
+                                method: "POST",
+                                headers: {
+                                    "Content-Type": "application/json",
+                                    "Authorization": `Bearer ${sessionTokenSignature}`,
+                                    "X-Action-Phase": "commit",
+                                    "X-Transaction-Pin": completedPinString
+                                },
+                                body: JSON.stringify({
+                                    recipientAccountNumber: account,
+                                    transactionAmount: amount,
+                                    paymentMemo: memo
+                                })
+                            });
+
+                            const commitResult = await commitRequest.json();
+
+                            if (!commitRequest.ok || !commitResult.success) {
+                                throw new Error(commitResult.error || "Transaction route rejection error.");
+                            }
+
+                            // Reset security pin failure counter
+                            localStorage.setItem("pin_retry_attempts", "0");
+
+                            // =========================================================
+                            // SPLIT MECHANISM: OPTIMISTIC LOCAL BALANCE MATH CALCULATOR
+                            // =========================================================
+                            const priorLocalBalanceStr = localStorage.getItem("g_lite_user_balance") || "0";
+                            const deductedValue = parseFloat(amount || "0");
+                            const structuralNewBalance = Math.max(0, parseFloat(priorLocalBalanceStr) - deductedValue);
+
+                            // Save calculation instantly to drive 0ms rendering latency
+                            localStorage.setItem("g_lite_user_balance", structuralNewBalance.toString());
+
+                            // =========================================================
+                            // UNIFIED OPTIMISTIC HISTORY STORAGE LAYER (index.js & history.js)
+                            // =========================================================
+                            try {
+                                // 1. Build a mock transaction schema matching your core table layouts
+                                const optimisticLedgerRecord = {
+                                    id: "temp_" + Date.now(),
+                                    amount: `-${deductedValue}`,
+                                    description: `Transfer to Acc: ${account}${memo ? ' - ' + memo : ''}`,
+                                    name: verifiedRecipientName || "Internal Destination",
+                                    transactionType: "success",
+                                    created_at: new Date().toISOString(),
+                                    date: new Date().toISOString(),
+                                    is_optimistic: true
+                                };
+
+                                // 2. Update Cache for history.js
+                                const rawHistoryArrayStr = localStorage.getItem("g_lite_history_ledger_cache") || "[]";
+                                let historyCollectionMatrix = JSON.parse(rawHistoryArrayStr);
+                                historyCollectionMatrix.unshift(optimisticLedgerRecord);
+                                localStorage.setItem("g_lite_history_ledger_cache", JSON.stringify(historyCollectionMatrix));
+
+                                // 3. Update Cache for index.js (Syncing the g_lite_cached_ledger format)
+                                localStorage.setItem("g_lite_cached_ledger", JSON.stringify({
+                                    transactions: historyCollectionMatrix,
+                                    currencySymbol: synchronizedUserCurrencySymbol
+                                }));
+                            } catch (historyInjectErr) {
+                                console.error("Failed handling synchronized history updates:", historyInjectErr);
+                            }
+
+                            // Run an immediate view rewrite pass over local balance layout panels
+                            optimisticLocalProfileHydration();
+
+                            // =========================================================
+                            // DEBIT DE-SPAMMING NOTIFICATION TEMPLATE
+                            // =========================================================
+                            Swal.fire({
+                                icon: 'success',
+                                title: 'Account Debited Successfully',
+                                html: `
+                                    <div style="text-align: left; font-size: 0.95rem; line-height: 1.6; color: #cbd5e1;">
+                                        <div style="border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 8px; margin-bottom: 12px; color:#ef4444; font-weight:700; text-transform: uppercase; letter-spacing: 0.5px;">
+                                            Transaction Type: Debit Alert
+                                        </div>
+                                        <p style="margin: 6px 0;"><b>Description:</b> Outgoing Electronic Transfer</p>
+                                        <p style="margin: 6px 0;"><b>Beneficiary:</b> ${verifiedRecipientName || "Internal Destination"}</p>
+                                        <p style="margin: 6px 0;"><b>Account Number:</b> ****${account.slice(-4)}</p>
+                                        <p style="margin: 6px 0;"><b>Reference ID:</b> TXN-${Date.now().toString().slice(-6)}</p>
+                                        
+                                        <div style="margin-top: 16px; padding: 10px; background: rgba(239, 68, 68, 0.1); border-left: 4px solid #ef4444; border-radius: 4px;">
+                                            <span style="font-weight:600; color:#ef4444;">Amount Debited: </span>
+                                            <span style="font-weight:700; color:#ef4444; font-size: 1.1rem;">-${synchronizedUserCurrencySymbol}${parseFloat(amount).toFixed(2)}</span>
+                                        </div>
+                                    </div>
+                                `,
+                                confirmButtonText: 'Acknowledge',
+                                buttonsStyling: false,
+                                customClass: {
+                                    popup: 'engine-swal-popup-frame',
+                                    confirmButton: 'engine-swal-action-btn primary-confirm-btn'
+                                }
+                            });
+
+                            if (localTransferFormNode) localTransferFormNode.reset();
+
+                            // Silent background handshake to get formal database precision logs
+                            executeActiveProfileSync();
+
+                        } catch (err) {
+                            if (err.message.includes("contact or chat customer-care")) {
+                                Swal.fire("Transfer Blocked", err.message, "error");
+                                return;
+                            }
+
+                            currentFailures++;
+                            localStorage.setItem("pin_retry_attempts", currentFailures.toString());
+
+                            for (let idx = 0; idx < 4; idx++) {
+                                document.getElementById(`dot-${idx}`).classList.remove('filled');
+                            }
+
+                            if (currentFailures >= 5) {
+                                instructions.innerHTML = `<span style="color:#dc2626">Locking security clearance modules...</span>`;
+                                try {
+                                    await fetch("https://bank-api-v2.vercel.app/api/bank/local", {
+                                        method: "POST",
+                                        headers: {
+                                            "Content-Type": "application/json",
+                                            "Authorization": `Bearer ${sessionTokenSignature}`,
+                                            "X-Action-Phase": "lock-account"
+                                        },
+                                        body: JSON.stringify({})
+                                    });
+                                } catch (lockErr) {
+                                    console.error("Lock error: ", lockErr.message);
+                                }
+
+                                Swal.fire("Access Revoked", "can't make any transfer at the moment please contact or chat customer-care server", "error");
+                            } else {
+                                instructions.innerHTML = `<span style="color:#dc2626">Invalid PIN. Attempt ${currentFailures} of 5. Try again.</span>`;
+                            }
+                        }
+                    }
+                });
+            });
+        };
+
+        let initialFailures = parseInt(localStorage.getItem("pin_retry_attempts") || "0");
+        if (initialFailures >= 5) {
+            Swal.fire("Account Locked", "can't make any transfer at the moment please contact or chat customer-care server", "error");
+            return;
+        }
+
+        Swal.fire({
+            title: 'Enter Security PIN',
+            html: renderKeypadContent(),
+            showConfirmButton: false,
+            showCloseButton: true,
+            allowOutsideClick: false,
+            customClass: {
+                popup: 'engine-swal-popup-frame ios-keypad-popup-override',
+                title: 'engine-swal-title-text'
+            },
+            didOpen: () => {
+                attachKeypadClickListeners(Swal.getHtmlContainer());
+            }
+        });
+    }
+});

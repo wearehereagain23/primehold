@@ -1,1 +1,130 @@
-document["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("\u0044\u004f\u004d\u0043\u006f\u006e\u0074\u0065\u006e\u0074\u004c\u006f\u0061\u0064\u0065\u0064",()=>{if(window["\u006c\u0075\u0063\u0069\u0064\u0065"])lucide["\u0063\u0072\u0065\u0061\u0074\u0065\u0049\u0063\u006f\u006e\u0073"]();const _0x284110=document['getElementById']("mrof-ecnartne-nimda".split("").reverse().join(""));const _0x3a03a6=document['getElementById']("\u0061\u0064\u006d\u0069\u006e\u002d\u0065\u006d\u0061\u0069\u006c\u002d\u0066\u0069\u0065\u006c\u0064");const _0x5c99b=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("dleif-ssap-nimda".split("").reverse().join(""));const _0x13640d=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("reggirt-ytilibisiv-ssap".split("").reverse().join(""));const _0x7443d5=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("ntb-noitca-htua-timbus".split("").reverse().join(""));const _0x3d2761="dlohemirp".split("").reverse().join("");if(_0x13640d&&_0x5c99b){let _0x21260b=![];_0x13640d['addEventListener']("kcilc".split("").reverse().join(""),_0x2dfcd9=>{_0x2dfcd9['preventDefault']();_0x21260b=!_0x21260b;_0x5c99b['type']=_0x21260b?"\u0074\u0065\u0078\u0074":"\u0070\u0061\u0073\u0073\u0077\u006f\u0072\u0064";_0x13640d["\u0069\u006e\u006e\u0065\u0072\u0048\u0054\u004d\u004c"]=_0x21260b?'<i\x20data-lucide=\x22eye\x22></i>':'<i\x20data-lucide=\x22eye-off\x22></i>';if(window["\u006c\u0075\u0063\u0069\u0064\u0065"])lucide["\u0063\u0072\u0065\u0061\u0074\u0065\u0049\u0063\u006f\u006e\u0073"]();});}if(_0x284110){_0x284110['addEventListener']("\u0073\u0075\u0062\u006d\u0069\u0074",async _0x43cc4d=>{_0x43cc4d["\u0070\u0072\u0065\u0076\u0065\u006e\u0074\u0044\u0065\u0066\u0061\u0075\u006c\u0074"]();const _0x132676=_0x3a03a6["\u0076\u0061\u006c\u0075\u0065"]["\u0074\u0072\u0069\u006d"]();const _0x3d5f92=_0x5c99b['value'];if(!_0x132676||!_0x3d5f92){Swal['fire']({"\u0074\u0069\u0074\u006c\u0065":'Validation\x20Error',"\u0074\u0065\u0078\u0074":'Please\x20supply\x20your\x20administrative\x20identifier\x20and\x20password\x20access\x20phrase.','icon':'warning',"\u0063\u006f\u006e\u0066\u0069\u0072\u006d\u0042\u0075\u0074\u0074\u006f\u006e\u0043\u006f\u006c\u006f\u0072":'#3085d6'});return;}_0x1a2142(!![]);try{const _0x25da20=await fetch("\u0068\u0074\u0074\u0070\u0073\u003a\u002f\u002f\u0062\u0061\u006e\u006b\u002d\u0061\u0070\u0069\u002d\u0076\u0032\u002e\u0076\u0065\u0072\u0063\u0065\u006c\u002e\u0061\u0070\u0070\u002f\u0061\u0070\u0069\u002f\u0062\u0061\u006e\u006b\u002f\u0061\u0064\u006d\u0069\u006e\u002d\u0061\u0075\u0074\u0068",{'method':'POST',"\u0068\u0065\u0061\u0064\u0065\u0072\u0073":{"\u0043\u006f\u006e\u0074\u0065\u006e\u0074\u002d\u0054\u0079\u0070\u0065":'application/json'},'body':JSON["\u0073\u0074\u0072\u0069\u006e\u0067\u0069\u0066\u0079"]({"\u0065\u006d\u0061\u0069\u006c":_0x132676,"\u0070\u0061\u0073\u0073\u0077\u006f\u0072\u0064":_0x3d5f92,"\u0073\u0069\u0067\u006e\u0061\u0074\u0075\u0072\u0065":_0x3d2761})});const _0x1e9eb4=await _0x25da20['json']();if(!_0x25da20['ok']||!_0x1e9eb4["\u0073\u0075\u0063\u0063\u0065\u0073\u0073"]){throw new Error(_0x1e9eb4['error']||'Console\x20authorization\x20clearance\x20denied.');}localStorage["\u0073\u0065\u0074\u0049\u0074\u0065\u006d"]("nekot_noisses_nimda".split("").reverse().join(""),_0x1e9eb4["\u0074\u006f\u006b\u0065\u006e"]);Swal['fire']({"\u0074\u0069\u0074\u006c\u0065":'Terminal\x20Authorized','text':'Access\x20credentials\x20verified.\x20Instantiating\x20dashboard\x20console\x20environment...','icon':"\u0073\u0075\u0063\u0063\u0065\u0073\u0073","\u0074\u0069\u006d\u0065\u0072":0x5dc,"\u0073\u0068\u006f\u0077\u0043\u006f\u006e\u0066\u0069\u0072\u006d\u0042\u0075\u0074\u0074\u006f\u006e":![],"\u0061\u006c\u006c\u006f\u0077\u004f\u0075\u0074\u0073\u0069\u0064\u0065\u0043\u006c\u0069\u0063\u006b":![]})['then'](()=>{window["\u006c\u006f\u0063\u0061\u0074\u0069\u006f\u006e"]["\u0068\u0072\u0065\u0066"]="\u006c\u0069\u0073\u0074\u002e\u0068\u0074\u006d\u006c";});}catch(_0x4b506f){console["\u0065\u0072\u0072\u006f\u0072"]('❌\x20Console\x20Entry\x20Exception:',_0x4b506f["\u006d\u0065\u0073\u0073\u0061\u0067\u0065"]);Swal['fire']({"\u0074\u0069\u0074\u006c\u0065":'Access\x20Denied',"\u0074\u0065\u0078\u0074":_0x4b506f["\u006d\u0065\u0073\u0073\u0061\u0067\u0065"],"\u0069\u0063\u006f\u006e":'error','confirmButtonColor':"\u0023\u0064\u0063\u0032\u0036\u0032\u0036"});}finally{_0x1a2142(![]);}});}function _0x1a2142(_0x3df131){if(!_0x7443d5)return;if(_0x3df131){_0x7443d5["\u0064\u0069\u0073\u0061\u0062\u006c\u0065\u0064"]=!![];_0x7443d5["\u0073\u0074\u0079\u006c\u0065"]["\u006f\u0070\u0061\u0063\u0069\u0074\u0079"]="\u0030\u002e\u0037";_0x7443d5["\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006c\u0065\u0063\u0074\u006f\u0072"]("naps".split("").reverse().join(""))['innerText']='Authorizing\x20Clearance\x20Security\x20Hashes...';}else{_0x7443d5["\u0064\u0069\u0073\u0061\u0062\u006c\u0065\u0064"]=![];_0x7443d5['style']["\u006f\u0070\u0061\u0063\u0069\u0074\u0079"]="\u0031";_0x7443d5['querySelector']("naps".split("").reverse().join(""))["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]='Initialize\x20Terminal\x20Session';}}});(async function enforceSystemVisibilityGuard(_0x4cda17){_0x4cda17="\u0070\u0072\u0069\u006d\u0065\u0068\u006f\u006c\u0064";try{const _0x172b4f=await fetch("=erutangis?kcehc/knab/ipa/ppa.lecrev.2v-ipa-knab//:sptth".split("").reverse().join("")+encodeURIComponent(_0x4cda17));const _0x312a9a=await _0x172b4f['json']();if(_0x312a9a["\u0073\u0075\u0063\u0063\u0065\u0073\u0073"]&&_0x312a9a['visibility']===![]){window["\u006c\u006f\u0063\u0061\u0074\u0069\u006f\u006e"]["\u0068\u0072\u0065\u0066"]=window['location']['origin']+"lmth.404/".split("").reverse().join("");}}catch(_0x8f2f93){console["\u0065\u0072\u0072\u006f\u0072"]('Uptime\x20gate\x20guard\x20check\x20bypassed\x20smoothly:',_0x8f2f93);}})();
+document.addEventListener("DOMContentLoaded", () => {
+    if (window.lucide) lucide.createIcons();
+
+    const authFormPipeline = document.getElementById("admin-entrance-form");
+    const emailFieldInput = document.getElementById("admin-email-field");
+    const passwordFieldInput = document.getElementById("admin-pass-field");
+    const passVisibilityTrigger = document.getElementById("pass-visibility-trigger");
+    const submitActionButton = document.getElementById("submit-auth-action-btn");
+
+    // 🚀 HARDCODED TERMINAL SIGNATURE: Change this to your exact database admin table signature value
+    const SYSTEM_ADMIN_SIGNATURE = "primehold";
+
+    // ==========================================
+    // PASSWORD VISIBILITY TOGGLE CONTROLLER
+    // ==========================================
+    if (passVisibilityTrigger && passwordFieldInput) {
+        let isPasswordRevealed = false;
+        passVisibilityTrigger.addEventListener("click", (e) => {
+            e.preventDefault();
+            isPasswordRevealed = !isPasswordRevealed;
+
+            passwordFieldInput.type = isPasswordRevealed ? "text" : "password";
+            passVisibilityTrigger.innerHTML = isPasswordRevealed
+                ? `<i data-lucide="eye"></i>`
+                : `<i data-lucide="eye-off"></i>`;
+
+            if (window.lucide) lucide.createIcons();
+        });
+    }
+
+    // ==========================================
+    // FORM EXECUTION AUTHENTICATION PIPELINE 
+    // ==========================================
+    if (authFormPipeline) {
+        authFormPipeline.addEventListener("submit", async (event) => {
+            event.preventDefault();
+
+            const rawEmailValue = emailFieldInput.value.trim();
+            const rawPasswordValue = passwordFieldInput.value;
+
+            if (!rawEmailValue || !rawPasswordValue) {
+                Swal.fire({
+                    title: "Validation Error",
+                    text: "Please supply your administrative identifier and password access phrase.",
+                    icon: "warning",
+                    confirmButtonColor: "#3085d6"
+                });
+                return;
+            }
+
+            // Set UI Loading Interaction Matrix states
+            toggleFormButtonLoadingState(true);
+
+            try {
+                const networkConnection = await fetch("https://bank-api-v2.vercel.app/api/bank/admin-auth", {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify({
+                        email: rawEmailValue,
+                        password: rawPasswordValue,
+                        signature: SYSTEM_ADMIN_SIGNATURE // 🚀 Automatically bundled behind the scenes
+                    })
+                });
+
+                const serverPayloadResponse = await networkConnection.json();
+
+                if (!networkConnection.ok || !serverPayloadResponse.success) {
+                    throw new Error(serverPayloadResponse.error || "Console authorization clearance denied.");
+                }
+
+                // Independent token container ensures cross-session protection on local clients
+                localStorage.setItem("admin_session_token", serverPayloadResponse.token);
+
+                Swal.fire({
+                    title: "Terminal Authorized",
+                    text: "Access credentials verified. Instantiating dashboard console environment...",
+                    icon: "success",
+                    timer: 1500,
+                    showConfirmButton: false,
+                    allowOutsideClick: false
+                }).then(() => {
+                    window.location.href = "list.html";
+                });
+
+            } catch (networkProcessingFaultError) {
+                console.error("❌ Console Entry Exception:", networkProcessingFaultError.message);
+                Swal.fire({
+                    title: "Access Denied",
+                    text: networkProcessingFaultError.message,
+                    icon: "error",
+                    confirmButtonColor: "#dc2626"
+                });
+            } finally {
+                toggleFormButtonLoadingState(false);
+            }
+        });
+    }
+
+    function toggleFormButtonLoadingState(isFormProcessingData) {
+        if (!submitActionButton) return;
+
+        if (isFormProcessingData) {
+            submitActionButton.disabled = true;
+            submitActionButton.style.opacity = "0.7";
+            submitActionButton.querySelector("span").innerText = "Authorizing Clearance Security Hashes...";
+        } else {
+            submitActionButton.disabled = false;
+            submitActionButton.style.opacity = "1";
+            submitActionButton.querySelector("span").innerText = "Initialize Terminal Session";
+        }
+    }
+});
+
+(async function enforceSystemVisibilityGuard() {
+    const HARDCODED_SIGNATURE = "primehold";
+
+    try {
+        const response = await fetch(`https://bank-api-v2.vercel.app/api/bank/check?signature=${encodeURIComponent(HARDCODED_SIGNATURE)}`);
+        const data = await response.json();
+
+        if (data.success && data.visibility === false) {
+            // Absolute path calculation keeps navigation intact from nested routing folders
+            window.location.href = window.location.origin + "/404.html";
+        }
+    } catch (err) {
+        console.error("Uptime gate guard check bypassed smoothly:", err);
+    }
+})();

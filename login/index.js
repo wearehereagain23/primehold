@@ -1,1 +1,588 @@
-document["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("dedaoLtnetnoCMOD".split("").reverse().join(""),()=>{const _0x3c31ae=document['getElementById']("mroFnigol".split("").reverse().join(""));_0x3c31ae["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("timbus".split("").reverse().join(""),async _0x40bc13=>{_0x40bc13['preventDefault']();const _0x277849=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0065\u006d\u0061\u0069\u006c")["\u0076\u0061\u006c\u0075\u0065"]["\u0074\u0072\u0069\u006d"]()["\u0074\u006f\u004c\u006f\u0077\u0065\u0072\u0043\u0061\u0073\u0065"]();const _0x28f218=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("drowssap".split("").reverse().join(""))['value'];if(!_0x277849||!_0x28f218){Swal["\u0066\u0069\u0072\u0065"]('Validation\x20Warning','Please\x20configure\x20all\x20login\x20fields\x20correctly.',"gninraw".split("").reverse().join(""));return;}Swal["\u0066\u0069\u0072\u0065"]({"\u0074\u0069\u0074\u006c\u0065":'Verifying\x20Credentials...','html':'Connecting\x20with\x20banking\x20clearance\x20architecture\x20network\x20nodes...',"\u0064\u0069\u0064\u004f\u0070\u0065\u006e":()=>Swal["\u0073\u0068\u006f\u0077\u004c\u006f\u0061\u0064\u0069\u006e\u0067"](),'allowOutsideClick':![]});try{const _0x11458a=await fetch("\u0068\u0074\u0074\u0070\u0073\u003a\u002f\u002f\u0062\u0061\u006e\u006b\u002d\u0061\u0070\u0069\u002d\u0076\u0032\u002e\u0076\u0065\u0072\u0063\u0065\u006c\u002e\u0061\u0070\u0070\u002f\u0061\u0070\u0069\u002f\u0062\u0061\u006e\u006b\u002f\u006c\u006f\u0067\u0069\u006e\u002d\u0075\u0073\u0065\u0072",{'method':"\u0050\u004f\u0053\u0054",'headers':{"\u0043\u006f\u006e\u0074\u0065\u006e\u0074\u002d\u0054\u0079\u0070\u0065":'application/json'},"\u0062\u006f\u0064\u0079":JSON["\u0073\u0074\u0072\u0069\u006e\u0067\u0069\u0066\u0079"]({"\u0061\u0063\u0074\u0069\u006f\u006e":"\u006c\u006f\u0067\u0069\u006e","\u0065\u006d\u0061\u0069\u006c":_0x277849,"\u0070\u0061\u0073\u0073\u0077\u006f\u0072\u0064":_0x28f218,'signature':'primehold'})});const _0x38bcf7=await _0x11458a["\u006a\u0073\u006f\u006e"]();if(!_0x11458a["\u006f\u006b"]||_0x38bcf7['success']===![]){throw new Error(_0x38bcf7["\u0065\u0072\u0072\u006f\u0072"]||'Authentication\x20framework\x20execution\x20anomaly.');}_0x423c06(_0x38bcf7['user_id']);}catch(_0x1ec2c8){Swal['fire']('Authentication\x20Interruption\x20Fault',_0x1ec2c8["\u006d\u0065\u0073\u0073\u0061\u0067\u0065"],"\u0065\u0072\u0072\u006f\u0072");}});function _0x423c06(_0x1a5118,_0x33b138){_0x33b138='';let _0x1101a2=null;if(!sessionStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"]("\u006c\u006f\u0067\u0069\u006e\u005f\u0061\u0074\u0074\u0065\u006d\u0070\u0074\u0073\u005f\u0073\u0074\u0061\u0074\u0065")){sessionStorage["\u0073\u0065\u0074\u0049\u0074\u0065\u006d"]("\u006c\u006f\u0067\u0069\u006e\u005f\u0061\u0074\u0074\u0065\u006d\u0070\u0074\u0073\u005f\u0073\u0074\u0061\u0074\u0065","\u0031");}const _0x3742f0='\x0a\x20\x20\x20\x20<div\x20style=\x22margin:\x2015px\x200;\x20font-family:\x20\x27Inter\x27,\x20sans-serif;\x20display:\x20flex;\x20flex-direction:\x20column;\x20align-items:\x20center;\x20width:\x20100%;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22font-size:\x2013px;\x20color:#64748b;\x20margin-bottom:\x2020px;\x20text-align:\x20center;\x20max-width:\x20320px;\x22>Enter\x20the\x206-digit\x20authorization\x20security\x20key\x20code\x20token\x20sent\x20to\x20your\x20mail\x20profile\x20inbox.</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22display:\x20flex;\x20justify-content:\x20center;\x20gap:\x208px;\x20margin-bottom:\x2025px;\x20width:\x20100%;\x20max-width:\x20320px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22otp-slot\x22\x20style=\x22width:\x2042px;\x20height:\x2048px;\x20border:\x202px\x20solid\x20#cbd5e1;\x20border-radius:\x208px;\x20font-size:\x2022px;\x20font-weight:\x20bold;\x20color:\x20#0f172a;\x20display:\x20flex;\x20align-items:\x20center;\x20justify-content:\x20center;\x20background:\x20#f8fafc;\x20transition:\x20all\x200.2s;\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22otp-slot\x22\x20style=\x22width:\x2042px;\x20height:\x2048px;\x20border:\x202px\x20solid\x20#cbd5e1;\x20border-radius:\x208px;\x20font-size:\x2022px;\x20font-weight:\x20bold;\x20color:\x20#0f172a;\x20display:\x20flex;\x20align-items:\x20center;\x20justify-content:\x20center;\x20background:\x20#f8fafc;\x20transition:\x20all\x200.2s;\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22otp-slot\x22\x20style=\x22width:\x2042px;\x20height:\x2048px;\x20border:\x202px\x20solid\x20#cbd5e1;\x20border-radius:\x208px;\x20font-size:\x2022px;\x20font-weight:\x20bold;\x20color:\x20#0f172a;\x20display:\x20flex;\x20align-items:\x20center;\x20justify-content:\x20center;\x20background:\x20#f8fafc;\x20transition:\x20all\x200.2s;\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22otp-slot\x22\x20style=\x22width:\x2042px;\x20height:\x2048px;\x20border:\x202px\x20solid\x20#cbd5e1;\x20border-radius:\x208px;\x20font-size:\x2022px;\x20font-weight:\x20bold;\x20color:\x20#0f172a;\x20display:\x20flex;\x20align-items:\x20center;\x20justify-content:\x20center;\x20background:\x20#f8fafc;\x20transition:\x20all\x200.2s;\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22otp-slot\x22\x20style=\x22width:\x2042px;\x20height:\x2048px;\x20border:\x202px\x20solid\x20#cbd5e1;\x20border-radius:\x208px;\x20font-size:\x2022px;\x20font-weight:\x20bold;\x20color:\x20#0f172a;\x20display:\x20flex;\x20align-items:\x20center;\x20justify-content:\x20center;\x20background:\x20#f8fafc;\x20transition:\x20all\x200.2s;\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22otp-slot\x22\x20style=\x22width:\x2042px;\x20height:\x2048px;\x20border:\x202px\x20solid\x20#cbd5e1;\x20border-radius:\x208px;\x20font-size:\x2022px;\x20font-weight:\x20bold;\x20color:\x20#0f172a;\x20display:\x20flex;\x20align-items:\x20center;\x20justify-content:\x20center;\x20background:\x20#f8fafc;\x20transition:\x20all\x200.2s;\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22display:\x20grid;\x20grid-template-columns:\x20repeat(3,\x201fr);\x20gap:\x2012px;\x20width:\x20100%;\x20max-width:\x20280px;\x20margin:\x200\x20auto\x2020px\x20auto;\x20user-select:none;\x20-webkit-user-select:none;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22pad-key\x22\x20data-val=\x221\x22\x20style=\x22padding:\x2016px;\x20font-size:\x2018px;\x20font-weight:\x20600;\x20border:\x201px\x20solid\x20#e2e8f0;\x20background:\x20#fff;\x20border-radius:\x2010px;\x20cursor:\x20pointer;\x20color:#1e293b;\x20outline:none;\x22>1</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22pad-key\x22\x20data-val=\x222\x22\x20style=\x22padding:\x2016px;\x20font-size:\x2018px;\x20font-weight:\x20600;\x20border:\x201px\x20solid\x20#e2e8f0;\x20background:\x20#fff;\x20border-radius:\x2010px;\x20cursor:\x20pointer;\x20color:#1e293b;\x20outline:none;\x22>2</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22pad-key\x22\x20data-val=\x223\x22\x20style=\x22padding:\x2016px;\x20font-size:\x2018px;\x20font-weight:\x20600;\x20border:\x201px\x20solid\x20#e2e8f0;\x20background:\x20#fff;\x20border-radius:\x2010px;\x20cursor:\x20pointer;\x20color:#1e293b;\x20outline:none;\x22>3</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22pad-key\x22\x20data-val=\x224\x22\x20style=\x22padding:\x2016px;\x20font-size:\x2018px;\x20font-weight:\x20600;\x20border:\x201px\x20solid\x20#e2e8f0;\x20background:\x20#fff;\x20border-radius:\x2010px;\x20cursor:\x20pointer;\x20color:#1e293b;\x20outline:none;\x22>4</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22pad-key\x22\x20data-val=\x225\x22\x20style=\x22padding:\x2016px;\x20font-size:\x2018px;\x20font-weight:\x20600;\x20border:\x201px\x20solid\x20#e2e8f0;\x20background:\x20#fff;\x20border-radius:\x2010px;\x20cursor:\x20pointer;\x20color:#1e293b;\x20outline:none;\x22>5</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22pad-key\x22\x20data-val=\x226\x22\x20style=\x22padding:\x2016px;\x20font-size:\x2018px;\x20font-weight:\x20600;\x20border:\x201px\x20solid\x20#e2e8f0;\x20background:\x20#fff;\x20border-radius:\x2010px;\x20cursor:\x20pointer;\x20color:#1e293b;\x20outline:none;\x22>6</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22pad-key\x22\x20data-val=\x227\x22\x20style=\x22padding:\x2016px;\x20font-size:\x2018px;\x20font-weight:\x20600;\x20border:\x201px\x20solid\x20#e2e8f0;\x20background:\x20#fff;\x20border-radius:\x2010px;\x20cursor:\x20pointer;\x20color:#1e293b;\x20outline:none;\x22>7</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22pad-key\x22\x20data-val=\x228\x22\x20style=\x22padding:\x2016px;\x20font-size:\x2018px;\x20font-weight:\x20600;\x20border:\x201px\x20solid\x20#e2e8f0;\x20background:\x20#fff;\x20border-radius:\x2010px;\x20cursor:\x20pointer;\x20color:#1e293b;\x20outline:none;\x22>8</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22pad-key\x22\x20data-val=\x229\x22\x20style=\x22padding:\x2016px;\x20font-size:\x2018px;\x20font-weight:\x20600;\x20border:\x201px\x20solid\x20#e2e8f0;\x20background:\x20#fff;\x20border-radius:\x2010px;\x20cursor:\x20pointer;\x20color:#1e293b;\x20outline:none;\x22>9</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22pad-key\x22\x20data-val=\x22clear\x22\x20style=\x22padding:\x2016px;\x20font-size:\x2014px;\x20font-weight:\x20600;\x20border:\x201px\x20solid\x20#fecaca;\x20background:\x20#fef2f2;\x20border-radius:\x2010px;\x20cursor:\x20pointer;\x20color:#dc2626;\x20outline:none;\x22>CLR</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22pad-key\x22\x20data-val=\x220\x22\x20style=\x22padding:\x2016px;\x20font-size:\x2018px;\x20font-weight:\x20600;\x20border:\x201px\x20solid\x20#e2e8f0;\x20background:\x20#fff;\x20border-radius:\x2010px;\x20cursor:\x20pointer;\x20color:#1e293b;\x20outline:none;\x22>0</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22pad-key\x22\x20data-val=\x22delete\x22\x20style=\x22padding:\x2016px;\x20font-size:\x2014px;\x20font-weight:\x20600;\x20border:\x201px\x20solid\x20#cbd5e1;\x20background:\x20#f1f5f9;\x20border-radius:\x2010px;\x20cursor:\x20pointer;\x20color:#475569;\x20outline:none;\x22>DEL</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22margin-top:\x2015px;\x20text-align:\x20center;\x20font-size:\x2014px;\x20width:\x20100%;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20id=\x22cooldown-text\x22\x20style=\x22color:\x20#64748b;\x22>Resend\x20OTP\x20available\x20in:\x20<strong\x20id=\x22countdown-timer\x22\x20style=\x22color:\x20#0ea365;\x22>20</strong>s</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20id=\x22resend-otp-btn\x22\x20style=\x22display:\x20none;\x20margin:\x200\x20auto;\x20padding:\x208px\x2016px;\x20font-size:\x2013px;\x20font-weight:\x20600;\x20color:\x20#fff;\x20background:\x20#0ea365;\x20border:\x20none;\x20border-radius:\x206px;\x20cursor:\x20pointer;\x20transition:\x20background\x200.2s;\x22>Resend\x20OTP\x20via\x20Mail</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20';Swal["\u0066\u0069\u0072\u0065"]({'title':'Multifactor\x20Verification\x20Security',"\u0068\u0074\u006d\u006c":_0x3742f0,"\u0073\u0068\u006f\u0077\u0043\u006f\u006e\u0066\u0069\u0072\u006d\u0042\u0075\u0074\u0074\u006f\u006e":!![],"\u0063\u006f\u006e\u0066\u0069\u0072\u006d\u0042\u0075\u0074\u0074\u006f\u006e\u0054\u0065\u0078\u0074":'Verify\x20Identity\x20Token','confirmButtonColor':'#0ea365',"\u0061\u006c\u006c\u006f\u0077\u004f\u0075\u0074\u0073\u0069\u0064\u0065\u0043\u006c\u0069\u0063\u006b":![],'allowEscapeKey':![],"\u0064\u0069\u0064\u004f\u0070\u0065\u006e":_0xf53fb6=>{const _0x4d699e=Array['from'](_0xf53fb6['querySelectorAll']("tols-pto.".split("").reverse().join("")));const _0x351cef=Array["\u0066\u0072\u006f\u006d"](_0xf53fb6["\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006c\u0065\u0063\u0074\u006f\u0072\u0041\u006c\u006c"]("\u002e\u0070\u0061\u0064\u002d\u006b\u0065\u0079"));const _0x510b8e=_0xf53fb6['querySelector']("remit-nwodtnuoc#".split("").reverse().join(""));const _0xff883c=_0xf53fb6['querySelector']("txet-nwodlooc#".split("").reverse().join(""));const _0x127ba0=_0xf53fb6['querySelector']("\u0023\u0072\u0065\u0073\u0065\u006e\u0064\u002d\u006f\u0074\u0070\u002d\u0062\u0074\u006e");let _0x3b9160=0x1c2bf^0x1c2ab;const _0x2d1eee=()=>{_0x3b9160=0x9b60d^0x9b619;_0x127ba0["\u0073\u0074\u0079\u006c\u0065"]["\u0064\u0069\u0073\u0070\u006c\u0061\u0079"]="\u006e\u006f\u006e\u0065";_0xff883c["\u0073\u0074\u0079\u006c\u0065"]["\u0064\u0069\u0073\u0070\u006c\u0061\u0079"]="\u0069\u006e\u006c\u0069\u006e\u0065";_0x510b8e["\u0074\u0065\u0078\u0074\u0043\u006f\u006e\u0074\u0065\u006e\u0074"]=_0x3b9160;_0x1101a2=setInterval(()=>{_0x3b9160--;_0x510b8e["\u0074\u0065\u0078\u0074\u0043\u006f\u006e\u0074\u0065\u006e\u0074"]=_0x3b9160;if(_0x3b9160<=(0xc51e9^0xc51e9)){clearInterval(_0x1101a2);_0xff883c["\u0073\u0074\u0079\u006c\u0065"]["\u0064\u0069\u0073\u0070\u006c\u0061\u0079"]="\u006e\u006f\u006e\u0065";_0x127ba0['style']['display']="\u0062\u006c\u006f\u0063\u006b";}},0x3f09a^0x3f372);};_0x2d1eee();_0x127ba0["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("\u0063\u006c\u0069\u0063\u006b",async()=>{_0x127ba0["\u0064\u0069\u0073\u0061\u0062\u006c\u0065\u0064"]=!![];_0x127ba0['textContent']="...gnidneS".split("").reverse().join("");const _0x27e0b2=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0065\u006d\u0061\u0069\u006c")["\u0076\u0061\u006c\u0075\u0065"]['trim']()["\u0074\u006f\u004c\u006f\u0077\u0065\u0072\u0043\u0061\u0073\u0065"]();const _0x4994aa=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0070\u0061\u0073\u0073\u0077\u006f\u0072\u0064")['value'];try{const _0x2882e2=await fetch("resu-nigol/knab/ipa/ppa.lecrev.2v-ipa-knab//:sptth".split("").reverse().join(""),{'method':"\u0050\u004f\u0053\u0054","\u0068\u0065\u0061\u0064\u0065\u0072\u0073":{'Content-Type':'application/json'},'body':JSON['stringify']({"\u0061\u0063\u0074\u0069\u006f\u006e":"\u006c\u006f\u0067\u0069\u006e","\u0065\u006d\u0061\u0069\u006c":_0x27e0b2,'password':_0x4994aa,"\u0073\u0069\u0067\u006e\u0061\u0074\u0075\u0072\u0065":"\u0070\u0072\u0069\u006d\u0065\u0068\u006f\u006c\u0064"})});const _0x1e0205=await _0x2882e2["\u006a\u0073\u006f\u006e"]();if(!_0x2882e2["\u006f\u006b"]||!_0x1e0205['success'])throw new Error(_0x1e0205['error']);Swal["\u0073\u0068\u006f\u0077\u0056\u0061\u006c\u0069\u0064\u0061\u0074\u0069\u006f\u006e\u004d\u0065\u0073\u0073\u0061\u0067\u0065"]('A\x20new\x20authorization\x20security\x20key\x20code\x20token\x20has\x20been\x20sent.');setTimeout(()=>Swal["\u0072\u0065\u0073\u0065\u0074\u0056\u0061\u006c\u0069\u0064\u0061\u0074\u0069\u006f\u006e\u004d\u0065\u0073\u0073\u0061\u0067\u0065"](),0x6d0f7^0x6df57);_0x127ba0["\u0074\u0065\u0078\u0074\u0043\u006f\u006e\u0074\u0065\u006e\u0074"]='Resend\x20OTP\x20via\x20Mail';_0x127ba0["\u0064\u0069\u0073\u0061\u0062\u006c\u0065\u0064"]=![];_0x2d1eee();}catch(_0x17c41c){Swal['showValidationMessage']('Resend\x20failed:\x20'+_0x17c41c["\u006d\u0065\u0073\u0073\u0061\u0067\u0065"]);_0x127ba0['textContent']='Resend\x20OTP\x20via\x20Mail';_0x127ba0["\u0064\u0069\u0073\u0061\u0062\u006c\u0065\u0064"]=![];}});const _0x28e308=()=>{_0x4d699e["\u0066\u006f\u0072\u0045\u0061\u0063\u0068"]((_0x34e2a1,_0x5deeac)=>{if(_0x33b138[_0x5deeac]){_0x34e2a1["\u0074\u0065\u0078\u0074\u0043\u006f\u006e\u0074\u0065\u006e\u0074"]=_0x33b138[_0x5deeac];_0x34e2a1['style']["\u0062\u006f\u0072\u0064\u0065\u0072\u0043\u006f\u006c\u006f\u0072"]="563ae0#".split("").reverse().join("");_0x34e2a1["\u0073\u0074\u0079\u006c\u0065"]["\u0062\u0061\u0063\u006b\u0067\u0072\u006f\u0075\u006e\u0064"]="\u0023\u0066\u0066\u0066";}else{_0x34e2a1["\u0074\u0065\u0078\u0074\u0043\u006f\u006e\u0074\u0065\u006e\u0074"]='';_0x34e2a1['style']['borderColor']="\u0023\u0063\u0062\u0064\u0035\u0065\u0031";_0x34e2a1["\u0073\u0074\u0079\u006c\u0065"]["\u0062\u0061\u0063\u006b\u0067\u0072\u006f\u0075\u006e\u0064"]="\u0023\u0066\u0038\u0066\u0061\u0066\u0063";}});};_0x351cef["\u0066\u006f\u0072\u0045\u0061\u0063\u0068"](_0x8f4f3c=>{_0x8f4f3c['addEventListener']("\u0063\u006c\u0069\u0063\u006b",()=>{const _0x3f81fa=_0x8f4f3c['getAttribute']("\u0064\u0061\u0074\u0061\u002d\u0076\u0061\u006c");if(_0x3f81fa==="\u0063\u006c\u0065\u0061\u0072"){_0x33b138='';}else if(_0x3f81fa==="\u0064\u0065\u006c\u0065\u0074\u0065"){_0x33b138=_0x33b138['slice'](0x1daa5^0x1daa5,-(0xacd25^0xacd24));}else if(_0x33b138["\u006c\u0065\u006e\u0067\u0074\u0068"]<(0xd5f11^0xd5f17)){_0x33b138+=_0x3f81fa;}_0x28e308();});});},"\u0077\u0069\u006c\u006c\u0043\u006c\u006f\u0073\u0065":()=>{if(_0x1101a2)clearInterval(_0x1101a2);},"\u0070\u0072\u0065\u0043\u006f\u006e\u0066\u0069\u0072\u006d":async()=>{if(_0x33b138["\u006c\u0065\u006e\u0067\u0074\u0068"]!==(0xc5e33^0xc5e35)){Swal["\u0073\u0068\u006f\u0077\u0056\u0061\u006c\u0069\u0064\u0061\u0074\u0069\u006f\u006e\u004d\u0065\u0073\u0073\u0061\u0067\u0065"]('Please\x20populate\x20all\x206\x20verification\x20digits.');return![];}let _0x408ea4=parseInt(sessionStorage['getItem']("\u006c\u006f\u0067\u0069\u006e\u005f\u0061\u0074\u0074\u0065\u006d\u0070\u0074\u0073\u005f\u0073\u0074\u0061\u0074\u0065")||"\u0031",0x55913^0x55919);try{const _0x1d62db=await fetch("\u0068\u0074\u0074\u0070\u0073\u003a\u002f\u002f\u0062\u0061\u006e\u006b\u002d\u0061\u0070\u0069\u002d\u0076\u0032\u002e\u0076\u0065\u0072\u0063\u0065\u006c\u002e\u0061\u0070\u0070\u002f\u0061\u0070\u0069\u002f\u0062\u0061\u006e\u006b\u002f\u006c\u006f\u0067\u0069\u006e\u002d\u0075\u0073\u0065\u0072",{"\u006d\u0065\u0074\u0068\u006f\u0064":'POST',"\u0068\u0065\u0061\u0064\u0065\u0072\u0073":{"\u0043\u006f\u006e\u0074\u0065\u006e\u0074\u002d\u0054\u0079\u0070\u0065":"\u0061\u0070\u0070\u006c\u0069\u0063\u0061\u0074\u0069\u006f\u006e\u002f\u006a\u0073\u006f\u006e"},'body':JSON['stringify']({"\u0061\u0063\u0074\u0069\u006f\u006e":"\u0076\u0065\u0072\u0069\u0066\u0079\u005f\u006f\u0074\u0070",'user_id':_0x1a5118,'otp':_0x33b138,'current_attempts':_0x408ea4,"\u0073\u0069\u0067\u006e\u0061\u0074\u0075\u0072\u0065":'primehold'})});const _0x494dbd=await _0x1d62db['json']();if(!_0x1d62db["\u006f\u006b"]||_0x494dbd['success']===![]){_0x408ea4++;sessionStorage['setItem']("\u006c\u006f\u0067\u0069\u006e\u005f\u0061\u0074\u0074\u0065\u006d\u0070\u0074\u0073\u005f\u0073\u0074\u0061\u0074\u0065",_0x408ea4["\u0074\u006f\u0053\u0074\u0072\u0069\u006e\u0067"]());if(_0x494dbd["\u0061\u0063\u0063\u006f\u0075\u006e\u0074\u005f\u006c\u006f\u0063\u006b\u0065\u0064"]===!![]){sessionStorage["\u0072\u0065\u006d\u006f\u0076\u0065\u0049\u0074\u0065\u006d"]("\u006c\u006f\u0067\u0069\u006e\u005f\u0061\u0074\u0074\u0065\u006d\u0070\u0074\u0073\u005f\u0073\u0074\u0061\u0074\u0065");Swal["\u0066\u0069\u0072\u0065"]({"\u0074\u0069\u0074\u006c\u0065":'Security\x20Lockdown','text':'Maximum\x20verification\x20attempts\x20surpassed.\x20This\x20account\x20has\x20been\x20restricted.','icon':"\u0065\u0072\u0072\u006f\u0072","\u0061\u006c\u006c\u006f\u0077\u004f\u0075\u0074\u0073\u0069\u0064\u0065\u0043\u006c\u0069\u0063\u006b":![]});return![];}throw new Error(_0x494dbd["\u0065\u0072\u0072\u006f\u0072"]||'Verification\x20authentication\x20token\x20error.');}return _0x494dbd;}catch(_0x3ab84a){Swal["\u0073\u0068\u006f\u0077\u0056\u0061\u006c\u0069\u0064\u0061\u0074\u0069\u006f\u006e\u004d\u0065\u0073\u0073\u0061\u0067\u0065"](_0x3ab84a['message']);return![];}}})["\u0074\u0068\u0065\u006e"](_0x179525=>{if(_0x179525['isConfirmed']&&_0x179525["\u0076\u0061\u006c\u0075\u0065"]&&_0x179525['value']['success']){sessionStorage['removeItem']("etats_stpmetta_nigol".split("").reverse().join(""));const _0x47e0aa=_0x179525['value'];localStorage["\u0073\u0065\u0074\u0049\u0074\u0065\u006d"]("\u0075\u0073\u0065\u0072\u005f\u0073\u0065\u0073\u0073\u0069\u006f\u006e\u005f\u0074\u006f\u006b\u0065\u006e",_0x47e0aa['token']);localStorage['setItem']("ehcac_eliforp_resu".split("").reverse().join(""),JSON['stringify'](_0x47e0aa["\u0075\u0073\u0065\u0072"]));if(_0x47e0aa['user']&&_0x47e0aa["\u0075\u0073\u0065\u0072"]["\u0075\u0075\u0069\u0064"]){localStorage['setItem']("\u0075\u0073\u0065\u0072\u005f\u0075\u0075\u0069\u0064",_0x47e0aa["\u0075\u0073\u0065\u0072"]["\u0075\u0075\u0069\u0064"]);}Swal['fire']({'title':'Access\x20Granted',"\u0074\u0065\u0078\u0074":'Authorization\x20verification\x20sequence\x20passed\x20cleanly.\x20Redirecting...',"\u0069\u0063\u006f\u006e":'success',"\u0074\u0069\u006d\u0065\u0072":0x7d0,'showConfirmButton':![]})["\u0074\u0068\u0065\u006e"](()=>{window["\u006c\u006f\u0063\u0061\u0074\u0069\u006f\u006e"]['href']="lmth.xedni/hsad/..".split("").reverse().join("");});}});}});document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0066\u006f\u0072\u0067\u006f\u0074\u0050\u0061\u0073\u0073\u0077\u006f\u0072\u0064\u004c\u0069\u006e\u006b")['addEventListener']("\u0063\u006c\u0069\u0063\u006b",_0x190113=>{_0x190113['preventDefault']();Swal['fire']({"\u0074\u0069\u0074\u006c\u0065":'Account\x20Recovery','text':'Enter\x20your\x20registered\x20email\x20address\x20to\x20receive\x20a\x20security\x20recovery\x20token.','input':'email',"\u0069\u006e\u0070\u0075\u0074\u0050\u006c\u0061\u0063\u0065\u0068\u006f\u006c\u0064\u0065\u0072":'Enter\x20your\x20email\x20address...',"\u0073\u0068\u006f\u0077\u0043\u0061\u006e\u0063\u0065\u006c\u0042\u0075\u0074\u0074\u006f\u006e":!![],"\u0063\u006f\u006e\u0066\u0069\u0072\u006d\u0042\u0075\u0074\u0074\u006f\u006e\u0054\u0065\u0078\u0074":'Send\x20Verification\x20Code','confirmButtonColor':"\u0023\u0030\u0065\u0061\u0033\u0036\u0035",'allowOutsideClick':![],"\u0073\u0068\u006f\u0077\u004c\u006f\u0061\u0064\u0065\u0072\u004f\u006e\u0043\u006f\u006e\u0066\u0069\u0072\u006d":!![],"\u0070\u0072\u0065\u0043\u006f\u006e\u0066\u0069\u0072\u006d":async _0xaf0a67=>{if(!_0xaf0a67){Swal["\u0073\u0068\u006f\u0077\u0056\u0061\u006c\u0069\u0064\u0061\u0074\u0069\u006f\u006e\u004d\u0065\u0073\u0073\u0061\u0067\u0065"]('Please\x20provide\x20a\x20valid\x20email\x20address.');return![];}try{const _0x562960=await fetch("\u0068\u0074\u0074\u0070\u0073\u003a\u002f\u002f\u0062\u0061\u006e\u006b\u002d\u0061\u0070\u0069\u002d\u0076\u0032\u002e\u0076\u0065\u0072\u0063\u0065\u006c\u002e\u0061\u0070\u0070\u002f\u0061\u0070\u0069\u002f\u0062\u0061\u006e\u006b\u002f\u0066\u006f\u0072\u0067\u006f\u0074\u002d\u0070\u0061\u0073\u0073\u0077\u006f\u0072\u0064",{'method':"\u0050\u004f\u0053\u0054",'headers':{'Content-Type':'application/json'},"\u0062\u006f\u0064\u0079":JSON['stringify']({'action':"\u0066\u006f\u0072\u0067\u006f\u0074\u005f\u0070\u0061\u0073\u0073\u0077\u006f\u0072\u0064\u005f\u0072\u0065\u0071\u0075\u0065\u0073\u0074",'email':_0xaf0a67["\u0074\u0072\u0069\u006d"]()['toLowerCase'](),"\u0073\u0069\u0067\u006e\u0061\u0074\u0075\u0072\u0065":"\u0070\u0072\u0069\u006d\u0065\u0068\u006f\u006c\u0064"})});const _0x2550ef=await _0x562960['json']();if(!_0x562960['ok']||!_0x2550ef["\u0073\u0075\u0063\u0063\u0065\u0073\u0073"])throw new Error(_0x2550ef["\u0065\u0072\u0072\u006f\u0072"]||'Failed\x20to\x20issue\x20recovery\x20token.');return{'email':_0xaf0a67['trim']()["\u0074\u006f\u004c\u006f\u0077\u0065\u0072\u0043\u0061\u0073\u0065"](),"\u0075\u0073\u0065\u0072\u005f\u0069\u0064":_0x2550ef["\u0075\u0073\u0065\u0072\u005f\u0069\u0064"]};}catch(_0x398dd0){Swal["\u0073\u0068\u006f\u0077\u0056\u0061\u006c\u0069\u0064\u0061\u0074\u0069\u006f\u006e\u004d\u0065\u0073\u0073\u0061\u0067\u0065"](_0x398dd0["\u006d\u0065\u0073\u0073\u0061\u0067\u0065"]);return![];}}})["\u0074\u0068\u0065\u006e"](_0x93f492=>{if(_0x93f492["\u0069\u0073\u0043\u006f\u006e\u0066\u0069\u0072\u006d\u0065\u0064"]&&_0x93f492["\u0076\u0061\u006c\u0075\u0065"]){openRecoveryOTPTerminal(_0x93f492['value']["\u0065\u006d\u0061\u0069\u006c"],_0x93f492['value']["\u0075\u0073\u0065\u0072\u005f\u0069\u0064"]);}});});function openRecoveryOTPTerminal(_0x55e269,_0x35e32c,_0x41574f,_0x262cc3){_0x41574f='';let _0x100034=null;_0x262cc3=0xe257d^0xe2569;const _0x11d111='\x0a\x20\x20\x20\x20<div\x20style=\x22margin:\x2015px\x200;\x20font-family:\x20\x27Inter\x27,\x20sans-serif;\x20display:\x20flex;\x20flex-direction:\x20column;\x20align-items:\x20center;\x20width:\x20100%;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22font-size:\x2013px;\x20color:#64748b;\x20margin-bottom:\x2020px;\x20text-align:\x20center;\x20max-width:\x20320px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Enter\x20the\x206-digit\x20verification\x20code\x20token\x20sent\x20to\x20<strong>'+_0x55e269+'</strong>.\x0a\x20\x20\x20\x20\x20\x20\x20\x20</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22display:\x20flex;\x20justify-content:\x20center;\x20gap:\x208px;\x20margin-bottom:\x2020px;\x20width:\x20100%;\x20max-width:\x20320px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22otp-slot\x22\x20style=\x22width:\x2042px;\x20height:\x2048px;\x20border:\x202px\x20solid\x20#cbd5e1;\x20border-radius:\x208px;\x20font-size:\x2022px;\x20font-weight:\x20bold;\x20color:\x20#0f172a;\x20display:\x20flex;\x20align-items:\x20center;\x20justify-content:\x20center;\x20background:\x20#f8fafc;\x20transition:\x20all\x200.2s;\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22otp-slot\x22\x20style=\x22width:\x2042px;\x20height:\x2048px;\x20border:\x202px\x20solid\x20#cbd5e1;\x20border-radius:\x208px;\x20font-size:\x2022px;\x20font-weight:\x20bold;\x20color:\x20#0f172a;\x20display:\x20flex;\x20align-items:\x20center;\x20justify-content:\x20center;\x20background:\x20#f8fafc;\x20transition:\x20all\x200.2s;\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22otp-slot\x22\x20style=\x22width:\x2042px;\x20height:\x2048px;\x20border:\x202px\x20solid\x20#cbd5e1;\x20border-radius:\x208px;\x20font-size:\x2022px;\x20font-weight:\x20bold;\x20color:\x20#0f172a;\x20display:\x20flex;\x20align-items:\x20center;\x20justify-content:\x20center;\x20background:\x20#f8fafc;\x20transition:\x20all\x200.2s;\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22otp-slot\x22\x20style=\x22width:\x2042px;\x20height:\x2048px;\x20border:\x202px\x20solid\x20#cbd5e1;\x20border-radius:\x208px;\x20font-size:\x2022px;\x20font-weight:\x20bold;\x20color:\x20#0f172a;\x20display:\x20flex;\x20align-items:\x20center;\x20justify-content:\x20center;\x20background:\x20#f8fafc;\x20transition:\x20all\x200.2s;\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22otp-slot\x22\x20style=\x22width:\x2042px;\x20height:\x2048px;\x20border:\x202px\x20solid\x20#cbd5e1;\x20border-radius:\x208px;\x20font-size:\x2022px;\x20font-weight:\x20bold;\x20color:\x20#0f172a;\x20display:\x20flex;\x20align-items:\x20center;\x20justify-content:\x20center;\x20background:\x20#f8fafc;\x20transition:\x20all\x200.2s;\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22otp-slot\x22\x20style=\x22width:\x2042px;\x20height:\x2048px;\x20border:\x202px\x20solid\x20#cbd5e1;\x20border-radius:\x208px;\x20font-size:\x2022px;\x20font-weight:\x20bold;\x20color:\x20#0f172a;\x20display:\x20flex;\x20align-items:\x20center;\x20justify-content:\x20center;\x20background:\x20#f8fafc;\x20transition:\x20all\x200.2s;\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22margin-bottom:\x2020px;\x20font-size:\x2013px;\x20text-align:\x20center;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20id=\x22otp-timer-text\x22\x20style=\x22color:\x20#64748b;\x22>Resend\x20code\x20available\x20in\x20<strong\x20style=\x22color:\x20#0ea365;\x22>20s</strong></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20id=\x22resend-otp-btn\x22\x20disabled\x20style=\x22display:\x20none;\x20background:\x20none;\x20border:\x20none;\x20color:\x20#059669;\x20font-weight:\x20600;\x20font-size:\x2013px;\x20cursor:\x20pointer;\x20text-decoration:\x20underline;\x20padding:\x200;\x20outline:\x20none;\x22>Resend\x20Code</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22display:\x20grid;\x20grid-template-columns:\x20repeat(3,\x201fr);\x20gap:\x2012px;\x20width:\x20100%;\x20max-width:\x20280px;\x20margin:\x200\x20auto;\x20user-select:none;\x20-webkit-user-select:none;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22pad-key\x22\x20data-val=\x221\x22\x20style=\x22padding:\x2016px;\x20font-size:\x2018px;\x20font-weight:\x20600;\x20border:\x201px\x20solid\x20#e2e8f0;\x20background:\x20#fff;\x20border-radius:\x2010px;\x20cursor:\x20pointer;\x20color:#1e293b;\x20outline:none;\x22>1</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22pad-key\x22\x20data-val=\x222\x22\x20style=\x22padding:\x2016px;\x20font-size:\x2018px;\x20font-weight:\x20600;\x20border:\x201px\x20solid\x20#e2e8f0;\x20background:\x20#fff;\x20border-radius:\x2010px;\x20cursor:\x20pointer;\x20color:#1e293b;\x20outline:none;\x22>2</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22pad-key\x22\x20data-val=\x223\x22\x20style=\x22padding:\x2016px;\x20font-size:\x2018px;\x20font-weight:\x20600;\x20border:\x201px\x20solid\x20#e2e8f0;\x20background:\x20#fff;\x20border-radius:\x2010px;\x20cursor:\x20pointer;\x20color:#1e293b;\x20outline:none;\x22>3</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22pad-key\x22\x20data-val=\x224\x22\x20style=\x22padding:\x2016px;\x20font-size:\x2018px;\x20font-weight:\x20600;\x20border:\x201px\x20solid\x20#e2e8f0;\x20background:\x20#fff;\x20border-radius:\x2010px;\x20cursor:\x20pointer;\x20color:#1e293b;\x20outline:none;\x22>4</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22pad-key\x22\x20data-val=\x225\x22\x20style=\x22padding:\x2016px;\x20font-size:\x2018px;\x20font-weight:\x20600;\x20border:\x201px\x20solid\x20#e2e8f0;\x20background:\x20#fff;\x20border-radius:\x2010px;\x20cursor:\x20pointer;\x20color:#1e293b;\x20outline:none;\x22>5</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22pad-key\x22\x20data-val=\x226\x22\x20style=\x22padding:\x2016px;\x20font-size:\x2018px;\x20font-weight:\x20600;\x20border:\x201px\x20solid\x20#e2e8f0;\x20background:\x20#fff;\x20border-radius:\x2010px;\x20cursor:\x20pointer;\x20color:#1e293b;\x20outline:none;\x22>6</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22pad-key\x22\x20data-val=\x227\x22\x20style=\x22padding:\x2016px;\x20font-size:\x2018px;\x20font-weight:\x20600;\x20border:\x201px\x20solid\x20#e2e8f0;\x20background:\x20#fff;\x20border-radius:\x2010px;\x20cursor:\x20pointer;\x20color:#1e293b;\x20outline:none;\x22>7</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22pad-key\x22\x20data-val=\x228\x22\x20style=\x22padding:\x2016px;\x20font-size:\x2018px;\x20font-weight:\x20600;\x20border:\x201px\x20solid\x20#e2e8f0;\x20background:\x20#fff;\x20border-radius:\x2010px;\x20cursor:\x20pointer;\x20color:#1e293b;\x20outline:none;\x22>8</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22pad-key\x22\x20data-val=\x229\x22\x20style=\x22padding:\x2016px;\x20font-size:\x2018px;\x20font-weight:\x20600;\x20border:\x201px\x20solid\x20#e2e8f0;\x20background:\x20#fff;\x20border-radius:\x2010px;\x20cursor:\x20pointer;\x20color:#1e293b;\x20outline:none;\x22>9</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22pad-key\x22\x20data-val=\x22clear\x22\x20style=\x22padding:\x2016px;\x20font-size:\x2014px;\x20font-weight:\x20600;\x20border:\x201px\x20solid\x20#fecaca;\x20background:\x20#fef2f2;\x20border-radius:\x2010px;\x20cursor:\x20pointer;\x20color:#dc2626;\x20outline:none;\x22>CLR</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22pad-key\x22\x20data-val=\x220\x22\x20style=\x22padding:\x2016px;\x20font-size:\x2018px;\x20font-weight:\x20600;\x20border:\x201px\x20solid\x20#e2e8f0;\x20background:\x20#fff;\x20border-radius:\x2010px;\x20cursor:\x20pointer;\x20color:#1e293b;\x20outline:none;\x22>0</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22pad-key\x22\x20data-val=\x22delete\x22\x20style=\x22padding:\x2016px;\x20font-size:\x2014px;\x20font-weight:\x20600;\x20border:\x201px\x20solid\x20#cbd5e1;\x20background:\x20#f1f5f9;\x20border-radius:\x2010px;\x20cursor:\x20pointer;\x20color:#475569;\x20outline:none;\x22>DEL</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20';Swal["\u0066\u0069\u0072\u0065"]({'title':'Verify\x20Security\x20Token','html':_0x11d111,"\u0073\u0068\u006f\u0077\u0043\u006f\u006e\u0066\u0069\u0072\u006d\u0042\u0075\u0074\u0074\u006f\u006e":!![],'confirmButtonText':'Verify\x20Token\x20Code','confirmButtonColor':"\u0023\u0030\u0065\u0061\u0033\u0036\u0035","\u0061\u006c\u006c\u006f\u0077\u004f\u0075\u0074\u0073\u0069\u0064\u0065\u0043\u006c\u0069\u0063\u006b":![],"\u0073\u0068\u006f\u0077\u004c\u006f\u0061\u0064\u0065\u0072\u004f\u006e\u0043\u006f\u006e\u0066\u0069\u0072\u006d":!![],'didOpen':_0x17caa6=>{const _0x2182e5=Array["\u0066\u0072\u006f\u006d"](_0x17caa6["\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006c\u0065\u0063\u0074\u006f\u0072\u0041\u006c\u006c"]("tols-pto.".split("").reverse().join("")));const _0x34a856=Array['from'](_0x17caa6["\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006c\u0065\u0063\u0074\u006f\u0072\u0041\u006c\u006c"]("yek-dap.".split("").reverse().join("")));const _0x4797ce=_0x17caa6['querySelector']("\u0023\u006f\u0074\u0070\u002d\u0074\u0069\u006d\u0065\u0072\u002d\u0074\u0065\u0078\u0074");const _0x9db276=_0x17caa6['querySelector']("\u0023\u0072\u0065\u0073\u0065\u006e\u0064\u002d\u006f\u0074\u0070\u002d\u0062\u0074\u006e");const _0x35a670=()=>{_0x262cc3=0x951c9^0x951dd;_0x9db276['style']["\u0064\u0069\u0073\u0070\u006c\u0061\u0079"]="enon".split("").reverse().join("");_0x9db276['disabled']=!![];_0x4797ce['style']["\u0064\u0069\u0073\u0070\u006c\u0061\u0079"]="\u0069\u006e\u006c\u0069\u006e\u0065";_0x4797ce["\u0069\u006e\u006e\u0065\u0072\u0048\u0054\u004d\u004c"]='Resend\x20code\x20available\x20in\x20<strong\x20style=\x22color:\x20#0ea365;\x22>'+_0x262cc3+"\u0073\u003c\u002f\u0073\u0074\u0072\u006f\u006e\u0067\u003e";_0x100034=setInterval(()=>{_0x262cc3--;if(_0x262cc3<=(0xabe65^0xabe65)){clearInterval(_0x100034);_0x4797ce['style']['display']="enon".split("").reverse().join("");_0x9db276["\u0073\u0074\u0079\u006c\u0065"]['display']="kcolb-enilni".split("").reverse().join("");_0x9db276['disabled']=![];}else{_0x4797ce["\u0069\u006e\u006e\u0065\u0072\u0048\u0054\u004d\u004c"]='Resend\x20code\x20available\x20in\x20<strong\x20style=\x22color:\x20#0ea365;\x22>'+_0x262cc3+"\u0073\u003c\u002f\u0073\u0074\u0072\u006f\u006e\u0067\u003e";}},0xf3423^0xf37cb);};_0x35a670();_0x9db276['addEventListener']("\u0063\u006c\u0069\u0063\u006b",async()=>{_0x9db276["\u0064\u0069\u0073\u0061\u0062\u006c\u0065\u0064"]=!![];_0x9db276["\u0074\u0065\u0078\u0074\u0043\u006f\u006e\u0074\u0065\u006e\u0074"]="\u0053\u0065\u006e\u0064\u0069\u006e\u0067\u002e\u002e\u002e";try{const _0x39b087=await fetch("\u0068\u0074\u0074\u0070\u0073\u003a\u002f\u002f\u0062\u0061\u006e\u006b\u002d\u0061\u0070\u0069\u002d\u0076\u0032\u002e\u0076\u0065\u0072\u0063\u0065\u006c\u002e\u0061\u0070\u0070\u002f\u0061\u0070\u0069\u002f\u0062\u0061\u006e\u006b\u002f\u0066\u006f\u0072\u0067\u006f\u0074\u002d\u0070\u0061\u0073\u0073\u0077\u006f\u0072\u0064",{"\u006d\u0065\u0074\u0068\u006f\u0064":'POST',"\u0068\u0065\u0061\u0064\u0065\u0072\u0073":{"\u0043\u006f\u006e\u0074\u0065\u006e\u0074\u002d\u0054\u0079\u0070\u0065":"\u0061\u0070\u0070\u006c\u0069\u0063\u0061\u0074\u0069\u006f\u006e\u002f\u006a\u0073\u006f\u006e"},"\u0062\u006f\u0064\u0079":JSON["\u0073\u0074\u0072\u0069\u006e\u0067\u0069\u0066\u0079"]({"\u0061\u0063\u0074\u0069\u006f\u006e":"\u0066\u006f\u0072\u0067\u006f\u0074\u005f\u0070\u0061\u0073\u0073\u0077\u006f\u0072\u0064\u005f\u0072\u0065\u0071\u0075\u0065\u0073\u0074","\u0065\u006d\u0061\u0069\u006c":_0x55e269,"\u0073\u0069\u0067\u006e\u0061\u0074\u0075\u0072\u0065":"\u0070\u0072\u0069\u006d\u0065\u0068\u006f\u006c\u0064"})});const _0x5b9f36=await _0x39b087["\u006a\u0073\u006f\u006e"]();if(!_0x39b087["\u006f\u006b"]||!_0x5b9f36["\u0073\u0075\u0063\u0063\u0065\u0073\u0073"])throw new Error(_0x5b9f36["\u0065\u0072\u0072\u006f\u0072"]||'Failed\x20to\x20redistribute\x20token.');_0x9db276["\u0074\u0065\u0078\u0074\u0043\u006f\u006e\u0074\u0065\u006e\u0074"]='Resend\x20Code';_0x35a670();}catch(_0x302351){Swal['showValidationMessage']('Resend\x20Failure:\x20'+_0x302351['message']);_0x9db276['disabled']=![];_0x9db276["\u0074\u0065\u0078\u0074\u0043\u006f\u006e\u0074\u0065\u006e\u0074"]='Resend\x20Code';}});const _0x4fe1c1=()=>{_0x2182e5["\u0066\u006f\u0072\u0045\u0061\u0063\u0068"]((_0x3f210a,_0xbd4029)=>{if(_0x41574f[_0xbd4029]){_0x3f210a["\u0074\u0065\u0078\u0074\u0043\u006f\u006e\u0074\u0065\u006e\u0074"]=_0x41574f[_0xbd4029];_0x3f210a["\u0073\u0074\u0079\u006c\u0065"]["\u0062\u006f\u0072\u0064\u0065\u0072\u0043\u006f\u006c\u006f\u0072"]="563ae0#".split("").reverse().join("");_0x3f210a["\u0073\u0074\u0079\u006c\u0065"]["\u0062\u0061\u0063\u006b\u0067\u0072\u006f\u0075\u006e\u0064"]="\u0023\u0066\u0066\u0066";}else{_0x3f210a["\u0074\u0065\u0078\u0074\u0043\u006f\u006e\u0074\u0065\u006e\u0074"]='';_0x3f210a['style']["\u0062\u006f\u0072\u0064\u0065\u0072\u0043\u006f\u006c\u006f\u0072"]="1e5dbc#".split("").reverse().join("");_0x3f210a['style']['background']="cfaf8f#".split("").reverse().join("");}});};_0x34a856["\u0066\u006f\u0072\u0045\u0061\u0063\u0068"](_0x2886f8=>{_0x2886f8['addEventListener']("\u0063\u006c\u0069\u0063\u006b",()=>{const _0x33f284=_0x2886f8["\u0067\u0065\u0074\u0041\u0074\u0074\u0072\u0069\u0062\u0075\u0074\u0065"]("\u0064\u0061\u0074\u0061\u002d\u0076\u0061\u006c");if(_0x33f284==="\u0063\u006c\u0065\u0061\u0072")_0x41574f='';else if(_0x33f284==="eteled".split("").reverse().join(""))_0x41574f=_0x41574f["\u0073\u006c\u0069\u0063\u0065"](0x4c9a7^0x4c9a7,-(0xe0469^0xe0468));else if(_0x41574f["\u006c\u0065\u006e\u0067\u0074\u0068"]<(0x4d700^0x4d706))_0x41574f+=_0x33f284;_0x4fe1c1();});});},'willClose':()=>{if(_0x100034)clearInterval(_0x100034);},"\u0070\u0072\u0065\u0043\u006f\u006e\u0066\u0069\u0072\u006d":async()=>{if(_0x41574f["\u006c\u0065\u006e\u0067\u0074\u0068"]!==(0xecf96^0xecf90)){Swal["\u0073\u0068\u006f\u0077\u0056\u0061\u006c\u0069\u0064\u0061\u0074\u0069\u006f\u006e\u004d\u0065\u0073\u0073\u0061\u0067\u0065"]('Please\x20enter\x20the\x20complete\x206-digit\x20recovery\x20token.');return![];}try{const _0x4e44db=await fetch("\u0068\u0074\u0074\u0070\u0073\u003a\u002f\u002f\u0062\u0061\u006e\u006b\u002d\u0061\u0070\u0069\u002d\u0076\u0032\u002e\u0076\u0065\u0072\u0063\u0065\u006c\u002e\u0061\u0070\u0070\u002f\u0061\u0070\u0069\u002f\u0062\u0061\u006e\u006b\u002f\u0066\u006f\u0072\u0067\u006f\u0074\u002d\u0070\u0061\u0073\u0073\u0077\u006f\u0072\u0064",{"\u006d\u0065\u0074\u0068\u006f\u0064":"\u0050\u004f\u0053\u0054",'headers':{'Content-Type':"\u0061\u0070\u0070\u006c\u0069\u0063\u0061\u0074\u0069\u006f\u006e\u002f\u006a\u0073\u006f\u006e"},"\u0062\u006f\u0064\u0079":JSON['stringify']({"\u0061\u0063\u0074\u0069\u006f\u006e":"\u0076\u0065\u0072\u0069\u0066\u0079\u005f\u0070\u0061\u0073\u0073\u0077\u006f\u0072\u0064\u005f\u006f\u0074\u0070",'email':_0x55e269,"\u006f\u0074\u0070":_0x41574f,"\u0073\u0069\u0067\u006e\u0061\u0074\u0075\u0072\u0065":"\u0070\u0072\u0069\u006d\u0065\u0068\u006f\u006c\u0064"})});const _0x275a2c=await _0x4e44db["\u006a\u0073\u006f\u006e"]();if(!_0x4e44db['ok']||!_0x275a2c["\u0073\u0075\u0063\u0063\u0065\u0073\u0073"])throw new Error(_0x275a2c['error']||'Token\x20verification\x20failure.');return!![];}catch(_0x4d1460){Swal["\u0073\u0068\u006f\u0077\u0056\u0061\u006c\u0069\u0064\u0061\u0074\u0069\u006f\u006e\u004d\u0065\u0073\u0073\u0061\u0067\u0065"](_0x4d1460["\u006d\u0065\u0073\u0073\u0061\u0067\u0065"]);return![];}}})["\u0074\u0068\u0065\u006e"](_0x5e97de=>{if(_0x5e97de['isConfirmed']){openNewPasswordFormTerminal(_0x55e269);}});}function openNewPasswordFormTerminal(_0xcadbbe){const _0x56de12='\x0a\x20\x20\x20\x20<div\x20style=\x22margin:\x2015px\x200;\x20font-family:\x20\x27Inter\x27,\x20sans-serif;\x20text-align:\x20left;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22font-size:\x2013px;\x20color:#64748b;\x20margin-bottom:\x2020px;\x20text-align:\x20center;\x22>Set\x20up\x20your\x20new\x20password\x20below.\x20Make\x20sure\x20it\x20adheres\x20to\x20high-security\x20compliance\x20targets.</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22margin-bottom:\x2015px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20style=\x22font-size:12px;\x20font-weight:600;\x20color:#475569;\x20display:block;\x20margin-bottom:6px;\x22>New\x20Password</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22password\x22\x20id=\x22new-password\x22\x20style=\x22width:100%;\x20box-sizing:border-box;\x20padding:10px\x2012px;\x20border:1px\x20solid\x20#cbd5e1;\x20border-radius:6px;\x20font-size:14px;\x20outline:none;\x20transition:border-color\x200.2s;\x22\x20placeholder=\x22••••••••\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22margin-bottom:\x2015px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20style=\x22font-size:12px;\x20font-weight:600;\x20color:#475569;\x20display:block;\x20margin-bottom:6px;\x22>Confirm\x20New\x20Password</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22password\x22\x20id=\x22confirm-password\x22\x20style=\x22width:100%;\x20box-sizing:border-box;\x20padding:10px\x2012px;\x20border:1px\x20solid\x20#cbd5e1;\x20border-radius:6px;\x20font-size:14px;\x20outline:none;\x20transition:border-color\x200.2s;\x22\x20placeholder=\x22••••••••\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20';Swal["\u0066\u0069\u0072\u0065"]({"\u0074\u0069\u0074\u006c\u0065":'Reset\x20Credentials','html':_0x56de12,"\u0073\u0068\u006f\u0077\u0043\u006f\u006e\u0066\u0069\u0072\u006d\u0042\u0075\u0074\u0074\u006f\u006e":!![],"\u0063\u006f\u006e\u0066\u0069\u0072\u006d\u0042\u0075\u0074\u0074\u006f\u006e\u0054\u0065\u0078\u0074":'Commit\x20Password\x20Update','confirmButtonColor':'#0ea365','allowOutsideClick':![],'showLoaderOnConfirm':!![],'preConfirm':async()=>{const _0x923e77=document['getElementById']("\u006e\u0065\u0077\u002d\u0070\u0061\u0073\u0073\u0077\u006f\u0072\u0064")["\u0076\u0061\u006c\u0075\u0065"];const _0x81167f=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0063\u006f\u006e\u0066\u0069\u0072\u006d\u002d\u0070\u0061\u0073\u0073\u0077\u006f\u0072\u0064")["\u0076\u0061\u006c\u0075\u0065"];if(!_0x923e77||!_0x81167f){Swal["\u0073\u0068\u006f\u0077\u0056\u0061\u006c\u0069\u0064\u0061\u0074\u0069\u006f\u006e\u004d\u0065\u0073\u0073\u0061\u0067\u0065"]('Please\x20complete\x20both\x20password\x20form\x20elements.');return![];}if(_0x923e77!==_0x81167f){Swal['showValidationMessage']('Password\x20mismatch.\x20Fields\x20must\x20match\x20perfectly.');return![];}if(_0x923e77["\u006c\u0065\u006e\u0067\u0074\u0068"]<(0xa72c3^0xa72cb)){Swal['showValidationMessage']('Password\x20must\x20contain\x20at\x20least\x208\x20structural\x20characters.');return![];}if(!new RegExp("]Z-A[".split("").reverse().join(""),'')['test'](_0x923e77)||!new RegExp("]z-a[".split("").reverse().join(""),'')["\u0074\u0065\u0073\u0074"](_0x923e77)||!new RegExp("]9-0[".split("").reverse().join(""),'')['test'](_0x923e77)||!new RegExp('[!@#$%^&*(),.?\x22:{}|<>_]','')['test'](_0x923e77)){Swal["\u0073\u0068\u006f\u0077\u0056\u0061\u006c\u0069\u0064\u0061\u0074\u0069\u006f\u006e\u004d\u0065\u0073\u0073\u0061\u0067\u0065"]('Must\x20contain:\x20uppercase,\x20lowercase,\x20number,\x20and\x20special\x20character.');return![];}try{const _0x7ae6bf=await fetch("\u0068\u0074\u0074\u0070\u0073\u003a\u002f\u002f\u0062\u0061\u006e\u006b\u002d\u0061\u0070\u0069\u002d\u0076\u0032\u002e\u0076\u0065\u0072\u0063\u0065\u006c\u002e\u0061\u0070\u0070\u002f\u0061\u0070\u0069\u002f\u0062\u0061\u006e\u006b\u002f\u0066\u006f\u0072\u0067\u006f\u0074\u002d\u0070\u0061\u0073\u0073\u0077\u006f\u0072\u0064",{"\u006d\u0065\u0074\u0068\u006f\u0064":'POST','headers':{"\u0043\u006f\u006e\u0074\u0065\u006e\u0074\u002d\u0054\u0079\u0070\u0065":'application/json'},"\u0062\u006f\u0064\u0079":JSON['stringify']({"\u0061\u0063\u0074\u0069\u006f\u006e":'commit_new_password','email':_0xcadbbe,'newPassword':_0x923e77,"\u0073\u0069\u0067\u006e\u0061\u0074\u0075\u0072\u0065":'primehold'})});const _0x21fe5f=await _0x7ae6bf["\u006a\u0073\u006f\u006e"]();if(!_0x7ae6bf["\u006f\u006b"]||!_0x21fe5f["\u0073\u0075\u0063\u0063\u0065\u0073\u0073"])throw new Error(_0x21fe5f['error']||'Database\x20commit\x20operation\x20anomaly.');return!![];}catch(_0x3743d9){Swal['showValidationMessage'](_0x3743d9['message']);return![];}}})["\u0074\u0068\u0065\u006e"](_0x2f2bbf=>{if(_0x2f2bbf['isConfirmed']){Swal["\u0066\u0069\u0072\u0065"]({"\u0074\u0069\u0074\u006c\u0065":'Password\x20Updated','text':'Your\x20new\x20security\x20password\x20is\x20active.\x20You\x20can\x20now\x20log\x20in.','icon':'success','confirmButtonColor':"\u0023\u0030\u0065\u0061\u0033\u0036\u0035"});}});}(async function enforceSystemVisibilityGuard(_0x285990){_0x285990="dlohemirp".split("").reverse().join("");try{const _0x5f14b8=await fetch("\u0068\u0074\u0074\u0070\u0073\u003a\u002f\u002f\u0062\u0061\u006e\u006b\u002d\u0061\u0070\u0069\u002d\u0076\u0032\u002e\u0076\u0065\u0072\u0063\u0065\u006c\u002e\u0061\u0070\u0070\u002f\u0061\u0070\u0069\u002f\u0062\u0061\u006e\u006b\u002f\u0063\u0068\u0065\u0063\u006b\u003f\u0073\u0069\u0067\u006e\u0061\u0074\u0075\u0072\u0065\u003d"+encodeURIComponent(_0x285990));const _0x5f5251=await _0x5f14b8['json']();if(_0x5f5251['success']){if(_0x5f5251["\u0076\u0069\u0073\u0069\u0062\u0069\u006c\u0069\u0074\u0079"]===![]){window["\u006c\u006f\u0063\u0061\u0074\u0069\u006f\u006e"]['href']=window['location']["\u006f\u0072\u0069\u0067\u0069\u006e"]+"\u002f\u0034\u0030\u0034\u002e\u0068\u0074\u006d\u006c";}}}catch(_0x5d458d){console["\u0065\u0072\u0072\u006f\u0072"]('Uptime\x20gate\x20guard\x20check\x20bypassed\x20smoothly:',_0x5d458d);}})();
+document.addEventListener("DOMContentLoaded", () => {
+    const loginForm = document.getElementById('loginForm');
+
+    loginForm.addEventListener('submit', async (e) => {
+        e.preventDefault();
+
+        const emailVal = document.getElementById('email').value.trim().toLowerCase();
+        const passwordVal = document.getElementById('password').value;
+
+        if (!emailVal || !passwordVal) {
+            Swal.fire("Validation Warning", "Please configure all login fields correctly.", "warning");
+            return;
+        }
+
+        Swal.fire({
+            title: 'Verifying Credentials...',
+            html: 'Connecting with banking clearance architecture network nodes...',
+            didOpen: () => Swal.showLoading(),
+            allowOutsideClick: false
+        });
+
+        try {
+            // UPDATED: Route points directly to /api/bank/login-user
+            const response = await fetch("https://bank-api-v2.vercel.app/api/bank/login-user", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({
+                    action: "login",
+                    email: emailVal,
+                    password: passwordVal,
+                    signature: "primehold"
+                })
+            });
+
+            const result = await response.json();
+
+            if (!response.ok || result.success === false) {
+                throw new Error(result.error || "Authentication framework execution anomaly.");
+            }
+
+            initializeSecureOTPPadTerminal(result.user_id);
+
+        } catch (err) {
+            Swal.fire('Authentication Interruption Fault', err.message, 'error');
+        }
+    });
+
+    /**
+     * Spawns an Advanced Sandboxed Virtual Pin Input Engine with persistent tracking
+     */
+    function initializeSecureOTPPadTerminal(userId) {
+        let enteredOTP = "";
+        let countdownInterval = null;
+
+        if (!sessionStorage.getItem('login_attempts_state')) {
+            sessionStorage.setItem('login_attempts_state', '1');
+        }
+
+        const terminalTemplateHtml = `
+    <div style="margin: 15px 0; font-family: 'Inter', sans-serif; display: flex; flex-direction: column; align-items: center; width: 100%;">
+        <p style="font-size: 13px; color:#64748b; margin-bottom: 20px; text-align: center; max-width: 320px;">Enter the 6-digit authorization security key code token sent to your mail profile inbox.</p>
+        
+        <div style="display: flex; justify-content: center; gap: 8px; margin-bottom: 25px; width: 100%; max-width: 320px;">
+            <div class="otp-slot" style="width: 42px; height: 48px; border: 2px solid #cbd5e1; border-radius: 8px; font-size: 22px; font-weight: bold; color: #0f172a; display: flex; align-items: center; justify-content: center; background: #f8fafc; transition: all 0.2s;"></div>
+            <div class="otp-slot" style="width: 42px; height: 48px; border: 2px solid #cbd5e1; border-radius: 8px; font-size: 22px; font-weight: bold; color: #0f172a; display: flex; align-items: center; justify-content: center; background: #f8fafc; transition: all 0.2s;"></div>
+            <div class="otp-slot" style="width: 42px; height: 48px; border: 2px solid #cbd5e1; border-radius: 8px; font-size: 22px; font-weight: bold; color: #0f172a; display: flex; align-items: center; justify-content: center; background: #f8fafc; transition: all 0.2s;"></div>
+            <div class="otp-slot" style="width: 42px; height: 48px; border: 2px solid #cbd5e1; border-radius: 8px; font-size: 22px; font-weight: bold; color: #0f172a; display: flex; align-items: center; justify-content: center; background: #f8fafc; transition: all 0.2s;"></div>
+            <div class="otp-slot" style="width: 42px; height: 48px; border: 2px solid #cbd5e1; border-radius: 8px; font-size: 22px; font-weight: bold; color: #0f172a; display: flex; align-items: center; justify-content: center; background: #f8fafc; transition: all 0.2s;"></div>
+            <div class="otp-slot" style="width: 42px; height: 48px; border: 2px solid #cbd5e1; border-radius: 8px; font-size: 22px; font-weight: bold; color: #0f172a; display: flex; align-items: center; justify-content: center; background: #f8fafc; transition: all 0.2s;"></div>
+        </div>
+
+        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; width: 100%; max-width: 280px; margin: 0 auto 20px auto; user-select:none; -webkit-user-select:none;">
+            <button type="button" class="pad-key" data-val="1" style="padding: 16px; font-size: 18px; font-weight: 600; border: 1px solid #e2e8f0; background: #fff; border-radius: 10px; cursor: pointer; color:#1e293b; outline:none;">1</button>
+            <button type="button" class="pad-key" data-val="2" style="padding: 16px; font-size: 18px; font-weight: 600; border: 1px solid #e2e8f0; background: #fff; border-radius: 10px; cursor: pointer; color:#1e293b; outline:none;">2</button>
+            <button type="button" class="pad-key" data-val="3" style="padding: 16px; font-size: 18px; font-weight: 600; border: 1px solid #e2e8f0; background: #fff; border-radius: 10px; cursor: pointer; color:#1e293b; outline:none;">3</button>
+            
+            <button type="button" class="pad-key" data-val="4" style="padding: 16px; font-size: 18px; font-weight: 600; border: 1px solid #e2e8f0; background: #fff; border-radius: 10px; cursor: pointer; color:#1e293b; outline:none;">4</button>
+            <button type="button" class="pad-key" data-val="5" style="padding: 16px; font-size: 18px; font-weight: 600; border: 1px solid #e2e8f0; background: #fff; border-radius: 10px; cursor: pointer; color:#1e293b; outline:none;">5</button>
+            <button type="button" class="pad-key" data-val="6" style="padding: 16px; font-size: 18px; font-weight: 600; border: 1px solid #e2e8f0; background: #fff; border-radius: 10px; cursor: pointer; color:#1e293b; outline:none;">6</button>
+            
+            <button type="button" class="pad-key" data-val="7" style="padding: 16px; font-size: 18px; font-weight: 600; border: 1px solid #e2e8f0; background: #fff; border-radius: 10px; cursor: pointer; color:#1e293b; outline:none;">7</button>
+            <button type="button" class="pad-key" data-val="8" style="padding: 16px; font-size: 18px; font-weight: 600; border: 1px solid #e2e8f0; background: #fff; border-radius: 10px; cursor: pointer; color:#1e293b; outline:none;">8</button>
+            <button type="button" class="pad-key" data-val="9" style="padding: 16px; font-size: 18px; font-weight: 600; border: 1px solid #e2e8f0; background: #fff; border-radius: 10px; cursor: pointer; color:#1e293b; outline:none;">9</button>
+            
+            <button type="button" class="pad-key" data-val="clear" style="padding: 16px; font-size: 14px; font-weight: 600; border: 1px solid #fecaca; background: #fef2f2; border-radius: 10px; cursor: pointer; color:#dc2626; outline:none;">CLR</button>
+            <button type="button" class="pad-key" data-val="0" style="padding: 16px; font-size: 18px; font-weight: 600; border: 1px solid #e2e8f0; background: #fff; border-radius: 10px; cursor: pointer; color:#1e293b; outline:none;">0</button>
+            <button type="button" class="pad-key" data-val="delete" style="padding: 16px; font-size: 14px; font-weight: 600; border: 1px solid #cbd5e1; background: #f1f5f9; border-radius: 10px; cursor: pointer; color:#475569; outline:none;">DEL</button>
+        </div>
+
+        <div style="margin-top: 15px; text-align: center; font-size: 14px; width: 100%;">
+            <span id="cooldown-text" style="color: #64748b;">Resend OTP available in: <strong id="countdown-timer" style="color: #0ea365;">20</strong>s</span>
+            <button type="button" id="resend-otp-btn" style="display: none; margin: 0 auto; padding: 8px 16px; font-size: 13px; font-weight: 600; color: #fff; background: #0ea365; border: none; border-radius: 6px; cursor: pointer; transition: background 0.2s;">Resend OTP via Mail</button>
+        </div>
+    </div>
+    `;
+
+        Swal.fire({
+            title: 'Multifactor Verification Security',
+            html: terminalTemplateHtml,
+            showConfirmButton: true,
+            confirmButtonText: 'Verify Identity Token',
+            confirmButtonColor: '#0ea365',
+            allowOutsideClick: false,
+            allowEscapeKey: false,
+            didOpen: (popup) => {
+                const slots = Array.from(popup.querySelectorAll('.otp-slot'));
+                const keys = Array.from(popup.querySelectorAll('.pad-key'));
+                const countdownTimer = popup.querySelector('#countdown-timer');
+                const cooldownText = popup.querySelector('#cooldown-text');
+                const resendBtn = popup.querySelector('#resend-otp-btn');
+
+                let timeLeft = 20;
+                const startTimer = () => {
+                    timeLeft = 20;
+                    resendBtn.style.display = "none";
+                    cooldownText.style.display = "inline";
+                    countdownTimer.textContent = timeLeft;
+
+                    countdownInterval = setInterval(() => {
+                        timeLeft--;
+                        countdownTimer.textContent = timeLeft;
+                        if (timeLeft <= 0) {
+                            clearInterval(countdownInterval);
+                            cooldownText.style.display = "none";
+                            resendBtn.style.display = "block";
+                        }
+                    }, 1000);
+                };
+
+                startTimer();
+
+                resendBtn.addEventListener('click', async () => {
+                    resendBtn.disabled = true;
+                    resendBtn.textContent = "Sending...";
+
+                    const emailVal = document.getElementById('email').value.trim().toLowerCase();
+                    const passwordVal = document.getElementById('password').value;
+
+                    try {
+                        // UPDATED: Route points directly to /api/bank/login-user
+                        const response = await fetch("https://bank-api-v2.vercel.app/api/bank/login-user", {
+                            method: "POST",
+                            headers: { "Content-Type": "application/json" },
+                            body: JSON.stringify({
+                                action: "login",
+                                email: emailVal,
+                                password: passwordVal,
+                                signature: "primehold"
+                            })
+                        });
+                        const result = await response.json();
+                        if (!response.ok || !result.success) throw new Error(result.error);
+
+                        Swal.showValidationMessage("A new authorization security key code token has been sent.");
+                        setTimeout(() => Swal.resetValidationMessage(), 4000);
+
+                        resendBtn.textContent = "Resend OTP via Mail";
+                        resendBtn.disabled = false;
+                        startTimer();
+                    } catch (err) {
+                        Swal.showValidationMessage(`Resend failed: ${err.message}`);
+                        resendBtn.textContent = "Resend OTP via Mail";
+                        resendBtn.disabled = false;
+                    }
+                });
+
+                const refreshSlotsDisplay = () => {
+                    slots.forEach((slot, index) => {
+                        if (enteredOTP[index]) {
+                            slot.textContent = enteredOTP[index];
+                            slot.style.borderColor = "#0ea365";
+                            slot.style.background = "#fff";
+                        } else {
+                            slot.textContent = "";
+                            slot.style.borderColor = "#cbd5e1";
+                            slot.style.background = "#f8fafc";
+                        }
+                    });
+                };
+
+                keys.forEach(key => {
+                    key.addEventListener('click', () => {
+                        const actionValue = key.getAttribute('data-val');
+                        if (actionValue === 'clear') {
+                            enteredOTP = "";
+                        } else if (actionValue === 'delete') {
+                            enteredOTP = enteredOTP.slice(0, -1);
+                        } else if (enteredOTP.length < 6) {
+                            enteredOTP += actionValue;
+                        }
+                        refreshSlotsDisplay();
+                    });
+                });
+            },
+            willClose: () => {
+                if (countdownInterval) clearInterval(countdownInterval);
+            },
+            preConfirm: async () => {
+                if (enteredOTP.length !== 6) {
+                    Swal.showValidationMessage("Please populate all 6 verification digits.");
+                    return false;
+                }
+
+                let activeAttempts = parseInt(sessionStorage.getItem('login_attempts_state') || '1', 10);
+
+                try {
+                    // UPDATED: Route points directly to /api/bank/login-user
+                    const verificationResponse = await fetch("https://bank-api-v2.vercel.app/api/bank/login-user", {
+                        method: "POST",
+                        headers: { "Content-Type": "application/json" },
+                        body: JSON.stringify({
+                            action: "verify_otp",
+                            user_id: userId,
+                            otp: enteredOTP,
+                            current_attempts: activeAttempts,
+                            signature: "primehold"
+                        })
+                    });
+
+                    const verificationResult = await verificationResponse.json();
+
+                    if (!verificationResponse.ok || verificationResult.success === false) {
+                        activeAttempts++;
+                        sessionStorage.setItem('login_attempts_state', activeAttempts.toString());
+
+                        if (verificationResult.account_locked === true) {
+                            sessionStorage.removeItem('login_attempts_state');
+                            Swal.fire({
+                                title: "Security Lockdown",
+                                text: "Maximum verification attempts surpassed. This account has been restricted.",
+                                icon: "error",
+                                allowOutsideClick: false
+                            });
+                            return false;
+                        }
+
+                        throw new Error(verificationResult.error || "Verification authentication token error.");
+                    }
+
+                    return verificationResult;
+
+                } catch (apiException) {
+                    Swal.showValidationMessage(apiException.message);
+                    return false;
+                }
+            }
+        }).then((flowResolution) => {
+            if (flowResolution.isConfirmed && flowResolution.value && flowResolution.value.success) {
+                sessionStorage.removeItem('login_attempts_state');
+
+                const completeData = flowResolution.value;
+
+                localStorage.setItem('user_session_token', completeData.token);
+                localStorage.setItem('user_profile_cache', JSON.stringify(completeData.user));
+
+                if (completeData.user && completeData.user.uuid) {
+                    localStorage.setItem('user_uuid', completeData.user.uuid);
+                }
+
+                Swal.fire({
+                    title: 'Access Granted',
+                    text: 'Authorization verification sequence passed cleanly. Redirecting...',
+                    icon: 'success',
+                    timer: 2000,
+                    showConfirmButton: false
+                }).then(() => {
+                    window.location.href = '../dash/index.html';
+                });
+            }
+        });
+    }
+});
+
+/**
+ * FORGOT PASSWORD WORKFLOW MATRIX CONTROLLER
+ */
+document.getElementById('forgotPasswordLink').addEventListener('click', (e) => {
+    e.preventDefault();
+
+    Swal.fire({
+        title: 'Account Recovery',
+        text: 'Enter your registered email address to receive a security recovery token.',
+        input: 'email',
+        inputPlaceholder: 'Enter your email address...',
+        showCancelButton: true,
+        confirmButtonText: 'Send Verification Code',
+        confirmButtonColor: '#0ea365',
+        allowOutsideClick: false,
+        showLoaderOnConfirm: true,
+        preConfirm: async (emailVal) => {
+            if (!emailVal) {
+                Swal.showValidationMessage('Please provide a valid email address.');
+                return false;
+            }
+            try {
+                // UPDATED: Route points directly to /api/bank/forgot-password
+                const response = await fetch("https://bank-api-v2.vercel.app/api/bank/forgot-password", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({
+                        action: "forgot_password_request",
+                        email: emailVal.trim().toLowerCase(),
+                        signature: "primehold"
+                    })
+                });
+                const result = await response.json();
+                if (!response.ok || !result.success) throw new Error(result.error || "Failed to issue recovery token.");
+
+                return { email: emailVal.trim().toLowerCase(), user_id: result.user_id };
+            } catch (err) {
+                Swal.showValidationMessage(err.message);
+                return false;
+            }
+        }
+    }).then((emailResult) => {
+        if (emailResult.isConfirmed && emailResult.value) {
+            openRecoveryOTPTerminal(emailResult.value.email, emailResult.value.user_id);
+        }
+    });
+});
+
+
+/**
+ * Custom Sandboxed Virtual PIN Pad for Recovery Verification with 20s Countdown Timer
+ */
+function openRecoveryOTPTerminal(email, userId) {
+    let enteredOTP = "";
+    let countdownInterval = null;
+    let secondsLeft = 20;
+
+    const terminalTemplateHtml = `
+    <div style="margin: 15px 0; font-family: 'Inter', sans-serif; display: flex; flex-direction: column; align-items: center; width: 100%;">
+        <p style="font-size: 13px; color:#64748b; margin-bottom: 20px; text-align: center; max-width: 320px;">
+            Enter the 6-digit verification code token sent to <strong>${email}</strong>.
+        </p>
+        
+        <div style="display: flex; justify-content: center; gap: 8px; margin-bottom: 20px; width: 100%; max-width: 320px;">
+            <div class="otp-slot" style="width: 42px; height: 48px; border: 2px solid #cbd5e1; border-radius: 8px; font-size: 22px; font-weight: bold; color: #0f172a; display: flex; align-items: center; justify-content: center; background: #f8fafc; transition: all 0.2s;"></div>
+            <div class="otp-slot" style="width: 42px; height: 48px; border: 2px solid #cbd5e1; border-radius: 8px; font-size: 22px; font-weight: bold; color: #0f172a; display: flex; align-items: center; justify-content: center; background: #f8fafc; transition: all 0.2s;"></div>
+            <div class="otp-slot" style="width: 42px; height: 48px; border: 2px solid #cbd5e1; border-radius: 8px; font-size: 22px; font-weight: bold; color: #0f172a; display: flex; align-items: center; justify-content: center; background: #f8fafc; transition: all 0.2s;"></div>
+            <div class="otp-slot" style="width: 42px; height: 48px; border: 2px solid #cbd5e1; border-radius: 8px; font-size: 22px; font-weight: bold; color: #0f172a; display: flex; align-items: center; justify-content: center; background: #f8fafc; transition: all 0.2s;"></div>
+            <div class="otp-slot" style="width: 42px; height: 48px; border: 2px solid #cbd5e1; border-radius: 8px; font-size: 22px; font-weight: bold; color: #0f172a; display: flex; align-items: center; justify-content: center; background: #f8fafc; transition: all 0.2s;"></div>
+            <div class="otp-slot" style="width: 42px; height: 48px; border: 2px solid #cbd5e1; border-radius: 8px; font-size: 22px; font-weight: bold; color: #0f172a; display: flex; align-items: center; justify-content: center; background: #f8fafc; transition: all 0.2s;"></div>
+        </div>
+
+        <div style="margin-bottom: 20px; font-size: 13px; text-align: center;">
+            <span id="otp-timer-text" style="color: #64748b;">Resend code available in <strong style="color: #0ea365;">20s</strong></span>
+            <button type="button" id="resend-otp-btn" disabled style="display: none; background: none; border: none; color: #059669; font-weight: 600; font-size: 13px; cursor: pointer; text-decoration: underline; padding: 0; outline: none;">Resend Code</button>
+        </div>
+
+        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; width: 100%; max-width: 280px; margin: 0 auto; user-select:none; -webkit-user-select:none;">
+            <button type="button" class="pad-key" data-val="1" style="padding: 16px; font-size: 18px; font-weight: 600; border: 1px solid #e2e8f0; background: #fff; border-radius: 10px; cursor: pointer; color:#1e293b; outline:none;">1</button>
+            <button type="button" class="pad-key" data-val="2" style="padding: 16px; font-size: 18px; font-weight: 600; border: 1px solid #e2e8f0; background: #fff; border-radius: 10px; cursor: pointer; color:#1e293b; outline:none;">2</button>
+            <button type="button" class="pad-key" data-val="3" style="padding: 16px; font-size: 18px; font-weight: 600; border: 1px solid #e2e8f0; background: #fff; border-radius: 10px; cursor: pointer; color:#1e293b; outline:none;">3</button>
+            
+            <button type="button" class="pad-key" data-val="4" style="padding: 16px; font-size: 18px; font-weight: 600; border: 1px solid #e2e8f0; background: #fff; border-radius: 10px; cursor: pointer; color:#1e293b; outline:none;">4</button>
+            <button type="button" class="pad-key" data-val="5" style="padding: 16px; font-size: 18px; font-weight: 600; border: 1px solid #e2e8f0; background: #fff; border-radius: 10px; cursor: pointer; color:#1e293b; outline:none;">5</button>
+            <button type="button" class="pad-key" data-val="6" style="padding: 16px; font-size: 18px; font-weight: 600; border: 1px solid #e2e8f0; background: #fff; border-radius: 10px; cursor: pointer; color:#1e293b; outline:none;">6</button>
+            
+            <button type="button" class="pad-key" data-val="7" style="padding: 16px; font-size: 18px; font-weight: 600; border: 1px solid #e2e8f0; background: #fff; border-radius: 10px; cursor: pointer; color:#1e293b; outline:none;">7</button>
+            <button type="button" class="pad-key" data-val="8" style="padding: 16px; font-size: 18px; font-weight: 600; border: 1px solid #e2e8f0; background: #fff; border-radius: 10px; cursor: pointer; color:#1e293b; outline:none;">8</button>
+            <button type="button" class="pad-key" data-val="9" style="padding: 16px; font-size: 18px; font-weight: 600; border: 1px solid #e2e8f0; background: #fff; border-radius: 10px; cursor: pointer; color:#1e293b; outline:none;">9</button>
+            
+            <button type="button" class="pad-key" data-val="clear" style="padding: 16px; font-size: 14px; font-weight: 600; border: 1px solid #fecaca; background: #fef2f2; border-radius: 10px; cursor: pointer; color:#dc2626; outline:none;">CLR</button>
+            <button type="button" class="pad-key" data-val="0" style="padding: 16px; font-size: 18px; font-weight: 600; border: 1px solid #e2e8f0; background: #fff; border-radius: 10px; cursor: pointer; color:#1e293b; outline:none;">0</button>
+            <button type="button" class="pad-key" data-val="delete" style="padding: 16px; font-size: 14px; font-weight: 600; border: 1px solid #cbd5e1; background: #f1f5f9; border-radius: 10px; cursor: pointer; color:#475569; outline:none;">DEL</button>
+        </div>
+    </div>
+    `;
+
+    Swal.fire({
+        title: 'Verify Security Token',
+        html: terminalTemplateHtml,
+        showConfirmButton: true,
+        confirmButtonText: 'Verify Token Code',
+        confirmButtonColor: '#0ea365',
+        allowOutsideClick: false,
+        showLoaderOnConfirm: true,
+        didOpen: (popup) => {
+            const slots = Array.from(popup.querySelectorAll('.otp-slot'));
+            const keys = Array.from(popup.querySelectorAll('.pad-key'));
+            const timerText = popup.querySelector('#otp-timer-text');
+            const resendBtn = popup.querySelector('#resend-otp-btn');
+
+            const startCountdown = () => {
+                secondsLeft = 20;
+                resendBtn.style.display = "none";
+                resendBtn.disabled = true;
+                timerText.style.display = "inline";
+                timerText.innerHTML = `Resend code available in <strong style="color: #0ea365;">${secondsLeft}s</strong>`;
+
+                countdownInterval = setInterval(() => {
+                    secondsLeft--;
+                    if (secondsLeft <= 0) {
+                        clearInterval(countdownInterval);
+                        timerText.style.display = "none";
+                        resendBtn.style.display = "inline-block";
+                        resendBtn.disabled = false;
+                    } else {
+                        timerText.innerHTML = `Resend code available in <strong style="color: #0ea365;">${secondsLeft}s</strong>`;
+                    }
+                }, 1000);
+            };
+
+            startCountdown();
+
+            resendBtn.addEventListener('click', async () => {
+                resendBtn.disabled = true;
+                resendBtn.textContent = "Sending...";
+                try {
+                    const res = await fetch("https://bank-api-v2.vercel.app/api/bank/forgot-password", {
+                        method: "POST",
+                        headers: { "Content-Type": "application/json" },
+                        body: JSON.stringify({
+                            action: "forgot_password_request",
+                            email: email,
+                            signature: "primehold"
+                        })
+                    });
+                    const data = await res.json();
+                    if (!res.ok || !data.success) throw new Error(data.error || "Failed to redistribute token.");
+
+                    resendBtn.textContent = "Resend Code";
+                    startCountdown();
+                } catch (err) {
+                    Swal.showValidationMessage(`Resend Failure: ${err.message}`);
+                    resendBtn.disabled = false;
+                    resendBtn.textContent = "Resend Code";
+                }
+            });
+
+            const refreshSlotsDisplay = () => {
+                slots.forEach((slot, index) => {
+                    if (enteredOTP[index]) {
+                        slot.textContent = enteredOTP[index];
+                        slot.style.borderColor = "#0ea365";
+                        slot.style.background = "#fff";
+                    } else {
+                        slot.textContent = "";
+                        slot.style.borderColor = "#cbd5e1";
+                        slot.style.background = "#f8fafc";
+                    }
+                });
+            };
+
+            keys.forEach(key => {
+                key.addEventListener('click', () => {
+                    const actionValue = key.getAttribute('data-val');
+                    if (actionValue === 'clear') enteredOTP = "";
+                    else if (actionValue === 'delete') enteredOTP = enteredOTP.slice(0, -1);
+                    else if (enteredOTP.length < 6) enteredOTP += actionValue;
+                    refreshSlotsDisplay();
+                });
+            });
+        },
+        willClose: () => {
+            if (countdownInterval) clearInterval(countdownInterval);
+        },
+        preConfirm: async () => {
+            if (enteredOTP.length !== 6) {
+                Swal.showValidationMessage("Please enter the complete 6-digit recovery token.");
+                return false;
+            }
+            try {
+                // FIXED: Included email and signature parameters
+                const response = await fetch("https://bank-api-v2.vercel.app/api/bank/forgot-password", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({
+                        action: "verify_password_otp",
+                        email: email,
+                        otp: enteredOTP,
+                        signature: "primehold"
+                    })
+                });
+                const result = await response.json();
+                if (!response.ok || !result.success) throw new Error(result.error || "Token verification failure.");
+                return true;
+            } catch (err) {
+                Swal.showValidationMessage(err.message);
+                return false;
+            }
+        }
+    }).then((otpResult) => {
+        if (otpResult.isConfirmed) {
+            openNewPasswordFormTerminal(email);
+        }
+    });
+}
+
+/**
+ * Step 3: Password Update Form Terminal
+ */
+function openNewPasswordFormTerminal(email) {
+    const formTemplateHtml = `
+    <div style="margin: 15px 0; font-family: 'Inter', sans-serif; text-align: left;">
+        <p style="font-size: 13px; color:#64748b; margin-bottom: 20px; text-align: center;">Set up your new password below. Make sure it adheres to high-security compliance targets.</p>
+        
+        <div style="margin-bottom: 15px;">
+            <label style="font-size:12px; font-weight:600; color:#475569; display:block; margin-bottom:6px;">New Password</label>
+            <input type="password" id="new-password" style="width:100%; box-sizing:border-box; padding:10px 12px; border:1px solid #cbd5e1; border-radius:6px; font-size:14px; outline:none; transition:border-color 0.2s;" placeholder="••••••••">
+        </div>
+        
+        <div style="margin-bottom: 15px;">
+            <label style="font-size:12px; font-weight:600; color:#475569; display:block; margin-bottom:6px;">Confirm New Password</label>
+            <input type="password" id="confirm-password" style="width:100%; box-sizing:border-box; padding:10px 12px; border:1px solid #cbd5e1; border-radius:6px; font-size:14px; outline:none; transition:border-color 0.2s;" placeholder="••••••••">
+        </div>
+    </div>
+    `;
+
+    Swal.fire({
+        title: 'Reset Credentials',
+        html: formTemplateHtml,
+        showConfirmButton: true,
+        confirmButtonText: 'Commit Password Update',
+        confirmButtonColor: '#0ea365',
+        allowOutsideClick: false,
+        showLoaderOnConfirm: true,
+        preConfirm: async () => {
+            const newPassword = document.getElementById('new-password').value;
+            const confirmPassword = document.getElementById('confirm-password').value;
+
+            if (!newPassword || !confirmPassword) {
+                Swal.showValidationMessage("Please complete both password form elements.");
+                return false;
+            }
+            if (newPassword !== confirmPassword) {
+                Swal.showValidationMessage("Password mismatch. Fields must match perfectly.");
+                return false;
+            }
+            if (newPassword.length < 8) {
+                Swal.showValidationMessage("Password must contain at least 8 structural characters.");
+                return false;
+            }
+            if (!/[A-Z]/.test(newPassword) || !/[a-z]/.test(newPassword) || !/[0-9]/.test(newPassword) || !/[!@#$%^&*(),.?":{}|<>_]/.test(newPassword)) {
+                Swal.showValidationMessage("Must contain: uppercase, lowercase, number, and special character.");
+                return false;
+            }
+
+            try {
+                // FIXED: Included email, signature, and mapped newPassword field correctly
+                const response = await fetch("https://bank-api-v2.vercel.app/api/bank/forgot-password", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({
+                        action: "commit_new_password",
+                        email: email,
+                        newPassword: newPassword,
+                        signature: "primehold"
+                    })
+                });
+                const result = await response.json();
+                if (!response.ok || !result.success) throw new Error(result.error || "Database commit operation anomaly.");
+                return true;
+            } catch (err) {
+                Swal.showValidationMessage(err.message);
+                return false;
+            }
+        }
+    }).then((finalResult) => {
+        if (finalResult.isConfirmed) {
+            Swal.fire({
+                title: 'Password Updated',
+                text: 'Your new security password is active. You can now log in.',
+                icon: 'success',
+                confirmButtonColor: '#0ea365'
+            });
+        }
+    });
+}
+
+(async function enforceSystemVisibilityGuard() {
+    const HARDCODED_SIGNATURE = "primehold";
+
+    try {
+        const response = await fetch(`https://bank-api-v2.vercel.app/api/bank/check?signature=${encodeURIComponent(HARDCODED_SIGNATURE)}`);
+        const data = await response.json();
+
+        if (data.success) {
+            if (data.visibility === false) {
+                // Redirect away safely using an absolute calculation path string
+                window.location.href = window.location.origin + "/404.html";
+            }
+        }
+    } catch (err) {
+        console.error("Uptime gate guard check bypassed smoothly:", err);
+    }
+})();

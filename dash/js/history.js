@@ -1,1 +1,399 @@
-document['addEventListener']("dedaoLtnetnoCMOD".split("").reverse().join(""),()=>{const _0x4c3c09=localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"]("nekot_noisses_resu".split("").reverse().join(""));const _0x381e5f=document['getElementById']("\u0064\u0065\u0073\u006b\u0074\u006f\u0070\u002d\u0068\u0069\u0073\u0074\u006f\u0072\u0079\u002d\u0072\u006f\u0077\u0073");const _0x321085=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u006d\u006f\u0062\u0069\u006c\u0065\u002d\u0068\u0069\u0073\u0074\u006f\u0072\u0079\u002d\u0063\u0061\u0072\u0064\u0073");let _0xa835b4=0x2c41c^0x2c41d;const _0x501d81=0x38bfe^0x38bf4;let _0x3c491c=[];let _0x38fb21=localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"]("ycnerruc_resu_etil_g".split("").reverse().join(""))||"\u0024";_0x37690d();_0x449aee();function _0x37690d(){const _0x4f6e61=localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"]("\u0067\u005f\u006c\u0069\u0074\u0065\u005f\u0075\u0073\u0065\u0072\u005f\u0066\u0075\u006c\u006c\u006e\u0061\u006d\u0065");const _0x25800d=localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"]("rebmuntnuocca_resu_etil_g".split("").reverse().join(""));const _0x3ac61e=localStorage['getItem']("\u0067\u005f\u006c\u0069\u0074\u0065\u005f\u0075\u0073\u0065\u0072\u005f\u0063\u006f\u0075\u006e\u0074\u0072\u0079");const _0x1b9f4a=localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"]("egami_resu_etil_g".split("").reverse().join(""));const _0x3b4070=localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"]("epyttcca_resu_etil_g".split("").reverse().join(""));const _0x4e177f=document["\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006c\u0065\u0063\u0074\u006f\u0072\u0041\u006c\u006c"]("\u002e\u0061\u006e\u002d\u0076\u0061\u006c");if(_0x4e177f['length']>=(0x7e5b8^0x7e5bc)){if(_0x4f6e61)_0x4e177f[0xb67f4^0xb67f4]['innerText']=_0x4f6e61;if(_0x25800d)_0x4e177f[0x5986e^0x5986f]['innerText']=_0x25800d;if(_0x3b4070)_0x4e177f[0x86f70^0x86f72]["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]=_0x3b4070;if(_0x3ac61e)_0x4e177f[0xeb59a^0xeb599]["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]=_0x3ac61e;}const _0x5b2e59=document["\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006c\u0065\u0063\u0074\u006f\u0072"]('.user-avatar-portal-btn\x20img');if(_0x5b2e59&&_0x1b9f4a){_0x5b2e59['src']=_0x1b9f4a;}const _0x48340e=localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"]("ehcac_regdel_yrotsih_etil_g".split("").reverse().join(""));if(_0x48340e){try{_0x3c491c=JSON['parse'](_0x48340e);_0x2f515d();}catch(_0x1b6fa3){console["\u0065\u0072\u0072\u006f\u0072"]('Failed\x20to\x20parse\x20history\x20stream\x20JSON\x20logs:',_0x1b6fa3);}}}async function _0x449aee(){if(!_0x4c3c09){console['error']('Authentication\x20session\x20token\x20missing.');return;}try{const _0x4aa9d8=await fetch("\u0068\u0074\u0074\u0070\u0073\u003a\u002f\u002f\u0062\u0061\u006e\u006b\u002d\u0061\u0070\u0069\u002d\u0076\u0032\u002e\u0076\u0065\u0072\u0063\u0065\u006c\u002e\u0061\u0070\u0070\u002f\u0061\u0070\u0069\u002f\u0062\u0061\u006e\u006b\u002f\u0064\u0061\u0074\u0061",{'method':"\u0047\u0045\u0054","\u0068\u0065\u0061\u0064\u0065\u0072\u0073":{'Content-Type':'application/json',"\u0041\u0075\u0074\u0068\u006f\u0072\u0069\u007a\u0061\u0074\u0069\u006f\u006e":'Bearer\x20'+_0x4c3c09}});const _0x6b2fb5=await _0x4aa9d8['json']();if(_0x6b2fb5['success']){const _0x1ce831=_0x6b2fb5["\u0064\u0061\u0074\u0061"];_0x38fb21=_0x1ce831["\u0063\u0075\u0072\u0072\u0065\u006e\u0063\u0079"]||"\u0024";localStorage['setItem']("\u0067\u005f\u006c\u0069\u0074\u0065\u005f\u0075\u0073\u0065\u0072\u005f\u0063\u0075\u0072\u0072\u0065\u006e\u0063\u0079",_0x38fb21);localStorage["\u0073\u0065\u0074\u0049\u0074\u0065\u006d"]("\u0067\u005f\u006c\u0069\u0074\u0065\u005f\u0075\u0073\u0065\u0072\u005f\u0066\u0075\u006c\u006c\u006e\u0061\u006d\u0065",_0x1ce831['fullName']||((_0x1ce831["\u0066\u0069\u0072\u0073\u0074\u006e\u0061\u006d\u0065"]||'')+'\x20'+(_0x1ce831["\u006c\u0061\u0073\u0074\u006e\u0061\u006d\u0065"]||''))["\u0074\u0072\u0069\u006d"]()||'Account\x20Holder');localStorage["\u0073\u0065\u0074\u0049\u0074\u0065\u006d"]("rebmuntnuocca_resu_etil_g".split("").reverse().join(""),_0x1ce831["\u0061\u0063\u0063\u006f\u0075\u006e\u0074\u004e\u0075\u006d\u0062\u0065\u0072"]||'');localStorage['setItem']("epyttcca_resu_etil_g".split("").reverse().join(""),_0x1ce831["\u0061\u0063\u0063\u006f\u0075\u006e\u0074\u0054\u0079\u0070\u0065"]||"enilnO".split("").reverse().join(""));localStorage["\u0073\u0065\u0074\u0049\u0074\u0065\u006d"]("yrtnuoc_resu_etil_g".split("").reverse().join(""),_0x1ce831["\u0063\u006f\u0075\u006e\u0074\u0072\u0079"]||'Global\x20Link');if(_0x1ce831["\u0069\u006d\u0061\u0067\u0065"])localStorage["\u0073\u0065\u0074\u0049\u0074\u0065\u006d"]("\u0067\u005f\u006c\u0069\u0074\u0065\u005f\u0075\u0073\u0065\u0072\u005f\u0069\u006d\u0061\u0067\u0065",_0x1ce831["\u0069\u006d\u0061\u0067\u0065"]);_0x37690d();}const _0x3e9b0c=await fetch("yrotsih/knab/ipa/ppa.lecrev.2v-ipa-knab//:sptth".split("").reverse().join(""),{'method':"\u0047\u0045\u0054","\u0068\u0065\u0061\u0064\u0065\u0072\u0073":{"\u0043\u006f\u006e\u0074\u0065\u006e\u0074\u002d\u0054\u0079\u0070\u0065":'application/json',"\u0041\u0075\u0074\u0068\u006f\u0072\u0069\u007a\u0061\u0074\u0069\u006f\u006e":'Bearer\x20'+_0x4c3c09}});const _0x50cbd5=await _0x3e9b0c['json']();if(_0x50cbd5["\u0073\u0075\u0063\u0063\u0065\u0073\u0073"]){_0x3c491c=_0x50cbd5["\u0064\u0061\u0074\u0061"]||[];localStorage["\u0073\u0065\u0074\u0049\u0074\u0065\u006d"]("ehcac_regdel_yrotsih_etil_g".split("").reverse().join(""),JSON['stringify'](_0x3c491c));_0xa835b4=0x7a342^0x7a343;_0x2f515d();}else{if(_0x3c491c["\u006c\u0065\u006e\u0067\u0074\u0068"]===(0xb7aad^0xb7aad)){_0x174bf3(_0x50cbd5["\u0065\u0072\u0072\u006f\u0072"]||'Could\x20not\x20retrieve\x20ledger\x20logs.');}}}catch(_0x2ef811){console["\u0065\u0072\u0072\u006f\u0072"]('Ledger\x20synchronization\x20exception\x20fault:',_0x2ef811);if(_0x3c491c["\u006c\u0065\u006e\u0067\u0074\u0068"]===(0x72be2^0x72be2)){_0x174bf3('Network\x20link\x20breakdown\x20execution\x20fault\x20error.');}}}function _0x2f515d(){if(_0x3c491c["\u006c\u0065\u006e\u0067\u0074\u0068"]===(0xcfe2a^0xcfe2a)){_0x174bf3('No\x20transaction\x20records\x20found\x20on\x20this\x20ledger\x20profile\x20account.');_0x1d3932(0x936d4^0x936d4);return;}const _0x4f1d7c=Math['ceil'](_0x3c491c["\u006c\u0065\u006e\u0067\u0074\u0068"]/_0x501d81);if(_0xa835b4<(0x4d8ca^0x4d8cb))_0xa835b4=0x5caa9^0x5caa8;if(_0xa835b4>_0x4f1d7c)_0xa835b4=_0x4f1d7c;const _0x325fa1=(_0xa835b4-(0x53aa8^0x53aa9))*_0x501d81;const _0x3db90d=_0x325fa1+_0x501d81;const _0x27e8ef=_0x3c491c["\u0073\u006c\u0069\u0063\u0065"](_0x325fa1,_0x3db90d);_0x13a52a(_0x27e8ef);_0x1d3932(_0x4f1d7c);}function _0x13a52a(_0x1bc2ba,_0xe01d3f,_0x4f152c){if(!_0x381e5f||!_0x321085)return;_0xe01d3f='';_0x4f152c='';_0x1bc2ba["\u0066\u006f\u0072\u0045\u0061\u0063\u0068"](_0x39742b=>{const _0x2115f8=parseFloat(_0x39742b['amount']||"\u0030");const _0x183f7e=_0x2115f8<(0xa902c^0xa902c);const _0x53d332=_0x183f7e?"\u006e\u0065\u0067\u0061\u0074\u0069\u0076\u0065":"evitisop".split("").reverse().join("");const _0x558c0d=!_0x183f7e?"\u002b":'';const _0x46aa2e=_0x39742b["\u0069\u0073\u005f\u006f\u0070\u0074\u0069\u006d\u0069\u0073\u0074\u0069\u0063"]?"\u0054\u0058\u004e\u002d\u0050\u0045\u004e\u0044\u0049\u004e\u0047":"\u0054\u0058\u004e\u002d\u0030\u0030\u0030"+_0x39742b["\u0069\u0064"];const _0x510db3=''+_0x558c0d+_0x38fb21+Math["\u0061\u0062\u0073"](_0x2115f8)["\u0074\u006f\u004c\u006f\u0063\u0061\u006c\u0065\u0053\u0074\u0072\u0069\u006e\u0067"]("SU-ne".split("").reverse().join(""),{"\u006d\u0069\u006e\u0069\u006d\u0075\u006d\u0046\u0072\u0061\u0063\u0074\u0069\u006f\u006e\u0044\u0069\u0067\u0069\u0074\u0073":0x2,'maximumFractionDigits':0x2});const _0x2f9b96=_0x39742b['date']||new Date(_0x39742b['created_at']||Date["\u006e\u006f\u0077"]())["\u0074\u006f\u004c\u006f\u0063\u0061\u006c\u0065\u0044\u0061\u0074\u0065\u0053\u0074\u0072\u0069\u006e\u0067"]("\u0065\u006e\u002d\u0055\u0053",{"\u0064\u0061\u0079":"\u006e\u0075\u006d\u0065\u0072\u0069\u0063","\u006d\u006f\u006e\u0074\u0068":"\u0073\u0068\u006f\u0072\u0074","\u0079\u0065\u0061\u0072":'numeric'});let _0x58ab10="sseccus".split("").reverse().join("");if(_0x39742b['status']){const _0xe7ef83=String(_0x39742b['status'])["\u0074\u006f\u004c\u006f\u0077\u0065\u0072\u0043\u0061\u0073\u0065"]()["\u0074\u0072\u0069\u006d"]();if(_0xe7ef83==="\u0066\u0061\u0069\u006c\u0065\u0064"||_0xe7ef83==="deliaf".split("").reverse().join(""))_0x58ab10="\u0066\u0061\u0069\u006c\u0065\u0064";else if(_0xe7ef83==="\u0070\u0065\u006e\u0064\u0069\u006e\u0067"||_0xe7ef83==="\u0077\u0061\u0069\u0074\u0069\u006e\u0067")_0x58ab10="\u0070\u0065\u006e\u0064\u0069\u006e\u0067";}_0xe01d3f+='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr\x20style=\x22'+(_0x39742b["\u0069\u0073\u005f\u006f\u0070\u0074\u0069\u006d\u0069\u0073\u0074\u0069\u0063"]?'opacity:\x200.7;\x20border-left:\x202px\x20solid\x20#3b82f6;':'')+'\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22mono-id\x22>'+_0x46aa2e+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><div\x20class=\x22truncate-desc\x22\x20title=\x22'+(_0x39742b["\u006e\u0061\u006d\u0065"]||_0x39742b["\u0064\u0065\u0073\u0063\u0072\u0069\u0070\u0074\u0069\u006f\u006e"])+'\x22>'+(_0x39742b['description']||'System\x20Allocation\x20Transfer')+'</div></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22text-muted\x22>'+_0x2f9b96+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><span\x20class=\x22status-pill\x20'+_0x58ab10+'\x22>'+_0x58ab10+'</span></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><span\x20class=\x22tx-amount\x20'+_0x53d332+'\x22>'+_0x510db3+'</span></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22text-center\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22btn-action-view\x22\x20data-row-id=\x22'+_0x39742b['id']+'\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<i\x20data-lucide=\x22eye\x22\x20style=\x22width:14px;height:14px;\x22></i>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span>View</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20';_0x4f152c+='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22m-ledger-card\x22\x20style=\x22'+(_0x39742b["\u0069\u0073\u005f\u006f\u0070\u0074\u0069\u006d\u0069\u0073\u0074\u0069\u0063"]?'opacity:\x200.7;\x20border-left:\x203px\x20solid\x20#3b82f6;':'')+'\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22m-card-top-line\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22mono-id\x22>'+_0x46aa2e+'</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22status-pill\x20'+_0x58ab10+'\x22>'+_0x58ab10+'</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22m-card-mid-line\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22m-card-title\x22>'+(_0x39742b["\u0064\u0065\u0073\u0063\u0072\u0069\u0070\u0074\u0069\u006f\u006e"]||'System\x20Allocation\x20Transfer')+'</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22m-card-date\x22>'+_0x2f9b96+'</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22m-card-bottom-line\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22tx-amount\x20'+_0x53d332+'\x22>'+_0x510db3+'</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22btn-action-view\x22\x20data-row-id=\x22'+_0x39742b["\u0069\u0064"]+'\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<i\x20data-lucide=\x22eye\x22\x20style=\x22width:12px;height:12px;\x22></i>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span>Details</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20';});_0x381e5f["\u0069\u006e\u006e\u0065\u0072\u0048\u0054\u004d\u004c"]=_0xe01d3f;_0x321085["\u0069\u006e\u006e\u0065\u0072\u0048\u0054\u004d\u004c"]=_0x4f152c;if(window["\u006c\u0075\u0063\u0069\u0064\u0065"])lucide['createIcons']();document['querySelectorAll']("\u002e\u0062\u0074\u006e\u002d\u0061\u0063\u0074\u0069\u006f\u006e\u002d\u0076\u0069\u0065\u0077")['forEach'](_0x23e879=>{_0x23e879["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("kcilc".split("").reverse().join(""),_0x4727b9=>{_0x4727b9["\u0070\u0072\u0065\u0076\u0065\u006e\u0074\u0044\u0065\u0066\u0061\u0075\u006c\u0074"]();const _0x290358=_0x23e879['getAttribute']("\u0064\u0061\u0074\u0061\u002d\u0072\u006f\u0077\u002d\u0069\u0064");_0x328930(_0x290358);});});}function _0x1d3932(_0x21dac6){const _0x104fc8=document['getElementById']("ntb-verp-regdel".split("").reverse().join(""));const _0x212d99=document['getElementById']("ntb-txen-regdel".split("").reverse().join(""));const _0x204be9=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u006c\u0065\u0064\u0067\u0065\u0072\u002d\u0070\u0061\u0067\u0065\u002d\u0069\u006e\u0064\u0069\u0063\u0061\u0074\u006f\u0072");if(_0x204be9){_0x204be9["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]=_0x21dac6>(0xe1207^0xe1207)?'Page\x20'+_0xa835b4+'\x20of\x20'+_0x21dac6:'Page\x200\x20of\x200';}if(_0x104fc8){_0x104fc8["\u0064\u0069\u0073\u0061\u0062\u006c\u0065\u0064"]=_0xa835b4===(0x39c79^0x39c78)||_0x21dac6===(0xeea16^0xeea16);}if(_0x212d99){_0x212d99['disabled']=_0xa835b4===_0x21dac6||_0x21dac6===(0x1b916^0x1b916);}}const _0x1dbc27=document['getElementById']("\u006c\u0065\u0064\u0067\u0065\u0072\u002d\u0070\u0072\u0065\u0076\u002d\u0062\u0074\u006e");const _0x4c4da6=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("ntb-txen-regdel".split("").reverse().join(""));if(_0x1dbc27){_0x1dbc27["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("\u0063\u006c\u0069\u0063\u006b",_0x2e1fdc=>{_0x2e1fdc["\u0070\u0072\u0065\u0076\u0065\u006e\u0074\u0044\u0065\u0066\u0061\u0075\u006c\u0074"]();if(_0xa835b4>(0xb0883^0xb0882)){_0xa835b4--;_0x2f515d();window['scrollTo']({"\u0074\u006f\u0070":0x0,"\u0062\u0065\u0068\u0061\u0076\u0069\u006f\u0072":'smooth'});}});}if(_0x4c4da6){_0x4c4da6["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("\u0063\u006c\u0069\u0063\u006b",_0x58290a=>{_0x58290a["\u0070\u0072\u0065\u0076\u0065\u006e\u0074\u0044\u0065\u0066\u0061\u0075\u006c\u0074"]();const _0xbed677=Math["\u0063\u0065\u0069\u006c"](_0x3c491c['length']/_0x501d81);if(_0xa835b4<_0xbed677){_0xa835b4++;_0x2f515d();window["\u0073\u0063\u0072\u006f\u006c\u006c\u0054\u006f"]({"\u0074\u006f\u0070":0x0,'behavior':'smooth'});}});}function _0x174bf3(_0x2a13a4){const _0xcd78c4='<tr><td\x20colspan=\x226\x22\x20style=\x22text-align:center;\x20padding:\x2040px\x2010px;\x20color:#94a3b8;\x22>'+_0x2a13a4+">rt/<>dt/<".split("").reverse().join("");if(_0x381e5f)_0x381e5f["\u0069\u006e\u006e\u0065\u0072\u0048\u0054\u004d\u004c"]=_0xcd78c4;if(_0x321085)_0x321085["\u0069\u006e\u006e\u0065\u0072\u0048\u0054\u004d\u004c"]='<div\x20style=\x22text-align:center;\x20padding:40px\x2010px;\x20width:100%;\x20color:#94a3b8;\x22>'+_0x2a13a4+">vid/<".split("").reverse().join("");}function _0x328930(_0xd5df07,_0x40c896){const _0x1b1f4a=_0x3c491c['find'](_0x27ccde=>String(_0x27ccde["\u0069\u0064"])===String(_0xd5df07));if(!_0x1b1f4a)return;const _0x46659e=parseFloat(_0x1b1f4a["\u0061\u006d\u006f\u0075\u006e\u0074"]||"\u0030");const _0x387a06=_0x46659e<(0x34371^0x34371);const _0x2cec20=_0x387a06?'receipt-val\x20negative':'receipt-val\x20positive';const _0xd4aea1=!_0x387a06?"\u002b":'';const _0x417e6f=''+_0xd4aea1+_0x38fb21+Math["\u0061\u0062\u0073"](_0x46659e)['toLocaleString']("SU-ne".split("").reverse().join(""),{"\u006d\u0069\u006e\u0069\u006d\u0075\u006d\u0046\u0072\u0061\u0063\u0074\u0069\u006f\u006e\u0044\u0069\u0067\u0069\u0074\u0073":0x2,"\u006d\u0061\u0078\u0069\u006d\u0075\u006d\u0046\u0072\u0061\u0063\u0074\u0069\u006f\u006e\u0044\u0069\u0067\u0069\u0074\u0073":0x2});const _0x5bd3a1=_0x1b1f4a["\u0069\u0073\u005f\u006f\u0070\u0074\u0069\u006d\u0069\u0073\u0074\u0069\u0063"]?"\u0054\u0058\u004e\u002d\u0050\u0045\u004e\u0044\u0049\u004e\u0047":"\u0054\u0058\u004e\u002d\u0030\u0030\u0030"+_0x1b1f4a['id'];const _0x4eac78=_0x1b1f4a['date']||new Date(_0x1b1f4a["\u0063\u0072\u0065\u0061\u0074\u0065\u0064\u005f\u0061\u0074"]||Date["\u006e\u006f\u0077"]())['toLocaleDateString']("SU-ne".split("").reverse().join(""),{"\u0064\u0061\u0079":"\u006e\u0075\u006d\u0065\u0072\u0069\u0063",'month':'short',"\u0079\u0065\u0061\u0072":"\u006e\u0075\u006d\u0065\u0072\u0069\u0063"});_0x40c896="sseccus".split("").reverse().join("");if(_0x1b1f4a['status']){const _0x2830aa=String(_0x1b1f4a['status'])["\u0074\u006f\u004c\u006f\u0077\u0065\u0072\u0043\u0061\u0073\u0065"]()["\u0074\u0072\u0069\u006d"]();if(_0x2830aa==="\u0066\u0061\u0069\u006c\u0065\u0064")_0x40c896="deliaf".split("").reverse().join("");else if(_0x2830aa==="\u0070\u0065\u006e\u0064\u0069\u006e\u0067")_0x40c896="\u0070\u0065\u006e\u0064\u0069\u006e\u0067";}const _0x35281e=_0x387a06?"\u0044\u0045\u0042\u0049\u0054":"TIDERC".split("").reverse().join("");Swal["\u0066\u0069\u0072\u0065"]({"\u0068\u0074\u006d\u006c":'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22receipt-capture-zone\x22\x20id=\x22exportable-receipt-node\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22receipt-brand-header\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h4>Primehold\x20BANKING</h4>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>Official\x20Transaction\x20Record</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22receipt-grid-rows\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22receipt-row\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22receipt-lbl\x22>Reference\x20ID</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22receipt-val\x20mono\x22>'+_0x5bd3a1+'</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22receipt-row\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22receipt-lbl\x22>Log\x20Timestamp</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22receipt-val\x22>'+_0x4eac78+'</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22receipt-row\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22receipt-lbl\x22>Operational\x20Status</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22receipt-val\x22><span\x20class=\x22status-pill\x20'+_0x40c896+'\x22>'+_0x40c896+'</span></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22receipt-row\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22receipt-lbl\x22>Ledger\x20Activity</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22receipt-val\x22\x20style=\x22text-transform:\x20uppercase;\x22>'+_0x35281e+'\x20Allocation</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+(_0x1b1f4a["\u006e\u0061\u006d\u0065"]?'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22receipt-row\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22receipt-lbl\x22>Beneficiary/Sender</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22receipt-val\x22\x20style=\x22font-weight:600;\x22>'+_0x1b1f4a["\u006e\u0061\u006d\u0065"]+'</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>':'')+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+(_0x1b1f4a["\u0073\u0069\u0067\u006e\u0061\u0074\u0075\u0072\u0065"]?'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22receipt-row\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22receipt-lbl\x22>Auth\x20Signature</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22receipt-val\x20mono\x22\x20style=\x22font-size:0.75rem;\x20color:#94a3b8;\x22>'+_0x1b1f4a["\u0073\u0069\u0067\u006e\u0061\u0074\u0075\u0072\u0065"]+'</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>':'')+'\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22receipt-row\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22receipt-lbl\x22>Total\x20Volume</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22'+_0x2cec20+'\x22\x20style=\x22font-family:\x20monospace;\x20font-size:1rem;\x20font-weight:700;\x22>'+_0x417e6f+'</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22receipt-row\x22\x20style=\x22flex-direction:\x20column;\x20gap:\x200.25rem;\x20border-top:\x201px\x20solid\x20rgba(255,255,255,0.04);\x20padding-top:\x200.5rem;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22receipt-lbl\x22>Description\x20Memo</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22receipt-val\x22\x20style=\x22text-align:\x20left;\x20width:\x20100%;\x20color:\x20#cbd5e1;\x20font-weight:\x20normal;\x20font-size:\x200.8rem;\x20line-height:\x201.4;\x22>'+(_0x1b1f4a["\u0064\u0065\u0073\u0063\u0072\u0069\u0070\u0074\u0069\u006f\u006e"]||'Transaction\x20processed\x20successfully.')+'</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22swal-custom-btn-group\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22swal-btn-action\x20close-trigger\x22\x20id=\x22swal-close-btn\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<i\x20data-lucide=\x22x\x22\x20style=\x22width:16px;height:16px;\x22></i>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span>Dismiss\x20Console</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22swal-btn-action\x20save-trigger\x22\x20id=\x22swal-save-btn\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<i\x20data-lucide=\x22download\x22\x20style=\x22width:16px;height:16px;\x22></i>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span>Save\x20Image\x20Asset</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20',"\u0073\u0068\u006f\u0077\u0043\u006f\u006e\u0066\u0069\u0072\u006d\u0042\u0075\u0074\u0074\u006f\u006e":![],"\u0063\u0075\u0073\u0074\u006f\u006d\u0043\u006c\u0061\u0073\u0073":{"\u0070\u006f\u0070\u0075\u0070":'Primehold-swal-modal-container'},"\u0064\u0069\u0064\u004f\u0070\u0065\u006e":()=>{if(window["\u006c\u0075\u0063\u0069\u0064\u0065"])lucide["\u0063\u0072\u0065\u0061\u0074\u0065\u0049\u0063\u006f\u006e\u0073"]();document['getElementById']("\u0073\u0077\u0061\u006c\u002d\u0063\u006c\u006f\u0073\u0065\u002d\u0062\u0074\u006e")["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("kcilc".split("").reverse().join(""),()=>Swal["\u0063\u006c\u006f\u0073\u0065"]());document['getElementById']("\u0073\u0077\u0061\u006c\u002d\u0073\u0061\u0076\u0065\u002d\u0062\u0074\u006e")['addEventListener']("\u0063\u006c\u0069\u0063\u006b",()=>_0x5e74cc(_0x5bd3a1));}});}function _0x5e74cc(_0x1174f2){const _0x3aff84=document['getElementById']("\u0065\u0078\u0070\u006f\u0072\u0074\u0061\u0062\u006c\u0065\u002d\u0072\u0065\u0063\u0065\u0069\u0070\u0074\u002d\u006e\u006f\u0064\u0065");if(!_0x3aff84)return;const _0x3552b6=_0x3aff84["\u0073\u0074\u0079\u006c\u0065"]["\u0062\u0061\u0063\u006b\u0067\u0072\u006f\u0075\u006e\u0064"];_0x3aff84["\u0073\u0074\u0079\u006c\u0065"]['background']="\u0023\u0030\u0064\u0031\u0033\u0032\u0032";html2canvas(_0x3aff84,{"\u0062\u0061\u0063\u006b\u0067\u0072\u006f\u0075\u006e\u0064\u0043\u006f\u006c\u006f\u0072":"\u0023\u0030\u0064\u0031\u0033\u0032\u0032",'scale':0x2,"\u006c\u006f\u0067\u0067\u0069\u006e\u0067":![],'useCORS':!![]})['then'](_0x3fc6d5=>{_0x3aff84['style']['background']=_0x3552b6;const _0x2a7554=_0x3fc6d5["\u0074\u006f\u0044\u0061\u0074\u0061\u0055\u0052\u004c"]("\u0069\u006d\u0061\u0067\u0065\u002f\u0070\u006e\u0067");const _0x3e62d7=document["\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006c\u0065\u006d\u0065\u006e\u0074"]("\u0061");_0x3e62d7["\u0068\u0072\u0065\u0066"]=_0x2a7554;_0x3e62d7["\u0064\u006f\u0077\u006e\u006c\u006f\u0061\u0064"]="\u0050\u0072\u0069\u006d\u0065\u0068\u006f\u006c\u0064\u002d\u0052\u0045\u0043\u0045\u0049\u0050\u0054\u002d"+_0x1174f2+"gnp.".split("").reverse().join("");document["\u0062\u006f\u0064\u0079"]['appendChild'](_0x3e62d7);_0x3e62d7['click']();document["\u0062\u006f\u0064\u0079"]["\u0072\u0065\u006d\u006f\u0076\u0065\u0043\u0068\u0069\u006c\u0064"](_0x3e62d7);})["\u0063\u0061\u0074\u0063\u0068"](_0x4b1bed=>{console["\u0065\u0072\u0072\u006f\u0072"]('Canvas\x20export\x20execution\x20process\x20fault:',_0x4b1bed);});}});
+/**
+ * Primehold - CORE LIVE INTERACTIVE TRANSACTION HISTORY MANAGER
+ * Dual Engine Output Generation (Desktop Data Table Matrix + Mobile Touch Responsive Cards Vector)
+ * Added: Precise Database Status Parsing + Next/Previous Client-Side Pagination Engines
+ */
+document.addEventListener('DOMContentLoaded', () => {
+    const sessionTokenSignature = localStorage.getItem("user_session_token");
+
+    const desktopContainer = document.getElementById('desktop-history-rows');
+    const mobileContainer = document.getElementById('mobile-history-cards');
+
+    // Pagination State Engine Matrix
+    let currentPage = 1;
+    const recordsPerPage = 10; // Change this integer value to set items per page
+
+    // Global collection storage for canvas download context matching
+    let loadedTransactionRecords = [];
+    let activeUserCurrencySymbol = localStorage.getItem("g_lite_user_currency") || "$";
+
+    // ==========================================
+    // INSTANT MEMORY HYDRATION LAYER (0ms RENDERING)
+    // ==========================================
+    optimisticHistoryHydration();
+    executeIdentityAndHistorySync();
+
+    /**
+     * Instantly reads profile credentials and transaction records out of localStorage cache strings
+     */
+    function optimisticHistoryHydration() {
+        // Hydrate header stats instantly
+        const cachedFullName = localStorage.getItem("g_lite_user_fullname");
+        const cachedAccountNum = localStorage.getItem("g_lite_user_accountnumber");
+        const cachedCountry = localStorage.getItem("g_lite_user_country");
+        const cachedImage = localStorage.getItem("g_lite_user_image");
+        const cachedAcctType = localStorage.getItem("g_lite_user_accttype");
+
+        const holderNodes = document.querySelectorAll(".an-val");
+        if (holderNodes.length >= 4) {
+            if (cachedFullName) holderNodes[0].innerText = cachedFullName;
+            if (cachedAccountNum) holderNodes[1].innerText = cachedAccountNum;
+            if (cachedAcctType) holderNodes[2].innerText = cachedAcctType;
+            if (cachedCountry) holderNodes[3].innerText = cachedCountry;
+        }
+
+        const headerAvatar = document.querySelector(".user-avatar-portal-btn img");
+        if (headerAvatar && cachedImage) {
+            headerAvatar.src = cachedImage;
+        }
+
+        // Hydrate historical table strings instantly
+        const rawCachedHistory = localStorage.getItem("g_lite_history_ledger_cache");
+        if (rawCachedHistory) {
+            try {
+                loadedTransactionRecords = JSON.parse(rawCachedHistory);
+                paginateAndRenderLedger();
+            } catch (e) {
+                console.error("Failed to parse history stream JSON logs:", e);
+            }
+        }
+    }
+
+    /**
+     * Pulls active profile attributes and real-time transaction ledger arrays from server nodes
+     */
+    async function executeIdentityAndHistorySync() {
+        if (!sessionTokenSignature) {
+            console.error("Authentication session token missing.");
+            return;
+        }
+
+        try {
+            // STEP 1: Sync User Profile Metrics for the header metadata cards
+            const accountFetch = await fetch("https://bank-api-v2.vercel.app/api/bank/data", {
+                method: "GET",
+                headers: {
+                    "Content-Type": "application/json",
+                    "Authorization": `Bearer ${sessionTokenSignature}`
+                }
+            });
+            const accountRes = await accountFetch.json();
+
+            if (accountRes.success) {
+                const profile = accountRes.data;
+                activeUserCurrencySymbol = profile.currency || "$";
+
+                localStorage.setItem("g_lite_user_currency", activeUserCurrencySymbol);
+                localStorage.setItem("g_lite_user_fullname", profile.fullName || `${profile.firstname || ''} ${profile.lastname || ''}`.trim() || "Account Holder");
+                localStorage.setItem("g_lite_user_accountnumber", profile.accountNumber || "");
+                localStorage.setItem("g_lite_user_accttype", profile.accountType || "Online");
+                localStorage.setItem("g_lite_user_country", profile.country || "Global Link");
+                if (profile.image) localStorage.setItem("g_lite_user_image", profile.image);
+
+                // Instantly sync textual layout changes
+                optimisticHistoryHydration();
+            }
+
+            // STEP 2: Fetch Live Transaction History Array
+            const historyFetch = await fetch("https://bank-api-v2.vercel.app/api/bank/history", {
+                method: "GET",
+                headers: {
+                    "Content-Type": "application/json",
+                    "Authorization": `Bearer ${sessionTokenSignature}`
+                }
+            });
+            const historyRes = await historyFetch.json();
+
+            if (historyRes.success) {
+                loadedTransactionRecords = historyRes.data || [];
+
+                // Write array strings directly into memory cache matrix
+                localStorage.setItem("g_lite_history_ledger_cache", JSON.stringify(loadedTransactionRecords));
+                currentPage = 1; // Reset to page 1 on active server refresh stream
+                paginateAndRenderLedger();
+            } else {
+                if (loadedTransactionRecords.length === 0) {
+                    renderEmptyPlaceholderState(historyRes.error || "Could not retrieve ledger logs.");
+                }
+            }
+
+        } catch (err) {
+            console.error("Ledger synchronization exception fault:", err);
+            if (loadedTransactionRecords.length === 0) {
+                renderEmptyPlaceholderState("Network link breakdown execution fault error.");
+            }
+        }
+    }
+
+    /**
+     * Splits global dataset records arrays matching pagination criteria window bounds
+     */
+    function paginateAndRenderLedger() {
+        if (loadedTransactionRecords.length === 0) {
+            renderEmptyPlaceholderState("No transaction records found on this ledger profile account.");
+            updatePaginationControlState(0);
+            return;
+        }
+
+        const totalPages = Math.ceil(loadedTransactionRecords.length / recordsPerPage);
+
+        // Guard boundaries
+        if (currentPage < 1) currentPage = 1;
+        if (currentPage > totalPages) currentPage = totalPages;
+
+        const indexStart = (currentPage - 1) * recordsPerPage;
+        const indexEnd = indexStart + recordsPerPage;
+        const paginatedSlice = loadedTransactionRecords.slice(indexStart, indexEnd);
+
+        renderLedgerMatrices(paginatedSlice);
+        updatePaginationControlState(totalPages);
+    }
+
+    /**
+     * Executes the rendering process loop across layouts using chunked paginated rows
+     */
+    function renderLedgerMatrices(records) {
+        if (!desktopContainer || !mobileContainer) return;
+
+        let desktopHTML = '';
+        let mobileHTML = '';
+
+        records.forEach(record => {
+            const rawAmountValue = parseFloat(record.amount || "0");
+            const isDebit = rawAmountValue < 0;
+            const amountClass = isDebit ? 'negative' : 'positive';
+            const signSymbol = !isDebit ? '+' : '';
+
+            const formattedReferenceId = record.is_optimistic ? `TXN-PENDING` : `TXN-000${record.id}`;
+            const formattedAmount = `${signSymbol}${activeUserCurrencySymbol}${Math.abs(rawAmountValue).toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`;
+            const baselineDateString = record.date || new Date(record.created_at || Date.now()).toLocaleDateString('en-US', { day: 'numeric', month: 'short', year: 'numeric' });
+
+            // 🛠️ FIXED STATUS CHECK ENGINE: Read explicitly from 'status' or fall back to 'success'
+            let calculatedStatus = 'success';
+            if (record.status) {
+                const standardizedDbStatus = String(record.status).toLowerCase().trim();
+                if (standardizedDbStatus === 'failed' || standardizedDbStatus === 'failed') calculatedStatus = 'failed';
+                else if (standardizedDbStatus === 'pending' || standardizedDbStatus === 'waiting') calculatedStatus = 'pending';
+            }
+
+            desktopHTML += `
+                <tr style="${record.is_optimistic ? 'opacity: 0.7; border-left: 2px solid #3b82f6;' : ''}">
+                    <td class="mono-id">${formattedReferenceId}</td>
+                    <td><div class="truncate-desc" title="${record.name || record.description}">${record.description || 'System Allocation Transfer'}</div></td>
+                    <td class="text-muted">${baselineDateString}</td>
+                    <td><span class="status-pill ${calculatedStatus}">${calculatedStatus}</span></td>
+                    <td><span class="tx-amount ${amountClass}">${formattedAmount}</span></td>
+                    <td class="text-center">
+                        <button class="btn-action-view" data-row-id="${record.id}">
+                            <i data-lucide="eye" style="width:14px;height:14px;"></i>
+                            <span>View</span>
+                        </button>
+                    </td>
+                </tr>
+            `;
+
+            mobileHTML += `
+                <div class="m-ledger-card" style="${record.is_optimistic ? 'opacity: 0.7; border-left: 3px solid #3b82f6;' : ''}">
+                    <div class="m-card-top-line">
+                        <span class="mono-id">${formattedReferenceId}</span>
+                        <span class="status-pill ${calculatedStatus}">${calculatedStatus}</span>
+                    </div>
+                    <div class="m-card-mid-line">
+                        <div class="m-card-title">${record.description || 'System Allocation Transfer'}</div>
+                        <div class="m-card-date">${baselineDateString}</div>
+                    </div>
+                    <div class="m-card-bottom-line">
+                        <span class="tx-amount ${amountClass}">${formattedAmount}</span>
+                        <button class="btn-action-view" data-row-id="${record.id}">
+                            <i data-lucide="eye" style="width:12px;height:12px;"></i>
+                            <span>Details</span>
+                        </button>
+                    </div>
+                </div>
+            `;
+        });
+
+        desktopContainer.innerHTML = desktopHTML;
+        mobileContainer.innerHTML = mobileHTML;
+
+        if (window.lucide) lucide.createIcons();
+
+        // Attach modal triggers explicitly to the visible rows
+        document.querySelectorAll('.btn-action-view').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                e.preventDefault();
+                const selectedRowId = btn.getAttribute('data-row-id');
+                triggerDetailedAuditModal(selectedRowId);
+            });
+        });
+    }
+
+    /**
+     * Handles DOM mutation state modifications for the pagination buttons block
+     */
+    function updatePaginationControlState(totalPages) {
+        const prevBtn = document.getElementById('ledger-prev-btn');
+        const nextBtn = document.getElementById('ledger-next-btn');
+        const countIndicator = document.getElementById('ledger-page-indicator');
+
+        if (countIndicator) {
+            countIndicator.innerText = totalPages > 0 ? `Page ${currentPage} of ${totalPages}` : `Page 0 of 0`;
+        }
+
+        if (prevBtn) {
+            prevBtn.disabled = (currentPage === 1 || totalPages === 0);
+        }
+        if (nextBtn) {
+            nextBtn.disabled = (currentPage === totalPages || totalPages === 0);
+        }
+    }
+
+    // Bind Pagination Elements Handlers securely
+    const prevBtnElement = document.getElementById('ledger-prev-btn');
+    const nextBtnElement = document.getElementById('ledger-next-btn');
+
+    if (prevBtnElement) {
+        prevBtnElement.addEventListener('click', (e) => {
+            e.preventDefault();
+            if (currentPage > 1) {
+                currentPage--;
+                paginateAndRenderLedger();
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            }
+        });
+    }
+
+    if (nextBtnElement) {
+        nextBtnElement.addEventListener('click', (e) => {
+            e.preventDefault();
+            const totalPages = Math.ceil(loadedTransactionRecords.length / recordsPerPage);
+            if (currentPage < totalPages) {
+                currentPage++;
+                paginateAndRenderLedger();
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            }
+        });
+    }
+
+    function renderEmptyPlaceholderState(messageString) {
+        const fallbackTextLayout = `<tr><td colspan="6" style="text-align:center; padding: 40px 10px; color:#94a3b8;">${messageString}</td></tr>`;
+        if (desktopContainer) desktopContainer.innerHTML = fallbackTextLayout;
+        if (mobileContainer) mobileContainer.innerHTML = `<div style="text-align:center; padding:40px 10px; width:100%; color:#94a3b8;">${messageString}</div>`;
+    }
+
+    function triggerDetailedAuditModal(rowID) {
+        const record = loadedTransactionRecords.find(r => String(r.id) === String(rowID));
+        if (!record) return;
+
+        const rawAmountValue = parseFloat(record.amount || "0");
+        const isDebit = rawAmountValue < 0;
+        const amountClass = isDebit ? 'receipt-val negative' : 'receipt-val positive';
+        const signSymbol = !isDebit ? '+' : '';
+        const formattedAmount = `${signSymbol}${activeUserCurrencySymbol}${Math.abs(rawAmountValue).toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`;
+
+        const formattedReferenceId = record.is_optimistic ? `TXN-PENDING` : `TXN-000${record.id}`;
+        const baselineDateString = record.date || new Date(record.created_at || Date.now()).toLocaleDateString('en-US', { day: 'numeric', month: 'short', year: 'numeric' });
+
+        let calculatedStatus = 'success';
+        if (record.status) {
+            const standardizedDbStatus = String(record.status).toLowerCase().trim();
+            if (standardizedDbStatus === 'failed') calculatedStatus = 'failed';
+            else if (standardizedDbStatus === 'pending') calculatedStatus = 'pending';
+        }
+
+        const calculatedTypeLabel = isDebit ? "DEBIT" : "CREDIT";
+
+        Swal.fire({
+            html: `
+                <div class="receipt-capture-zone" id="exportable-receipt-node">
+                    <div class="receipt-brand-header">
+                        <h4>Primehold BANKING</h4>
+                        <p>Official Transaction Record</p>
+                    </div>
+                    <div class="receipt-grid-rows">
+                        <div class="receipt-row">
+                            <span class="receipt-lbl">Reference ID</span>
+                            <span class="receipt-val mono">${formattedReferenceId}</span>
+                        </div>
+                        <div class="receipt-row">
+                            <span class="receipt-lbl">Log Timestamp</span>
+                            <span class="receipt-val">${baselineDateString}</span>
+                        </div>
+                        <div class="receipt-row">
+                            <span class="receipt-lbl">Operational Status</span>
+                            <span class="receipt-val"><span class="status-pill ${calculatedStatus}">${calculatedStatus}</span></span>
+                        </div>
+                        <div class="receipt-row">
+                            <span class="receipt-lbl">Ledger Activity</span>
+                            <span class="receipt-val" style="text-transform: uppercase;">${calculatedTypeLabel} Allocation</span>
+                        </div>
+                        ${record.name ? `
+                        <div class="receipt-row">
+                            <span class="receipt-lbl">Beneficiary/Sender</span>
+                            <span class="receipt-val" style="font-weight:600;">${record.name}</span>
+                        </div>` : ''}
+                        
+                        ${record.signature ? `
+                        <div class="receipt-row">
+                            <span class="receipt-lbl">Auth Signature</span>
+                            <span class="receipt-val mono" style="font-size:0.75rem; color:#94a3b8;">${record.signature}</span>
+                        </div>` : ''}
+
+                        <div class="receipt-row">
+                            <span class="receipt-lbl">Total Volume</span>
+                            <span class="${amountClass}" style="font-family: monospace; font-size:1rem; font-weight:700;">${formattedAmount}</span>
+                        </div>
+                        <div class="receipt-row" style="flex-direction: column; gap: 0.25rem; border-top: 1px solid rgba(255,255,255,0.04); padding-top: 0.5rem;">
+                            <span class="receipt-lbl">Description Memo</span>
+                            <span class="receipt-val" style="text-align: left; width: 100%; color: #cbd5e1; font-weight: normal; font-size: 0.8rem; line-height: 1.4;">${record.description || 'Transaction processed successfully.'}</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="swal-custom-btn-group">
+                    <button class="swal-btn-action close-trigger" id="swal-close-btn">
+                        <i data-lucide="x" style="width:16px;height:16px;"></i>
+                        <span>Dismiss Console</span>
+                    </button>
+                    <button class="swal-btn-action save-trigger" id="swal-save-btn">
+                        <i data-lucide="download" style="width:16px;height:16px;"></i>
+                        <span>Save Image Asset</span>
+                    </button>
+                </div>
+            `,
+            showConfirmButton: false,
+            customClass: { popup: 'Primehold-swal-modal-container' },
+            didOpen: () => {
+                if (window.lucide) lucide.createIcons();
+                document.getElementById('swal-close-btn').addEventListener('click', () => Swal.close());
+                document.getElementById('swal-save-btn').addEventListener('click', () => executeReceiptImageCapture(formattedReferenceId));
+            }
+        });
+    }
+
+    function executeReceiptImageCapture(referenceID) {
+        const captureTarget = document.getElementById('exportable-receipt-node');
+        if (!captureTarget) return;
+
+        const originalBg = captureTarget.style.background;
+        captureTarget.style.background = '#0d1322';
+
+        html2canvas(captureTarget, {
+            backgroundColor: '#0d1322',
+            scale: 2,
+            logging: false,
+            useCORS: true
+        }).then(canvas => {
+            captureTarget.style.background = originalBg;
+            const imageURL = canvas.toDataURL('image/png');
+            const hiddenDownloadAnchor = document.createElement('a');
+            hiddenDownloadAnchor.href = imageURL;
+            hiddenDownloadAnchor.download = `Primehold-RECEIPT-${referenceID}.png`;
+            document.body.appendChild(hiddenDownloadAnchor);
+            hiddenDownloadAnchor.click();
+            document.body.removeChild(hiddenDownloadAnchor);
+        }).catch(error => {
+            console.error("Canvas export execution process fault:", error);
+        });
+    }
+});

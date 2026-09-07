@@ -1,1 +1,595 @@
-document['addEventListener']("dedaoLtnetnoCMOD".split("").reverse().join(""),()=>{const _0x2e1761=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0066\u0066\u006d");const _0x3349e6=localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"]("\u0075\u0073\u0065\u0072\u005f\u0073\u0065\u0073\u0073\u0069\u006f\u006e\u005f\u0074\u006f\u006b\u0065\u006e");let _0x48ff92=localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"]("\u0067\u005f\u006c\u0069\u0074\u0065\u005f\u0075\u0073\u0065\u0072\u005f\u0063\u0075\u0072\u0072\u0065\u006e\u0063\u0079")||"\u0024";_0x223708();_0x3d0e1e();function _0x223708(){const _0x11ff46=localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"]("emanlluf_resu_etil_g".split("").reverse().join(""));const _0x48698a=localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"]("rebmuntnuocca_resu_etil_g".split("").reverse().join(""));const _0x3ce831=localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"]("\u0067\u005f\u006c\u0069\u0074\u0065\u005f\u0075\u0073\u0065\u0072\u005f\u0062\u0061\u006c\u0061\u006e\u0063\u0065");const _0x1e0668=localStorage['getItem']("egami_resu_etil_g".split("").reverse().join(""));const _0x701cb8=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0063\u0063\u0078\u0078\u0078");if(_0x701cb8)_0x701cb8["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]=_0x48ff92;const _0x4e9b5c=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("2relmp".split("").reverse().join(""));const _0x5abc49=document['getElementById']("\u006e\u0061\u006d\u0065\u0078\u007a");const _0x3e9f01=document['getElementById']("\u0061\u0063\u0063\u0063");const _0x5b7687=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("2xxxcc".split("").reverse().join(""));const _0x475129=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0062\u0062\u0063");if(_0x4e9b5c&&_0x1e0668)_0x4e9b5c["\u0073\u0072\u0063"]=_0x1e0668;if(_0x5abc49&&_0x11ff46)_0x5abc49['innerText']=_0x11ff46;if(_0x3e9f01&&_0x48698a)_0x3e9f01['innerText']=_0x48698a;if(_0x5b7687)_0x5b7687['innerText']=_0x48ff92;if(_0x475129&&_0x3ce831){const _0x1972f2=parseFloat(_0x3ce831||"\u0030");_0x475129["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]=new Intl["\u004e\u0075\u006d\u0062\u0065\u0072\u0046\u006f\u0072\u006d\u0061\u0074"]("\u0065\u006e\u002d\u0055\u0053",{"\u0073\u0074\u0079\u006c\u0065":"\u0064\u0065\u0063\u0069\u006d\u0061\u006c","\u006d\u0069\u006e\u0069\u006d\u0075\u006d\u0046\u0072\u0061\u0063\u0074\u0069\u006f\u006e\u0044\u0069\u0067\u0069\u0074\u0073":0x2,"\u006d\u0061\u0078\u0069\u006d\u0075\u006d\u0046\u0072\u0061\u0063\u0074\u0069\u006f\u006e\u0044\u0069\u0067\u0069\u0074\u0073":0x2})["\u0066\u006f\u0072\u006d\u0061\u0074"](_0x1972f2);}}async function _0x3d0e1e(){if(!_0x3349e6)return;try{const _0x427836=await fetch("atad/knab/ipa/ppa.lecrev.2v-ipa-knab//:sptth".split("").reverse().join(""),{"\u006d\u0065\u0074\u0068\u006f\u0064":"\u0047\u0045\u0054",'headers':{"\u0043\u006f\u006e\u0074\u0065\u006e\u0074\u002d\u0054\u0079\u0070\u0065":"\u0061\u0070\u0070\u006c\u0069\u0063\u0061\u0074\u0069\u006f\u006e\u002f\u006a\u0073\u006f\u006e","\u0041\u0075\u0074\u0068\u006f\u0072\u0069\u007a\u0061\u0074\u0069\u006f\u006e":'Bearer\x20'+_0x3349e6}});const _0x50bdff=await _0x427836["\u006a\u0073\u006f\u006e"]();if(_0x50bdff["\u0073\u0075\u0063\u0063\u0065\u0073\u0073"]){const _0xafc50b=_0x50bdff["\u0064\u0061\u0074\u0061"];_0x48ff92=_0xafc50b['currency']||"\u0024";localStorage["\u0073\u0065\u0074\u0049\u0074\u0065\u006d"]("ycnerruc_resu_etil_g".split("").reverse().join(""),_0x48ff92);localStorage["\u0073\u0065\u0074\u0049\u0074\u0065\u006d"]("\u0067\u005f\u006c\u0069\u0074\u0065\u005f\u0075\u0073\u0065\u0072\u005f\u0066\u0075\u006c\u006c\u006e\u0061\u006d\u0065",_0xafc50b["\u0066\u0075\u006c\u006c\u004e\u0061\u006d\u0065"]||'Account\x20Holder');localStorage['setItem']("rebmuntnuocca_resu_etil_g".split("").reverse().join(""),_0xafc50b["\u0061\u0063\u0063\u006f\u0075\u006e\u0074\u004e\u0075\u006d\u0062\u0065\u0072"]||'');localStorage['setItem']("\u0067\u005f\u006c\u0069\u0074\u0065\u005f\u0075\u0073\u0065\u0072\u005f\u0062\u0061\u006c\u0061\u006e\u0063\u0065",_0xafc50b['balance']||"\u0030");if(_0xafc50b['image'])localStorage["\u0073\u0065\u0074\u0049\u0074\u0065\u006d"]("\u0067\u005f\u006c\u0069\u0074\u0065\u005f\u0075\u0073\u0065\u0072\u005f\u0069\u006d\u0061\u0067\u0065",_0xafc50b["\u0069\u006d\u0061\u0067\u0065"]);_0x223708();}}catch(_0x5444f7){console["\u0077\u0061\u0072\u006e"]('Could\x20not\x20synchronize\x20view\x20maps:',_0x5444f7["\u006d\u0065\u0073\u0073\u0061\u0067\u0065"]);}}if(_0x2e1761){_0x2e1761["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("timbus".split("").reverse().join(""),async _0x523b27=>{_0x523b27["\u0070\u0072\u0065\u0076\u0065\u006e\u0074\u0044\u0065\u0066\u0061\u0075\u006c\u0074"]();const _0x2d6de1={"\u0066\u0075\u006c\u006c\u006e\u0061\u006d\u0065":document['getElementById']("emanlluf".split("").reverse().join(""))["\u0076\u0061\u006c\u0075\u0065"]["\u0074\u0072\u0069\u006d"](),"\u0061\u0063\u0063\u006f\u0075\u006e\u0074\u006e\u0075\u006d\u0062\u0065\u0072":_0x2e1761["\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006c\u0065\u0063\u0074\u006f\u0072\u0041\u006c\u006c"]("\u0069\u006e\u0070\u0075\u0074")[0x735e2^0x735e3]["\u0076\u0061\u006c\u0075\u0065"]['trim'](),"\u0061\u0063\u0063\u006f\u0075\u006e\u0074\u0074\u0079\u0070\u0065":document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0061\u0063\u0063\u006f\u0075\u006e\u0074\u005f\u0074\u0079\u0070\u0065")['value'],"\u0062\u0061\u006e\u006b\u006e\u0061\u006d\u0065":document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0062\u0061\u006e\u006b\u006e\u0061\u006d\u0065")['value']["\u0074\u0072\u0069\u006d"](),"\u0062\u0061\u006e\u006b\u0061\u0064\u0064\u0072\u0065\u0073\u0073":document['getElementById']("sserddaknab-r".split("").reverse().join(""))["\u0076\u0061\u006c\u0075\u0065"]['trim'](),"\u0063\u006f\u0075\u006e\u0074\u0072\u0079":document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0072\u002d\u0063\u006f\u0075\u006e\u0074\u0072\u0079")["\u0076\u0061\u006c\u0075\u0065"],'accountiban':document['getElementById']("\u0061\u0063\u0063\u006f\u0075\u006e\u0074\u002d\u0069\u0062\u0061\u006e")['value']['trim'](),'amount':parseFloat(document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("tnuoma".split("").reverse().join(""))["\u0076\u0061\u006c\u0075\u0065"]['trim']()),'des':document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("sed".split("").reverse().join(""))['value']["\u0074\u0072\u0069\u006d"]()};if(!_0x2d6de1['fullname']||!_0x2d6de1["\u0061\u0063\u0063\u006f\u0075\u006e\u0074\u006e\u0075\u006d\u0062\u0065\u0072"]||!_0x2d6de1['bankname']||!_0x2d6de1['amount']){Swal["\u0066\u0069\u0072\u0065"]('Execution\x20Stop','Please\x20complete\x20all\x20mandatory\x20transaction\x20fields.',"\u0077\u0061\u0072\u006e\u0069\u006e\u0067");return;}const _0x5ae038=await Swal["\u0066\u0069\u0072\u0065"]({"\u0074\u0069\u0074\u006c\u0065":'<span\x20style=\x22color:\x20#00313d;\x20font-weight:\x20bold;\x22>Electronic\x20Transfer\x20Agreement</span>','html':'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22text-align:left;\x20font-size:13px;\x20line-height:1.6;\x20color:\x20#444;\x20border:\x201px\x20solid\x20#eee;\x20padding:\x2015px;\x20border-radius:\x208px;\x20max-height:\x20250px;\x20overflow-y:\x20auto;\x20background:\x20#fafafa;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>1.\x20Settlement\x20Period:</strong>\x20International\x20wire\x20transfers\x20are\x20processed\x20via\x20the\x20SWIFT\x20network\x20and\x20typically\x20reach\x20the\x20beneficiary\x20within\x2024\x20to\x2072\x20business\x20hours,\x20subject\x20to\x20intermediary\x20bank\x20clearing.</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>2.\x20Compliance\x20&\x20AML:</strong>\x20This\x20transaction\x20is\x20subject\x20to\x20Anti-Money\x20Laundering\x20(AML)\x20and\x20\x22Know\x20Your\x20Customer\x22\x20(KYC)\x20regulations.\x20We\x20reserve\x20the\x20right\x20to\x20freeze\x20funds\x20for\x20further\x20investigation\x20if\x20suspicious\x20activity\x20is\x20detected.</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>3.\x20Irrevocability:</strong>\x20Once\x20the\x20transfer\x20reaches\x20the\x20\x22Processing\x22\x20stage\x20(91%\x20progress),\x20it\x20cannot\x20be\x20cancelled,\x20recalled,\x20or\x20modified\x20by\x20the\x20sender.</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>4.\x20Exchange\x20Rate\x20Volatility:</strong>\x20Final\x20credit\x20amounts\x20may\x20vary\x20slightly\x20due\x20to\x20real-time\x20currency\x20fluctuations\x20and\x20receiving\x20bank\x20commissions\x20beyond\x20our\x20control.</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>5.\x20Regulatory\x20Holds:</strong>\x20Transfers\x20exceeding\x20certain\x20thresholds\x20may\x20require\x20additional\x20documentation\x20(e.g.,\x20TAX,\x20IMF,\x20or\x20COT\x20clearance)\x20as\x20mandated\x20by\x20international\x20monetary\x20protocols.</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>6.\x20Liability:</strong>\x20The\x20sender\x20assumes\x20full\x20responsibility\x20for\x20the\x20accuracy\x20of\x20the\x20beneficiary\x20details.\x20Incorrect\x20IBAN\x20or\x20Routing\x20information\x20may\x20result\x20in\x20permanent\x20loss\x20of\x20funds.</p>\x0a\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22margin-top:\x2010px;\x20font-size:\x2012px;\x20color:\x20#666;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20By\x20clicking\x20\x22I\x20Authorize\x22,\x20you\x20agree\x20to\x20the\x20terms\x20above.\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>',"\u0069\u0063\u006f\u006e":"\u0069\u006e\u0066\u006f",'confirmButtonText':'I\x20Authorize\x20Transfer',"\u0063\u0061\u006e\u0063\u0065\u006c\u0042\u0075\u0074\u0074\u006f\u006e\u0054\u0065\u0078\u0074":"\u0044\u0065\u0063\u006c\u0069\u006e\u0065","\u0073\u0068\u006f\u0077\u0043\u0061\u006e\u0063\u0065\u006c\u0042\u0075\u0074\u0074\u006f\u006e":!![],"\u0063\u006f\u006e\u0066\u0069\u0072\u006d\u0042\u0075\u0074\u0074\u006f\u006e\u0043\u006f\u006c\u006f\u0072":'#00313d','cancelButtonColor':'#d33',"\u0061\u006c\u006c\u006f\u0077\u004f\u0075\u0074\u0073\u0069\u0064\u0065\u0043\u006c\u0069\u0063\u006b":![]});if(!_0x5ae038['isConfirmed'])return;const _0x1d516a=await Swal["\u0066\u0069\u0072\u0065"]({'title':'Confirm\x20Outbound\x20Wiring\x20Parameters',"\u0068\u0074\u006d\u006c":'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22text-align:\x20left;\x20font-size:\x200.95rem;\x20line-height:\x201.6;\x20color:\x20#444;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22margin:\x204px\x200;\x20border-bottom:\x201px\x20dashed\x20#eee;\x20padding-bottom:4px;\x22><b>Beneficiary\x20Name:</b>\x20'+_0x2d6de1["\u0066\u0075\u006c\u006c\u006e\u0061\u006d\u0065"]+'</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22margin:\x204px\x200;\x20border-bottom:\x201px\x20dashed\x20#eee;\x20padding-bottom:4px;\x22><b>Account\x20/\x20IBAN:</b>\x20'+(_0x2d6de1['accountiban']||_0x2d6de1['accountnumber'])+'</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22margin:\x204px\x200;\x20border-bottom:\x201px\x20dashed\x20#eee;\x20padding-bottom:4px;\x22><b>Target\x20Bank:</b>\x20'+_0x2d6de1["\u0062\u0061\u006e\u006b\u006e\u0061\u006d\u0065"]+'</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22margin:\x204px\x200;\x20border-bottom:\x201px\x20dashed\x20#eee;\x20padding-bottom:4px;\x22><b>Destination\x20Country:</b>\x20'+_0x2d6de1["\u0063\u006f\u0075\u006e\u0074\u0072\u0079"]+'</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22margin:\x2012px\x200\x204px\x200;\x20font-size:\x201.1rem;\x20font-weight:\x20bold;\x22>Total\x20Settlement\x20Amount:\x20<span\x20style=\x22color:#00313d;\x22>'+_0x48ff92+_0x2d6de1["\u0061\u006d\u006f\u0075\u006e\u0074"]['toFixed'](0xe5751^0xe5753)+'</span></p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20',"\u0069\u0063\u006f\u006e":'question','showCancelButton':!![],"\u0063\u006f\u006e\u0066\u0069\u0072\u006d\u0042\u0075\u0074\u0074\u006f\u006e\u0054\u0065\u0078\u0074":'Confirm\x20Parameters\x20&\x20Enter\x20PIN',"\u0063\u0061\u006e\u0063\u0065\u006c\u0042\u0075\u0074\u0074\u006f\u006e\u0054\u0065\u0078\u0074":'Cancel\x20Operation',"\u0063\u006f\u006e\u0066\u0069\u0072\u006d\u0042\u0075\u0074\u0074\u006f\u006e\u0043\u006f\u006c\u006f\u0072":'#00313d',"\u0063\u0061\u006e\u0063\u0065\u006c\u0042\u0075\u0074\u0074\u006f\u006e\u0043\u006f\u006c\u006f\u0072":"\u0023\u0064\u0033\u0033",'allowOutsideClick':![]});if(!_0x1d516a["\u0069\u0073\u0043\u006f\u006e\u0066\u0069\u0072\u006d\u0065\u0064"])return;Swal["\u0066\u0069\u0072\u0065"]({"\u0074\u0069\u0074\u006c\u0065":'Initiating\x20Wire\x20Route...',"\u0068\u0074\u006d\u006c":'Connecting\x20to\x20SWIFT\x20network\x20gateways...',"\u0061\u006c\u006c\u006f\u0077\u004f\u0075\u0074\u0073\u0069\u0064\u0065\u0043\u006c\u0069\u0063\u006b":![],"\u0064\u0069\u0064\u004f\u0070\u0065\u006e":()=>Swal['showLoading']()});try{const _0x289a7a=await fetch("\u0068\u0074\u0074\u0070\u0073\u003a\u002f\u002f\u0062\u0061\u006e\u006b\u002d\u0061\u0070\u0069\u002d\u0076\u0032\u002e\u0076\u0065\u0072\u0063\u0065\u006c\u002e\u0061\u0070\u0070\u002f\u0061\u0070\u0069\u002f\u0062\u0061\u006e\u006b\u002f\u0069\u006e\u0074\u0065\u0072\u006e\u0061\u0074\u0069\u006f\u006e\u0061\u006c",{"\u006d\u0065\u0074\u0068\u006f\u0064":'POST','headers':{'Content-Type':'application/json','Authorization':'Bearer\x20'+_0x3349e6,"\u0078\u002d\u0061\u0063\u0074\u0069\u006f\u006e\u002d\u0070\u0068\u0061\u0073\u0065":'pre-check'},'body':JSON['stringify'](_0x2d6de1)});const _0x209547=await _0x289a7a["\u006a\u0073\u006f\u006e"]();if(!_0x289a7a["\u006f\u006b"]||!_0x209547["\u0073\u0075\u0063\u0063\u0065\u0073\u0073"]){throw new Error(_0x209547['error']||'Route\x20initialization\x20failure.');}Swal["\u0063\u006c\u006f\u0073\u0065"]();_0x1f6cef(_0x2d6de1,_0x209547["\u0074\u0072\u0061\u006e\u0073\u0066\u0065\u0072\u0041\u0063\u0063\u0065\u0073\u0073"]);}catch(_0x54e7a4){Swal['fire']('Transfer\x20Denied',_0x54e7a4["\u006d\u0065\u0073\u0073\u0061\u0067\u0065"],"rorre".split("").reverse().join(""));}});}function _0x1f6cef(_0x277d0c,_0x56e37b,_0x585a6c,_0x3f770b,_0x24f85c,_0x2b3064){const _0x2bb7d6=document['getElementById']("\u0063\u0075\u0073\u0074\u006f\u006d\u002d\u0077\u0069\u0072\u0065\u002d\u006d\u006f\u0064\u0061\u006c");if(_0x2bb7d6)_0x2bb7d6["\u0072\u0065\u006d\u006f\u0076\u0065"]();const _0x1fa915=document["\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006c\u0065\u006d\u0065\u006e\u0074"]("\u0064\u0069\u0076");_0x1fa915["\u0069\u0064"]="\u0063\u0075\u0073\u0074\u006f\u006d\u002d\u0077\u0069\u0072\u0065\u002d\u006d\u006f\u0064\u0061\u006c";_0x1fa915["\u0063\u006c\u0061\u0073\u0073\u004e\u0061\u006d\u0065"]="yalrevo-ladom-eriw".split("").reverse().join("");_0x1fa915["\u0069\u006e\u006e\u0065\u0072\u0048\u0054\u004d\u004c"]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22wire-modal-container\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22wire-modal-close\x22\x20id=\x22wire-modal-close-btn\x22>×</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22wire-modal-view\x20active\x22\x20id=\x22view-pin-entry\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22ios-secure-keypad-container\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3\x20style=\x22margin-bottom:10px;\x22>Security\x20Verification</h3>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22keypad-instruction-hint\x22\x20id=\x22pin-hint-text\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Enter\x20security\x20transaction\x20PIN\x20to\x20unlock\x20international\x20ledger\x20channels.\x20(Attempt\x201\x20of\x205)\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22ios-pin-dots-row\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22pin-dot\x22\x20id=\x22intl-dot-0\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22pin-dot\x22\x20id=\x22intl-dot-1\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22pin-dot\x22\x20id=\x22intl-dot-2\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22pin-dot\x22\x20id=\x22intl-dot-3\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22ios-numeric-grid-layout\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+[0xee0d3^0xee0d2,0x327a1^0x327a3,0x99bc7^0x99bc4,0x3af9f^0x3af9b,0x7347e^0x7347b,0xbbdfa^0xbbdfc,0x1d07c^0x1d07b,0x2d09f^0x2d097,0x37562^0x3756b]["\u006d\u0061\u0070"](_0x5d51f6=>'<button\x20type=\x22button\x22\x20class=\x22key-node\x22\x20data-pin-val=\x22'+_0x5d51f6+'\x22>'+_0x5d51f6+">nottub/<".split("").reverse().join(""))["\u006a\u006f\u0069\u006e"]('')+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22width:70px;\x20height:70px;\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22key-node\x22\x20data-pin-val=\x220\x22>0</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22key-node\x20functional-delete-btn\x22\x20data-pin-val=\x22delete\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<svg\x20xmlns=\x22http://www.w3.org/2000/svg\x22\x20width=\x2224\x22\x20height=\x2224\x22\x20viewBox=\x220\x200\x2024\x2024\x22\x20fill=\x22none\x22\x20stroke=\x22currentColor\x22\x20stroke-width=\x222\x22\x20stroke-linecap=\x22round\x22\x20stroke-linejoin=\x22round\x22><path\x20d=\x22M21\x204H8l-7\x208\x207\x208h13a2\x202\x200\x200\x200\x202-2V6a2\x202\x200\x200\x200-2-2z\x22></path><line\x20x1=\x2218\x22\x20y1=\x229\x22\x20x2=\x2212\x22\x20y2=\x2215\x22></line><line\x20x1=\x2212\x22\x20y1=\x229\x22\x20x2=\x2218\x22\x20y2=\x2215\x22></line></svg>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22error-log-alert\x22\x20id=\x22pin-error-field\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22wire-modal-view\x22\x20id=\x22view-spinner\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3\x20id=\x22spinner-title\x22>Processing\x20Wire\x20Routes...</h3>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22spinner-metric-text\x22\x20id=\x22spinner-percentage\x22>0%</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22spinner-sub-label\x22\x20id=\x22spinner-message\x22>Synchronizing\x20cross-border\x20clearing\x20records...</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22wire-modal-view\x22\x20id=\x22view-compliance-input\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3\x20id=\x22compliance-title-header\x22>Compliance\x20Required</h3>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22keypad-instruction-hint\x22\x20id=\x22compliance-instructions-hint\x22></p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<form\x20id=\x22custom-compliance-form\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22compliance-input-wrapper\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20id=\x22compliance-field-label\x22>Verification\x20Code</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20class=\x22compliance-field\x22\x20id=\x22compliance-input-field\x22\x20autocomplete=\x22off\x22\x20required>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22submit\x22\x20class=\x22compliance-submit-btn\x22>Verify\x20&\x20Proceed</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</form>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22error-log-alert\x22\x20id=\x22compliance-error-field\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20';document['body']["\u0061\u0070\u0070\u0065\u006e\u0064\u0043\u0068\u0069\u006c\u0064"](_0x1fa915);setTimeout(()=>_0x1fa915['classList']['add']("\u0061\u0063\u0074\u0069\u0076\u0065"),0xc6d68^0xc6d62);const _0x2e443c=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("ntb-esolc-ladom-eriw".split("").reverse().join(""));const _0x1e34a1=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0076\u0069\u0065\u0077\u002d\u0070\u0069\u006e\u002d\u0065\u006e\u0074\u0072\u0079");const _0x10534c=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0076\u0069\u0065\u0077\u002d\u0073\u0070\u0069\u006e\u006e\u0065\u0072");const _0xbbf97a=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("tupni-ecnailpmoc-weiv".split("").reverse().join(""));let _0x2aedff=[];_0x585a6c=0xee8ed^0xee8ed;_0x3f770b=0xef613^0xef612;_0x24f85c=0xe72c6^0xe72c6;_0x2b3064='';_0x2e443c['addEventListener']("\u0063\u006c\u0069\u0063\u006b",()=>{_0x1fa915['classList']['remove']("evitca".split("").reverse().join(""));setTimeout(()=>_0x1fa915["\u0072\u0065\u006d\u006f\u0076\u0065"](),0x2b251^0x2b37d);});const _0x541686=_0x1fa915["\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006c\u0065\u0063\u0074\u006f\u0072\u0041\u006c\u006c"]("\u005b\u0064\u0061\u0074\u0061\u002d\u0070\u0069\u006e\u002d\u0076\u0061\u006c\u005d");_0x541686["\u0066\u006f\u0072\u0045\u0061\u0063\u0068"](_0x263cb2=>{_0x263cb2["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("kcilc".split("").reverse().join(""),async _0xb990aa=>{_0xb990aa["\u0070\u0072\u0065\u0076\u0065\u006e\u0074\u0044\u0065\u0066\u0061\u0075\u006c\u0074"]();const _0x2071fc=_0x263cb2["\u0067\u0065\u0074\u0041\u0074\u0074\u0072\u0069\u0062\u0075\u0074\u0065"]("lav-nip-atad".split("").reverse().join(""));const _0x28fcad=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0070\u0069\u006e\u002d\u0065\u0072\u0072\u006f\u0072\u002d\u0066\u0069\u0065\u006c\u0064");_0x28fcad["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]='';if(_0x2071fc==="\u0064\u0065\u006c\u0065\u0074\u0065"){_0x2aedff["\u0070\u006f\u0070"]();}else if(_0x2aedff['length']<(0x5592b^0x5592f)){_0x2aedff["\u0070\u0075\u0073\u0068"](_0x2071fc);}for(let _0x438f5a=0x5b7f9^0x5b7f9;_0x438f5a<(0x6439c^0x64398);_0x438f5a++){const _0x19485a=document['getElementById']("-tod-ltni".split("").reverse().join("")+_0x438f5a);if(_0x19485a){if(_0x438f5a<_0x2aedff['length'])_0x19485a['classList']["\u0061\u0064\u0064"]("\u0066\u0069\u006c\u006c\u0065\u0064");else _0x19485a['classList']["\u0072\u0065\u006d\u006f\u0076\u0065"]("\u0066\u0069\u006c\u006c\u0065\u0064");}}if(_0x2aedff["\u006c\u0065\u006e\u0067\u0074\u0068"]===(0x739cd^0x739c9)){_0x2b3064=_0x2aedff["\u006a\u006f\u0069\u006e"]('');_0x2aedff=[];for(let _0x3b7c26=0x624ee^0x624ee;_0x3b7c26<(0xafb34^0xafb30);_0x3b7c26++)document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("-tod-ltni".split("").reverse().join("")+_0x3b7c26)["\u0063\u006c\u0061\u0073\u0073\u004c\u0069\u0073\u0074"]['remove']("\u0066\u0069\u006c\u006c\u0065\u0064");document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("txet-tnih-nip".split("").reverse().join(""))['innerHTML']='<span\x20style=\x22color:#3b82f6\x22>Authenticating\x20transaction\x20credential\x20PIN...</span>';try{const _0x3a7436=await fetch("lanoitanretni/knab/ipa/ppa.lecrev.2v-ipa-knab//:sptth".split("").reverse().join(""),{'method':"\u0050\u004f\u0053\u0054","\u0068\u0065\u0061\u0064\u0065\u0072\u0073":{"\u0043\u006f\u006e\u0074\u0065\u006e\u0074\u002d\u0054\u0079\u0070\u0065":'application/json',"\u0041\u0075\u0074\u0068\u006f\u0072\u0069\u007a\u0061\u0074\u0069\u006f\u006e":'Bearer\x20'+_0x3349e6,"\u0078\u002d\u0061\u0063\u0074\u0069\u006f\u006e\u002d\u0070\u0068\u0061\u0073\u0065":'verify-pin'},"\u0062\u006f\u0064\u0079":JSON["\u0073\u0074\u0072\u0069\u006e\u0067\u0069\u0066\u0079"]({'pin':_0x2b3064})});const _0x3fa991=await _0x3a7436['json']();if(_0x3a7436['ok']&&_0x3fa991['success']){_0x41af66(_0x277d0c["\u0061\u006d\u006f\u0075\u006e\u0074"]);if(_0x56e37b===!![]){_0x429b46(_0x1e34a1,_0x10534c);_0x8f67b4(0xd768d^0xd768d,0x54a2f^0x54a4b,![],()=>{_0x5aa886(_0x277d0c,_0x2b3064);});}else{_0x429b46(_0x1e34a1,_0x10534c);_0x3ce63e(_0x2b3064);}}else{_0x585a6c++;const _0x2db2b4=_0x1fa915['querySelector']("\u002e\u0077\u0069\u0072\u0065\u002d\u006d\u006f\u0064\u0061\u006c\u002d\u0063\u006f\u006e\u0074\u0061\u0069\u006e\u0065\u0072");_0x2db2b4["\u0063\u006c\u0061\u0073\u0073\u004c\u0069\u0073\u0074"]['add']("tnemele-ekahs".split("").reverse().join(""));setTimeout(()=>_0x2db2b4["\u0063\u006c\u0061\u0073\u0073\u004c\u0069\u0073\u0074"]["\u0072\u0065\u006d\u006f\u0076\u0065"]("tnemele-ekahs".split("").reverse().join("")),0xb234b^0xb2267);if(_0x585a6c>=(0xcd192^0xcd197)){_0x2ca853();}else{document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0070\u0069\u006e\u002d\u0068\u0069\u006e\u0074\u002d\u0074\u0065\u0078\u0074")["\u0069\u006e\u006e\u0065\u0072\u0048\u0054\u004d\u004c"]='<span\x20style=\x22color:#f87171\x22>Invalid\x20Transaction\x20PIN.\x20(Attempt\x20'+(_0x585a6c+(0x549de^0x549df))+'\x20of\x205)</span>';}}}catch(_0x5a4fd2){_0x28fcad["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]='Connection\x20tracking\x20infrastructure\x20error.';}}});});function _0x429b46(_0x1e66fd,_0x2c84cf){_0x1e66fd["\u0063\u006c\u0061\u0073\u0073\u004c\u0069\u0073\u0074"]["\u0072\u0065\u006d\u006f\u0076\u0065"]("\u0061\u0063\u0074\u0069\u0076\u0065");_0x2c84cf['classList']["\u0061\u0064\u0064"]("\u0061\u0063\u0074\u0069\u0076\u0065");}function _0x41af66(_0x8ba965){try{const _0xbb8066=localStorage['getItem']("\u0067\u005f\u006c\u0069\u0074\u0065\u005f\u0075\u0073\u0065\u0072\u005f\u0062\u0061\u006c\u0061\u006e\u0063\u0065")||"\u0030";const _0x3e0d57=parseFloat(_0x8ba965||"\u0030");const _0x2ff31f=Math['max'](0x2980e^0x2980e,parseFloat(_0xbb8066)-_0x3e0d57);localStorage["\u0073\u0065\u0074\u0049\u0074\u0065\u006d"]("ecnalab_resu_etil_g".split("").reverse().join(""),_0x2ff31f['toString']());const _0x4c17da={'id':"_ltni_pmet".split("").reverse().join("")+Date["\u006e\u006f\u0077"](),"\u0061\u006d\u006f\u0075\u006e\u0074":"\u002d"+_0x3e0d57,"\u0064\u0065\u0073\u0063\u0072\u0069\u0070\u0074\u0069\u006f\u006e":'Wire\x20Transfer\x20to\x20'+_0x277d0c["\u0062\u0061\u006e\u006b\u006e\u0061\u006d\u0065"]+'\x20(Acc:\x20'+_0x277d0c['accountnumber']+"\u0029","\u006e\u0061\u006d\u0065":_0x277d0c['fullname'],"\u0074\u0072\u0061\u006e\u0073\u0061\u0063\u0074\u0069\u006f\u006e\u0054\u0079\u0070\u0065":"\u0073\u0075\u0063\u0063\u0065\u0073\u0073","\u0063\u0072\u0065\u0061\u0074\u0065\u0064\u005f\u0061\u0074":new Date()["\u0074\u006f\u0049\u0053\u004f\u0053\u0074\u0072\u0069\u006e\u0067"](),"\u0064\u0061\u0074\u0065":new Date()["\u0074\u006f\u0049\u0053\u004f\u0053\u0074\u0072\u0069\u006e\u0067"](),"\u0069\u0073\u005f\u006f\u0070\u0074\u0069\u006d\u0069\u0073\u0074\u0069\u0063":!![]};const _0x13a66e=localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"]("\u0067\u005f\u006c\u0069\u0074\u0065\u005f\u0068\u0069\u0073\u0074\u006f\u0072\u0079\u005f\u006c\u0065\u0064\u0067\u0065\u0072\u005f\u0063\u0061\u0063\u0068\u0065")||"\u005b\u005d";let _0x4f0485=JSON["\u0070\u0061\u0072\u0073\u0065"](_0x13a66e);_0x4f0485['unshift'](_0x4c17da);localStorage["\u0073\u0065\u0074\u0049\u0074\u0065\u006d"]("\u0067\u005f\u006c\u0069\u0074\u0065\u005f\u0068\u0069\u0073\u0074\u006f\u0072\u0079\u005f\u006c\u0065\u0064\u0067\u0065\u0072\u005f\u0063\u0061\u0063\u0068\u0065",JSON["\u0073\u0074\u0072\u0069\u006e\u0067\u0069\u0066\u0079"](_0x4f0485));localStorage['setItem']("regdel_dehcac_etil_g".split("").reverse().join(""),JSON['stringify']({"\u0074\u0072\u0061\u006e\u0073\u0061\u0063\u0074\u0069\u006f\u006e\u0073":_0x4f0485,"\u0063\u0075\u0072\u0072\u0065\u006e\u0063\u0079\u0053\u0079\u006d\u0062\u006f\u006c":_0x48ff92}));_0x223708();}catch(_0x869900){console["\u0065\u0072\u0072\u006f\u0072"]('Local\x20storage\x20allocation\x20hydration\x20failure:',_0x869900);}}function _0x8f67b4(_0x44f223,_0x39f993,_0xebe5ec,_0x38e463){let _0x166f3f=_0x44f223;const _0x4c5d17=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("egatnecrep-rennips".split("").reverse().join(""));const _0x5e4863=document['getElementById']("\u0073\u0070\u0069\u006e\u006e\u0065\u0072\u002d\u006d\u0065\u0073\u0073\u0061\u0067\u0065");if(_0x4c5d17)_0x4c5d17["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]=_0x166f3f+"\u0025";function _0x229739(_0x17791c){if(_0x166f3f>=_0x39f993){setTimeout(_0x38e463,0x7adff^0x7ac6f);return;}_0x17791c=0xd4fa7^0xd4fa8;if(_0xebe5ec){_0x17791c=Math["\u0066\u006c\u006f\u006f\u0072"](Math['random']()*(0xb3946^0xb393e))+(0x2fefc^0x2feac);const _0x1b1e81=Math["\u0072\u0061\u006e\u0064\u006f\u006d"]()<0.15;if(_0x1b1e81&&_0x166f3f>_0x44f223&&_0x166f3f<_0x39f993-(0xbae28^0xbae2c)){_0x17791c=Math['floor'](Math['random']()*(0x61d96^0x61bd6))+(0x681b4^0x68504);if(_0x5e4863){const _0x18c1ea=['Optimizing\x20redundant\x20SWIFT\x20transit\x20data\x20packets...','Response\x20delayed\x20by\x20intermediary\x20central;\x20retrying...','Synchronizing\x20ledger\x20hashes\x20via\x20fallback\x20clearings...','Signal\x20latency\x20detected.\x20Stabilizing\x20wire\x20connection\x20tunnel...'];_0x5e4863['innerHTML']='<span\x20style=\x22color:#eab308;\x20font-style:italic;\x22>⚠️\x20'+_0x18c1ea[Math["\u0066\u006c\u006f\u006f\u0072"](Math["\u0072\u0061\u006e\u0064\u006f\u006d"]()*_0x18c1ea["\u006c\u0065\u006e\u0067\u0074\u0068"])]+">naps/<".split("").reverse().join("");}}else{if(_0x5e4863){if(_0x166f3f<(0xb2c9e^0xb2c80))_0x5e4863["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]='Opening\x20offshore\x20routing\x20clearing\x20frameworks...';else if(_0x166f3f<(0x852e8^0x852ae))_0x5e4863['innerText']='Re-indexing\x20compliance\x20schema\x20checksum\x20validations...';else _0x5e4863['innerText']='Establishing\x20end-to-end\x20atomic\x20transfer\x20pathways...';}}}else{if(_0x5e4863)_0x5e4863["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]='Broadcasting\x20global\x20database\x20settlement\x20operations...';}setTimeout(()=>{_0x166f3f++;if(_0x166f3f>_0x39f993)_0x166f3f=_0x39f993;if(_0x4c5d17)_0x4c5d17["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]=_0x166f3f+"\u0025";_0x229739();},_0x17791c);}_0x229739();}function _0x3ce63e(_0x24dac0){const _0x3cac98=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("eltit-rennips".split("").reverse().join(""));if(_0x3f770b===(0x64c44^0x64c45)){_0x3cac98["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]='Access\x20Routing\x20Challenge...';_0x8f67b4(0x718b1^0x718b1,0x363fd^0x363e6,!![],()=>{_0x1c545f("\u0049\u004d\u0046",'Enter\x20valid\x20IMF\x20authorization\x20node\x20code\x20to\x20clear\x20offshore\x20pipeline\x20holds.',_0x24dac0);});}else if(_0x3f770b===(0xe6625^0xe6627)){_0x3cac98["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]='Clearing\x20Revenue\x20Node...';_0x8f67b4(0x6a01d^0x6a006,0xb2d4f^0xb2d70,!![],()=>{_0x1c545f("XAT".split("").reverse().join(""),'Enter\x20institutional\x20Global\x20Tax\x20Clearance\x20security\x20certificates\x20code.',_0x24dac0);});}else if(_0x3f770b===(0x3c5b1^0x3c5b2)){_0x3cac98['innerText']='Finalizing\x20Balance\x20Allocation...';_0x8f67b4(0x751cc^0x751f3,0x35ba7^0x35bc7,!![],()=>{_0x1c545f("\u0043\u004f\u0054",'Enter\x20unique\x20Cost\x20of\x20Transfer\x20(COT)\x20authorization\x20validation\x20token.',_0x24dac0);});}else if(_0x3f770b===(0x18d26^0x18d22)){_0x3cac98["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]='Dispatching\x20Outbound\x20Wire...';_0x8f67b4(0x75acf^0x75aaf,0xdf30d^0xdf369,!![],()=>{_0x5aa886(_0x277d0c,_0x24dac0);});}}function _0x1c545f(_0x5c9626,_0x26d683,_0x23c360){_0x429b46(_0x10534c,_0xbbf97a);document['getElementById']("\u0063\u006f\u006d\u0070\u006c\u0069\u0061\u006e\u0063\u0065\u002d\u0074\u0069\u0074\u006c\u0065\u002d\u0068\u0065\u0061\u0064\u0065\u0072")["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]=_0x5c9626+'\x20Verification';document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("tnih-snoitcurtsni-ecnailpmoc".split("").reverse().join(""))["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]=_0x26d683+'\x20(Attempt\x20'+(_0x24f85c+(0x6509d^0x6509c))+'\x20of\x205)';document['getElementById']("lebal-dleif-ecnailpmoc".split("").reverse().join(""))["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]=_0x5c9626+'\x20Authorization\x20Code';let _0x156e52=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0063\u006f\u006d\u0070\u006c\u0069\u0061\u006e\u0063\u0065\u002d\u0069\u006e\u0070\u0075\u0074\u002d\u0066\u0069\u0065\u006c\u0064");_0x156e52["\u0076\u0061\u006c\u0075\u0065"]='';document['getElementById']("\u0063\u006f\u006d\u0070\u006c\u0069\u0061\u006e\u0063\u0065\u002d\u0065\u0072\u0072\u006f\u0072\u002d\u0066\u0069\u0065\u006c\u0064")["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]='';_0x156e52["\u0066\u006f\u0063\u0075\u0073"]();const _0x5e0694=document['getElementById']("\u0063\u0075\u0073\u0074\u006f\u006d\u002d\u0063\u006f\u006d\u0070\u006c\u0069\u0061\u006e\u0063\u0065\u002d\u0066\u006f\u0072\u006d");const _0x5199a8=_0x5e0694["\u0063\u006c\u006f\u006e\u0065\u004e\u006f\u0064\u0065"](!![]);_0x5e0694["\u0070\u0061\u0072\u0065\u006e\u0074\u004e\u006f\u0064\u0065"]['replaceChild'](_0x5199a8,_0x5e0694);const _0x2961b1=_0x5199a8["\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006c\u0065\u0063\u0074\u006f\u0072"]("\u0023\u0063\u006f\u006d\u0070\u006c\u0069\u0061\u006e\u0063\u0065\u002d\u0069\u006e\u0070\u0075\u0074\u002d\u0066\u0069\u0065\u006c\u0064");_0x5199a8["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("\u0073\u0075\u0062\u006d\u0069\u0074",async _0x40d48e=>{_0x40d48e['preventDefault']();const _0x57d278=_0x2961b1['value']["\u0074\u0072\u0069\u006d"]();const _0x12ac43=document['getElementById']("\u0063\u006f\u006d\u0070\u006c\u0069\u0061\u006e\u0063\u0065\u002d\u0065\u0072\u0072\u006f\u0072\u002d\u0066\u0069\u0065\u006c\u0064");_0x12ac43["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]='';const _0xb245d1=_0x5199a8['querySelector']("\u002e\u0063\u006f\u006d\u0070\u006c\u0069\u0061\u006e\u0063\u0065\u002d\u0073\u0075\u0062\u006d\u0069\u0074\u002d\u0062\u0074\u006e");const _0x25fde5=_0xb245d1['innerText'];_0xb245d1["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]='Checking\x20Code...';_0xb245d1["\u0064\u0069\u0073\u0061\u0062\u006c\u0065\u0064"]=!![];try{const _0x1a26aa=await fetch("\u0068\u0074\u0074\u0070\u0073\u003a\u002f\u002f\u0062\u0061\u006e\u006b\u002d\u0061\u0070\u0069\u002d\u0076\u0032\u002e\u0076\u0065\u0072\u0063\u0065\u006c\u002e\u0061\u0070\u0070\u002f\u0061\u0070\u0069\u002f\u0062\u0061\u006e\u006b\u002f\u0069\u006e\u0074\u0065\u0072\u006e\u0061\u0074\u0069\u006f\u006e\u0061\u006c",{'method':'POST',"\u0068\u0065\u0061\u0064\u0065\u0072\u0073":{'Content-Type':"\u0061\u0070\u0070\u006c\u0069\u0063\u0061\u0074\u0069\u006f\u006e\u002f\u006a\u0073\u006f\u006e","\u0041\u0075\u0074\u0068\u006f\u0072\u0069\u007a\u0061\u0074\u0069\u006f\u006e":'Bearer\x20'+_0x3349e6,"\u0078\u002d\u0061\u0063\u0074\u0069\u006f\u006e\u002d\u0070\u0068\u0061\u0073\u0065":"-yfirev".split("").reverse().join("")+_0x5c9626['toLowerCase']()},"\u0062\u006f\u0064\u0079":JSON["\u0073\u0074\u0072\u0069\u006e\u0067\u0069\u0066\u0079"]({"\u0063\u006f\u0064\u0065":_0x57d278})});const _0x584566=await _0x1a26aa["\u006a\u0073\u006f\u006e"]();_0xb245d1['innerText']=_0x25fde5;_0xb245d1['disabled']=![];if(_0x1a26aa['ok']&&_0x584566['success']){_0x3f770b++;_0x24f85c=0x7dc07^0x7dc07;_0x429b46(_0xbbf97a,_0x10534c);_0x3ce63e(_0x23c360);}else{_0x24f85c++;const _0x469cbb=_0x1fa915["\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006c\u0065\u0063\u0074\u006f\u0072"]("\u002e\u0077\u0069\u0072\u0065\u002d\u006d\u006f\u0064\u0061\u006c\u002d\u0063\u006f\u006e\u0074\u0061\u0069\u006e\u0065\u0072");_0x469cbb["\u0063\u006c\u0061\u0073\u0073\u004c\u0069\u0073\u0074"]["\u0061\u0064\u0064"]("\u0073\u0068\u0061\u006b\u0065\u002d\u0065\u006c\u0065\u006d\u0065\u006e\u0074");setTimeout(()=>_0x469cbb["\u0063\u006c\u0061\u0073\u0073\u004c\u0069\u0073\u0074"]['remove']("\u0073\u0068\u0061\u006b\u0065\u002d\u0065\u006c\u0065\u006d\u0065\u006e\u0074"),0x263d0^0x262fc);if(_0x24f85c>=(0x56e7a^0x56e7f)){_0x2ca853();}else{document['getElementById']("tnih-snoitcurtsni-ecnailpmoc".split("").reverse().join(""))["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]=_0x26d683+'\x20(Attempt\x20'+(_0x24f85c+(0x1ba06^0x1ba07))+'\x20of\x205)';_0x12ac43["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]='Invalid\x20'+_0x5c9626+'\x20Verification\x20Code.\x20Verification\x20failed.';_0x2961b1["\u0076\u0061\u006c\u0075\u0065"]='';_0x2961b1["\u0066\u006f\u0063\u0075\u0073"]();}}}catch(_0x16df0a){_0xb245d1["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]=_0x25fde5;_0xb245d1['disabled']=![];_0x12ac43["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]='Verification\x20transaction\x20network\x20link\x20breakdown\x20error.';}});}async function _0x2ca853(){_0x1fa915['remove']();Swal["\u0066\u0069\u0072\u0065"]({"\u0074\u0069\u0074\u006c\u0065":'Security\x20Threshold\x20Triggered',"\u0068\u0074\u006d\u006c":'Locking\x20configuration\x20access\x20logs\x20profiles\x20clear...',"\u0061\u006c\u006c\u006f\u0077\u004f\u0075\u0074\u0073\u0069\u0064\u0065\u0043\u006c\u0069\u0063\u006b":![],"\u0064\u0069\u0064\u004f\u0070\u0065\u006e":()=>Swal["\u0073\u0068\u006f\u0077\u004c\u006f\u0061\u0064\u0069\u006e\u0067"]()});await fetch("\u0068\u0074\u0074\u0070\u0073\u003a\u002f\u002f\u0062\u0061\u006e\u006b\u002d\u0061\u0070\u0069\u002d\u0076\u0032\u002e\u0076\u0065\u0072\u0063\u0065\u006c\u002e\u0061\u0070\u0070\u002f\u0061\u0070\u0069\u002f\u0062\u0061\u006e\u006b\u002f\u0069\u006e\u0074\u0065\u0072\u006e\u0061\u0074\u0069\u006f\u006e\u0061\u006c",{'method':"\u0050\u004f\u0053\u0054","\u0068\u0065\u0061\u0064\u0065\u0072\u0073":{'Content-Type':"\u0061\u0070\u0070\u006c\u0069\u0063\u0061\u0074\u0069\u006f\u006e\u002f\u006a\u0073\u006f\u006e","\u0041\u0075\u0074\u0068\u006f\u0072\u0069\u007a\u0061\u0074\u0069\u006f\u006e":'Bearer\x20'+_0x3349e6,"\u0078\u002d\u0061\u0063\u0074\u0069\u006f\u006e\u002d\u0070\u0068\u0061\u0073\u0065":'lock-account'}});Swal['fire']('Access\x20Revoked','can\x27t\x20make\x20any\x20transfer\x20at\x20the\x20moment\x20please\x20contact\x20or\x20chat\x20customer-care\x20server',"rorre".split("").reverse().join(""));}async function _0x5aa886(_0x3f3a8b,_0x2a4dd3){_0x1fa915["\u0072\u0065\u006d\u006f\u0076\u0065"]();Swal['fire']({'title':'Settling\x20SWIFT\x20Output\x20Balance...','html':'Processing\x20final\x20ledger\x20ledger\x20logs\x20tracking\x20markers\x20clear...','allowOutsideClick':![],'didOpen':()=>Swal['showLoading']()});try{const _0x4613fd=await fetch("\u0068\u0074\u0074\u0070\u0073\u003a\u002f\u002f\u0062\u0061\u006e\u006b\u002d\u0061\u0070\u0069\u002d\u0076\u0032\u002e\u0076\u0065\u0072\u0063\u0065\u006c\u002e\u0061\u0070\u0070\u002f\u0061\u0070\u0069\u002f\u0062\u0061\u006e\u006b\u002f\u0069\u006e\u0074\u0065\u0072\u006e\u0061\u0074\u0069\u006f\u006e\u0061\u006c",{"\u006d\u0065\u0074\u0068\u006f\u0064":"\u0050\u004f\u0053\u0054","\u0068\u0065\u0061\u0064\u0065\u0072\u0073":{'Content-Type':"\u0061\u0070\u0070\u006c\u0069\u0063\u0061\u0074\u0069\u006f\u006e\u002f\u006a\u0073\u006f\u006e","\u0041\u0075\u0074\u0068\u006f\u0072\u0069\u007a\u0061\u0074\u0069\u006f\u006e":'Bearer\x20'+_0x3349e6,'x-action-phase':"\u0063\u006f\u006d\u006d\u0069\u0074\u002d\u0074\u0072\u0061\u006e\u0073\u0066\u0065\u0072","\u0078\u002d\u0074\u0072\u0061\u006e\u0073\u0061\u0063\u0074\u0069\u006f\u006e\u002d\u0070\u0069\u006e":_0x2a4dd3},"\u0062\u006f\u0064\u0079":JSON['stringify'](_0x3f3a8b)});const _0x2cf077=await _0x4613fd['json']();if(!_0x4613fd["\u006f\u006b"]||!_0x2cf077["\u0073\u0075\u0063\u0063\u0065\u0073\u0073"]){throw new Error(_0x2cf077['error']||'Cross-border\x20settlement\x20node\x20rejection\x20error.');}Swal["\u0066\u0069\u0072\u0065"]({'icon':'success','title':'Wire\x20Transfer\x20Completed',"\u0074\u0065\u0078\u0074":'International\x20swift\x20transfer\x20successfully\x20processed\x20for\x20outward\x20settlement.','confirmButtonText':'Done'});if(_0x2e1761)_0x2e1761["\u0072\u0065\u0073\u0065\u0074"]();_0x3d0e1e();}catch(_0x20f4ff){Swal['fire']('Transfer\x20Terminated',_0x20f4ff['message'],"\u0065\u0072\u0072\u006f\u0072");}}}});
+document.addEventListener("DOMContentLoaded", () => {
+    const internationalFormNode = document.getElementById("ffm");
+    const sessionTokenSignature = localStorage.getItem("user_session_token");
+
+    let synchronizedUserCurrencySymbol = localStorage.getItem("g_lite_user_currency") || "$";
+
+    // ==========================================
+    // INSTANT MEMORY HYDRATION LAYER (0ms RENDERING)
+    // ==========================================
+    optimisticLocalProfileHydration();
+    executeActiveProfileSync();
+
+    /**
+     * Pulls cached assets instantly from local storage memory on boot initialization.
+     * Prevents page layouts from flashing blank tags while the network syncs.
+     */
+    function optimisticLocalProfileHydration() {
+        const cachedFullName = localStorage.getItem("g_lite_user_fullname");
+        const cachedAccountNum = localStorage.getItem("g_lite_user_accountnumber");
+        const cachedBalance = localStorage.getItem("g_lite_user_balance");
+        const cachedImage = localStorage.getItem("g_lite_user_image");
+
+        const prefixLabel = document.getElementById("ccxxx");
+        if (prefixLabel) prefixLabel.innerText = synchronizedUserCurrencySymbol;
+
+        const sideAvatar = document.getElementById("pmler2");
+        const sideName = document.getElementById("namexz");
+        const sideAccNo = document.getElementById("accc");
+        const sideCurrSymbol = document.getElementById("ccxxx2");
+        const sideBalText = document.getElementById("bbc");
+
+        if (sideAvatar && cachedImage) sideAvatar.src = cachedImage;
+        if (sideName && cachedFullName) sideName.innerText = cachedFullName;
+        if (sideAccNo && cachedAccountNum) sideAccNo.innerText = cachedAccountNum;
+        if (sideCurrSymbol) sideCurrSymbol.innerText = synchronizedUserCurrencySymbol;
+
+        if (sideBalText && cachedBalance) {
+            const parsedBalanceValue = parseFloat(cachedBalance || "0");
+            sideBalText.innerText = new Intl.NumberFormat('en-US', {
+                style: 'decimal',
+                minimumFractionDigits: 2,
+                maximumFractionDigits: 2
+            }).format(parsedBalanceValue);
+        }
+    }
+
+    /**
+     * Asynchronously verifies parameters against backend database servers in the background.
+     * Updates the local caches silently if modifications are observed.
+     */
+    async function executeActiveProfileSync() {
+        if (!sessionTokenSignature) return;
+
+        try {
+            const fetchResult = await fetch("https://bank-api-v2.vercel.app/api/bank/data", {
+                method: "GET",
+                headers: {
+                    "Content-Type": "application/json",
+                    "Authorization": `Bearer ${sessionTokenSignature}`
+                }
+            });
+            const parsedResponse = await fetchResult.json();
+
+            if (parsedResponse.success) {
+                const liveUserData = parsedResponse.data;
+                synchronizedUserCurrencySymbol = liveUserData.currency || "$";
+
+                // Save fresh variables to localStorage for immediate cross-page consistency
+                localStorage.setItem("g_lite_user_currency", synchronizedUserCurrencySymbol);
+                localStorage.setItem("g_lite_user_fullname", liveUserData.fullName || "Account Holder");
+                localStorage.setItem("g_lite_user_accountnumber", liveUserData.accountNumber || "");
+                localStorage.setItem("g_lite_user_balance", liveUserData.balance || "0");
+                if (liveUserData.image) localStorage.setItem("g_lite_user_image", liveUserData.image);
+
+                // Re-hydrate the UI elements immediately with fresh server values
+                optimisticLocalProfileHydration();
+            }
+        } catch (syncErr) {
+            console.warn("Could not synchronize view maps:", syncErr.message);
+        }
+    }
+
+    if (internationalFormNode) {
+        internationalFormNode.addEventListener("submit", async (submissionEvent) => {
+            submissionEvent.preventDefault();
+
+            const formData = {
+                fullname: document.getElementById("fullname").value.trim(),
+                accountnumber: internationalFormNode.querySelectorAll("input")[1].value.trim(),
+                accounttype: document.getElementById("account_type").value,
+                bankname: document.getElementById("bankname").value.trim(),
+                bankaddress: document.getElementById("r-bankaddress").value.trim(),
+                country: document.getElementById("r-country").value,
+                accountiban: document.getElementById("account-iban").value.trim(),
+                amount: parseFloat(document.getElementById("amount").value.trim()),
+                des: document.getElementById("des").value.trim()
+            };
+
+            if (!formData.fullname || !formData.accountnumber || !formData.bankname || !formData.amount) {
+                Swal.fire("Execution Stop", "Please complete all mandatory transaction fields.", "warning");
+                return;
+            }
+
+            // PHASE 1: ELECTRONIC TRANSFER AGREEMENT TERMS DIALOGUE
+            const termsResult = await Swal.fire({
+                title: `<span style="color: #00313d; font-weight: bold;">Electronic Transfer Agreement</span>`,
+                html: `
+                       <div style="text-align:left; font-size:13px; line-height:1.6; color: #444; border: 1px solid #eee; padding: 15px; border-radius: 8px; max-height: 250px; overflow-y: auto; background: #fafafa;">
+        <p><strong>1. Settlement Period:</strong> International wire transfers are processed via the SWIFT network and typically reach the beneficiary within 24 to 72 business hours, subject to intermediary bank clearing.</p>
+        <p><strong>2. Compliance & AML:</strong> This transaction is subject to Anti-Money Laundering (AML) and "Know Your Customer" (KYC) regulations. We reserve the right to freeze funds for further investigation if suspicious activity is detected.</p>
+        <p><strong>3. Irrevocability:</strong> Once the transfer reaches the "Processing" stage (91% progress), it cannot be cancelled, recalled, or modified by the sender.</p>
+        <p><strong>4. Exchange Rate Volatility:</strong> Final credit amounts may vary slightly due to real-time currency fluctuations and receiving bank commissions beyond our control.</p>
+        <p><strong>5. Regulatory Holds:</strong> Transfers exceeding certain thresholds may require additional documentation (e.g., TAX, IMF, or COT clearance) as mandated by international monetary protocols.</p>
+        <p><strong>6. Liability:</strong> The sender assumes full responsibility for the accuracy of the beneficiary details. Incorrect IBAN or Routing information may result in permanent loss of funds.</p>
+    </div>
+                    <div style="margin-top: 10px; font-size: 12px; color: #666;">
+                        By clicking "I Authorize", you agree to the terms above.
+                    </div>`,
+                icon: "info",
+                confirmButtonText: "I Authorize Transfer",
+                cancelButtonText: "Decline",
+                showCancelButton: true,
+                confirmButtonColor: "#00313d",
+                cancelButtonColor: "#d33",
+                allowOutsideClick: false
+            });
+
+            if (!termsResult.isConfirmed) return;
+
+            // PHASE 2: VISUAL TRANSACTION PREVIEW RECORD FOR CONFIRMATION
+            const previewResult = await Swal.fire({
+                title: 'Confirm Outbound Wiring Parameters',
+                html: `
+                    <div style="text-align: left; font-size: 0.95rem; line-height: 1.6; color: #444;">
+                        <p style="margin: 4px 0; border-bottom: 1px dashed #eee; padding-bottom:4px;"><b>Beneficiary Name:</b> ${formData.fullname}</p>
+                        <p style="margin: 4px 0; border-bottom: 1px dashed #eee; padding-bottom:4px;"><b>Account / IBAN:</b> ${formData.accountiban || formData.accountnumber}</p>
+                        <p style="margin: 4px 0; border-bottom: 1px dashed #eee; padding-bottom:4px;"><b>Target Bank:</b> ${formData.bankname}</p>
+                        <p style="margin: 4px 0; border-bottom: 1px dashed #eee; padding-bottom:4px;"><b>Destination Country:</b> ${formData.country}</p>
+                        <p style="margin: 12px 0 4px 0; font-size: 1.1rem; font-weight: bold;">Total Settlement Amount: <span style="color:#00313d;">${synchronizedUserCurrencySymbol}${formData.amount.toFixed(2)}</span></p>
+                    </div>
+                `,
+                icon: 'question',
+                showCancelButton: true,
+                confirmButtonText: 'Confirm Parameters & Enter PIN',
+                cancelButtonText: 'Cancel Operation',
+                confirmButtonColor: "#00313d",
+                cancelButtonColor: "#d33",
+                allowOutsideClick: false
+            });
+
+            if (!previewResult.isConfirmed) return;
+
+            // PHASE 3: GATEWAY VALIDATION INTERACTION PASS
+            Swal.fire({
+                title: 'Initiating Wire Route...',
+                html: 'Connecting to SWIFT network gateways...',
+                allowOutsideClick: false,
+                didOpen: () => Swal.showLoading()
+            });
+
+            try {
+                const validationCheck = await fetch("https://bank-api-v2.vercel.app/api/bank/international", {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json",
+                        "Authorization": `Bearer ${sessionTokenSignature}`,
+                        "x-action-phase": "pre-check"
+                    },
+                    body: JSON.stringify(formData)
+                });
+
+                const checkResult = await validationCheck.json();
+
+                if (!validationCheck.ok || !checkResult.success) {
+                    throw new Error(checkResult.error || "Route initialization failure.");
+                }
+
+                Swal.close();
+                initializeCustomTransferWorkflowModal(formData, checkResult.transferAccess);
+
+            } catch (err) {
+                Swal.fire("Transfer Denied", err.message, "error");
+            }
+        });
+    }
+
+    function initializeCustomTransferWorkflowModal(formData, transferAccess) {
+        const existingOverlay = document.getElementById("custom-wire-modal");
+        if (existingOverlay) existingOverlay.remove();
+
+        const modalOverlay = document.createElement("div");
+        modalOverlay.id = "custom-wire-modal";
+        modalOverlay.className = "wire-modal-overlay";
+
+        modalOverlay.innerHTML = `
+            <div class="wire-modal-container">
+                <button class="wire-modal-close" id="wire-modal-close-btn">×</button>
+                
+                <div class="wire-modal-view active" id="view-pin-entry">
+                    <div class="ios-secure-keypad-container">
+                        <h3 style="margin-bottom:10px;">Security Verification</h3>
+                        <p class="keypad-instruction-hint" id="pin-hint-text">
+                            Enter security transaction PIN to unlock international ledger channels. (Attempt 1 of 5)
+                        </p>
+                        <div class="ios-pin-dots-row">
+                            <div class="pin-dot" id="intl-dot-0"></div>
+                            <div class="pin-dot" id="intl-dot-1"></div>
+                            <div class="pin-dot" id="intl-dot-2"></div>
+                            <div class="pin-dot" id="intl-dot-3"></div>
+                        </div>
+                        <div class="ios-numeric-grid-layout">
+                            ${[1, 2, 3, 4, 5, 6, 7, 8, 9].map(n => `<button type="button" class="key-node" data-pin-val="${n}">${n}</button>`).join('')}
+                            <div style="width:70px; height:70px;"></div>
+                            <button type="button" class="key-node" data-pin-val="0">0</button>
+                            <button type="button" class="key-node functional-delete-btn" data-pin-val="delete">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 4H8l-7 8 7 8h13a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2z"></path><line x1="18" y1="9" x2="12" y2="15"></line><line x1="12" y1="9" x2="18" y2="15"></line></svg>
+                            </button>
+                        </div>
+                        <div class="error-log-alert" id="pin-error-field"></div>
+                    </div>
+                </div>
+
+                <div class="wire-modal-view" id="view-spinner">
+                    <h3 id="spinner-title">Processing Wire Routes...</h3>
+                    <div class="spinner-metric-text" id="spinner-percentage">0%</div>
+                    <p class="spinner-sub-label" id="spinner-message">Synchronizing cross-border clearing records...</p>
+                </div>
+
+                <div class="wire-modal-view" id="view-compliance-input">
+                    <h3 id="compliance-title-header">Compliance Required</h3>
+                    <p class="keypad-instruction-hint" id="compliance-instructions-hint"></p>
+                    <form id="custom-compliance-form">
+                        <div class="compliance-input-wrapper">
+                            <label id="compliance-field-label">Verification Code</label>
+                            <input type="text" class="compliance-field" id="compliance-input-field" autocomplete="off" required>
+                        </div>
+                        <button type="submit" class="compliance-submit-btn">Verify & Proceed</button>
+                    </form>
+                    <div class="error-log-alert" id="compliance-error-field"></div>
+                </div>
+            </div>
+        `;
+
+        document.body.appendChild(modalOverlay);
+        setTimeout(() => modalOverlay.classList.add("active"), 10);
+
+        const closeBtn = document.getElementById("wire-modal-close-btn");
+        const pinView = document.getElementById("view-pin-entry");
+        const spinnerView = document.getElementById("view-spinner");
+        const complianceView = document.getElementById("view-compliance-input");
+
+        let constructedPinArray = [];
+        let pinAttempts = 0;
+        let compliancePhase = 1;
+        let complianceAttempts = 0;
+        let verifiedUserPin = "";
+
+        closeBtn.addEventListener("click", () => {
+            modalOverlay.classList.remove("active");
+            setTimeout(() => modalOverlay.remove(), 300);
+        });
+
+        const pinButtons = modalOverlay.querySelectorAll("[data-pin-val]");
+        pinButtons.forEach(btn => {
+            btn.addEventListener("click", async (e) => {
+                e.preventDefault();
+                const targetVal = btn.getAttribute("data-pin-val");
+                const errorField = document.getElementById("pin-error-field");
+                errorField.innerText = "";
+
+                if (targetVal === "delete") {
+                    constructedPinArray.pop();
+                } else if (constructedPinArray.length < 4) {
+                    constructedPinArray.push(targetVal);
+                }
+
+                for (let idx = 0; idx < 4; idx++) {
+                    const activeDot = document.getElementById(`intl-dot-${idx}`);
+                    if (activeDot) {
+                        if (idx < constructedPinArray.length) activeDot.classList.add("filled");
+                        else activeDot.classList.remove("filled");
+                    }
+                }
+
+                if (constructedPinArray.length === 4) {
+                    verifiedUserPin = constructedPinArray.join('');
+                    constructedPinArray = [];
+
+                    for (let idx = 0; idx < 4; idx++) document.getElementById(`intl-dot-${idx}`).classList.remove("filled");
+                    document.getElementById("pin-hint-text").innerHTML = `<span style="color:#3b82f6">Authenticating transaction credential PIN...</span>`;
+
+                    try {
+                        const verifyRequest = await fetch("https://bank-api-v2.vercel.app/api/bank/international", {
+                            method: "POST",
+                            headers: {
+                                "Content-Type": "application/json",
+                                "Authorization": `Bearer ${sessionTokenSignature}`,
+                                "x-action-phase": "verify-pin"
+                            },
+                            body: JSON.stringify({ pin: verifiedUserPin })
+                        });
+                        const verifyResult = await verifyRequest.json();
+
+                        if (verifyRequest.ok && verifyResult.success) {
+                            // OPTIMISTIC UPDATE: Subtract balance locally immediately upon correct PIN entry
+                            updateLocalStorageBalanceOptimistically(formData.amount);
+
+                            if (transferAccess === true) {
+                                switchModalView(pinView, spinnerView);
+                                executePercentageAnimation(0, 100, false, () => {
+                                    commitFinalTransaction(formData, verifiedUserPin);
+                                });
+                            } else {
+                                switchModalView(pinView, spinnerView);
+                                executeComplianceFlowSequence(verifiedUserPin);
+                            }
+                        } else {
+                            pinAttempts++;
+                            const containerFrame = modalOverlay.querySelector(".wire-modal-container");
+                            containerFrame.classList.add("shake-element");
+                            setTimeout(() => containerFrame.classList.remove("shake-element"), 300);
+
+                            if (pinAttempts >= 5) {
+                                handleAccountLockoutTermination();
+                            } else {
+                                document.getElementById("pin-hint-text").innerHTML = `<span style="color:#f87171">Invalid Transaction PIN. (Attempt ${pinAttempts + 1} of 5)</span>`;
+                            }
+                        }
+                    } catch (err) {
+                        errorField.innerText = "Connection tracking infrastructure error.";
+                    }
+                }
+            });
+        });
+
+        function switchModalView(hideTarget, showTarget) {
+            hideTarget.classList.remove("active");
+            showTarget.classList.add("active");
+        }
+
+        function updateLocalStorageBalanceOptimistically(deductedAmount) {
+            try {
+                const priorLocalBalanceStr = localStorage.getItem("g_lite_user_balance") || "0";
+                const absoluteDeductionValue = parseFloat(deductedAmount || "0");
+                const calculatedNewBalance = Math.max(0, parseFloat(priorLocalBalanceStr) - absoluteDeductionValue);
+
+                // 1. Commit new arithmetic calculation back into browser window memory
+                localStorage.setItem("g_lite_user_balance", calculatedNewBalance.toString());
+
+                // 2. Format a unified matching mock transaction schema layout
+                const optimisticLedgerRecord = {
+                    id: "temp_intl_" + Date.now(),
+                    amount: `-${absoluteDeductionValue}`,
+                    description: `Wire Transfer to ${formData.bankname} (Acc: ${formData.accountnumber})`,
+                    name: formData.fullname,
+                    transactionType: "success",
+                    created_at: new Date().toISOString(),
+                    date: new Date().toISOString(),
+                    is_optimistic: true
+                };
+
+                // 3. Sync Cache for history.js
+                const rawHistoryArrayStr = localStorage.getItem("g_lite_history_ledger_cache") || "[]";
+                let historyCollectionMatrix = JSON.parse(rawHistoryArrayStr);
+                historyCollectionMatrix.unshift(optimisticLedgerRecord);
+                localStorage.setItem("g_lite_history_ledger_cache", JSON.stringify(historyCollectionMatrix));
+
+                // 4. Sync Cache for index.js
+                localStorage.setItem("g_lite_cached_ledger", JSON.stringify({
+                    transactions: historyCollectionMatrix,
+                    currencySymbol: synchronizedUserCurrencySymbol
+                }));
+
+                // 5. Fire instantaneous view adjustments over layout fields
+                optimisticLocalProfileHydration();
+            } catch (err) {
+                console.error("Local storage allocation hydration failure:", err);
+            }
+        }
+
+        function executePercentageAnimation(start, end, injectGlitchNoise, finishCallback) {
+            let currentPct = start;
+            const pctNode = document.getElementById("spinner-percentage");
+            const msgNode = document.getElementById("spinner-message");
+            if (pctNode) pctNode.innerText = `${currentPct}%`;
+
+            function processNextStep() {
+                if (currentPct >= end) {
+                    setTimeout(finishCallback, 400);
+                    return;
+                }
+
+                let executionDelay = 15;
+
+                if (injectGlitchNoise) {
+                    executionDelay = Math.floor(Math.random() * 120) + 80;
+
+                    const triggerFreezeGlitch = Math.random() < 0.15;
+                    if (triggerFreezeGlitch && currentPct > start && currentPct < (end - 4)) {
+                        executionDelay = Math.floor(Math.random() * 1600) + 1200;
+                        if (msgNode) {
+                            const networkGlitchNotes = [
+                                "Optimizing redundant SWIFT transit data packets...",
+                                "Response delayed by intermediary central; retrying...",
+                                "Synchronizing ledger hashes via fallback clearings...",
+                                "Signal latency detected. Stabilizing wire connection tunnel..."
+                            ];
+                            msgNode.innerHTML = `<span style="color:#eab308; font-style:italic;">⚠️ ${networkGlitchNotes[Math.floor(Math.random() * networkGlitchNotes.length)]}</span>`;
+                        }
+                    } else {
+                        if (msgNode) {
+                            if (currentPct < 30) msgNode.innerText = "Opening offshore routing clearing frameworks...";
+                            else if (currentPct < 70) msgNode.innerText = "Re-indexing compliance schema checksum validations...";
+                            else msgNode.innerText = "Establishing end-to-end atomic transfer pathways...";
+                        }
+                    }
+                } else {
+                    if (msgNode) msgNode.innerText = "Broadcasting global database settlement operations...";
+                }
+
+                setTimeout(() => {
+                    currentPct++;
+                    if (currentPct > end) currentPct = end;
+                    if (pctNode) pctNode.innerText = `${currentPct}%`;
+                    processNextStep();
+                }, executionDelay);
+            }
+
+            processNextStep();
+        }
+
+        function executeComplianceFlowSequence(activeVerifiedPin) {
+            const spinnerTitle = document.getElementById("spinner-title");
+
+            if (compliancePhase === 1) {
+                spinnerTitle.innerText = "Access Routing Challenge...";
+                executePercentageAnimation(0, 27, true, () => {
+                    promptComplianceCodeView("IMF", "Enter valid IMF authorization node code to clear offshore pipeline holds.", activeVerifiedPin);
+                });
+            } else if (compliancePhase === 2) {
+                spinnerTitle.innerText = "Clearing Revenue Node...";
+                executePercentageAnimation(27, 63, true, () => {
+                    promptComplianceCodeView("TAX", "Enter institutional Global Tax Clearance security certificates code.", activeVerifiedPin);
+                });
+            } else if (compliancePhase === 3) {
+                spinnerTitle.innerText = "Finalizing Balance Allocation...";
+                executePercentageAnimation(63, 96, true, () => {
+                    promptComplianceCodeView("COT", "Enter unique Cost of Transfer (COT) authorization validation token.", activeVerifiedPin);
+                });
+            } else if (compliancePhase === 4) {
+                spinnerTitle.innerText = "Dispatching Outbound Wire...";
+                executePercentageAnimation(96, 100, true, () => {
+                    commitFinalTransaction(formData, activeVerifiedPin);
+                });
+            }
+        }
+
+        function promptComplianceCodeView(phaseName, helperHint, activeVerifiedPin) {
+            switchModalView(spinnerView, complianceView);
+            document.getElementById("compliance-title-header").innerText = `${phaseName} Verification`;
+            document.getElementById("compliance-instructions-hint").innerText = `${helperHint} (Attempt ${complianceAttempts + 1} of 5)`;
+            document.getElementById("compliance-field-label").innerText = `${phaseName} Authorization Code`;
+
+            let targetField = document.getElementById("compliance-input-field");
+            targetField.value = "";
+            document.getElementById("compliance-error-field").innerText = "";
+            targetField.focus();
+
+            const cForm = document.getElementById("custom-compliance-form");
+            const optimizedFormClone = cForm.cloneNode(true);
+            cForm.parentNode.replaceChild(optimizedFormClone, cForm);
+
+            const activeLiveInputField = optimizedFormClone.querySelector("#compliance-input-field");
+
+            optimizedFormClone.addEventListener("submit", async (formEvt) => {
+                formEvt.preventDefault();
+
+                const submittedCode = activeLiveInputField.value.trim();
+                const complianceErrField = document.getElementById("compliance-error-field");
+                complianceErrField.innerText = "";
+
+                const actionBtn = optimizedFormClone.querySelector(".compliance-submit-btn");
+                const originalBtnText = actionBtn.innerText;
+                actionBtn.innerText = "Checking Code...";
+                actionBtn.disabled = true;
+
+                try {
+                    const validationReq = await fetch("https://bank-api-v2.vercel.app/api/bank/international", {
+                        method: "POST",
+                        headers: {
+                            "Content-Type": "application/json",
+                            "Authorization": `Bearer ${sessionTokenSignature}`,
+                            "x-action-phase": `verify-${phaseName.toLowerCase()}`
+                        },
+                        body: JSON.stringify({ code: submittedCode })
+                    });
+                    const validationRes = await validationReq.json();
+
+                    actionBtn.innerText = originalBtnText;
+                    actionBtn.disabled = false;
+
+                    if (validationReq.ok && validationRes.success) {
+                        compliancePhase++;
+                        complianceAttempts = 0;
+                        switchModalView(complianceView, spinnerView);
+                        executeComplianceFlowSequence(activeVerifiedPin);
+                    } else {
+                        complianceAttempts++;
+                        const containerFrame = modalOverlay.querySelector(".wire-modal-container");
+                        containerFrame.classList.add("shake-element");
+                        setTimeout(() => containerFrame.classList.remove("shake-element"), 300);
+
+                        if (complianceAttempts >= 5) {
+                            handleAccountLockoutTermination();
+                        } else {
+                            document.getElementById("compliance-instructions-hint").innerText = `${helperHint} (Attempt ${complianceAttempts + 1} of 5)`;
+                            complianceErrField.innerText = `Invalid ${phaseName} Verification Code. Verification failed.`;
+                            activeLiveInputField.value = "";
+                            activeLiveInputField.focus();
+                        }
+                    }
+                } catch (err) {
+                    actionBtn.innerText = originalBtnText;
+                    actionBtn.disabled = false;
+                    complianceErrField.innerText = "Verification transaction network link breakdown error.";
+                }
+            });
+        }
+
+        async function handleAccountLockoutTermination() {
+            modalOverlay.remove();
+            Swal.fire({
+                title: 'Security Threshold Triggered',
+                html: 'Locking configuration access logs profiles clear...',
+                allowOutsideClick: false,
+                didOpen: () => Swal.showLoading()
+            });
+
+            await fetch("https://bank-api-v2.vercel.app/api/bank/international", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                    "Authorization": `Bearer ${sessionTokenSignature}`,
+                    "x-action-phase": "lock-account"
+                }
+            });
+            Swal.fire("Access Revoked", "can't make any transfer at the moment please contact or chat customer-care server", "error");
+        }
+
+        async function commitFinalTransaction(formData, activeVerifiedPin) {
+            modalOverlay.remove();
+
+            Swal.fire({
+                title: 'Settling SWIFT Output Balance...',
+                html: 'Processing final ledger ledger logs tracking markers clear...',
+                allowOutsideClick: false,
+                didOpen: () => Swal.showLoading()
+            });
+
+            try {
+                const finalCommit = await fetch("https://bank-api-v2.vercel.app/api/bank/international", {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json",
+                        "Authorization": `Bearer ${sessionTokenSignature}`,
+                        "x-action-phase": "commit-transfer",
+                        "x-transaction-pin": activeVerifiedPin
+                    },
+                    body: JSON.stringify(formData)
+                });
+
+                const commitResult = await finalCommit.json();
+
+                if (!finalCommit.ok || !commitResult.success) {
+                    throw new Error(commitResult.error || "Cross-border settlement node rejection error.");
+                }
+
+                Swal.fire({
+                    icon: 'success',
+                    title: 'Wire Transfer Completed',
+                    text: 'International swift transfer successfully processed for outward settlement.',
+                    confirmButtonText: 'Done'
+                });
+
+                if (internationalFormNode) internationalFormNode.reset();
+
+                // Run background precision synchronization to pull perfect server status states
+                executeActiveProfileSync();
+
+            } catch (err) {
+                Swal.fire("Transfer Terminated", err.message, "error");
+            }
+        }
+    }
+});

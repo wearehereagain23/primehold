@@ -1,1 +1,466 @@
-import{triggerAiHistoryGenerationPanel}from"\u002e\u002f\u0061\u0069\u002d\u0068\u0069\u0073\u0074\u006f\u0072\u0079\u002e\u006a\u0073";const CONFIG={'limitPerPage':0x5,"\u0061\u0070\u0069\u0042\u0061\u0073\u0065\u0055\u0072\u006c":'https://bank-api-v2.vercel.app/api/bank/admin-history',"\u0067\u0065\u0074\u0041\u0075\u0074\u0068\u0054\u006f\u006b\u0065\u006e":()=>localStorage['getItem']("\u0061\u0064\u006d\u0069\u006e\u005f\u0073\u0065\u0073\u0073\u0069\u006f\u006e\u005f\u0074\u006f\u006b\u0065\u006e")};const state={"\u0063\u0075\u0072\u0072\u0065\u006e\u0074\u0050\u0061\u0067\u0065":0x1,'userUuid':null,"\u0063\u0061\u0063\u0068\u0065\u0064\u0052\u006f\u0077\u0073":[]};const getCacheKey=()=>"_regdel_yrotsih_nimda".split("").reverse().join("")+state['userUuid'];export async function bindSystemLedgerHistoryStream(_0x5c73eb){state["\u0075\u0073\u0065\u0072\u0055\u0075\u0069\u0064"]=_0x5c73eb;state["\u0063\u0075\u0072\u0072\u0065\u006e\u0074\u0050\u0061\u0067\u0065"]=0xcc5e5^0xcc5e4;const _0x172d35=localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"](getCacheKey());const _0x50d928=document['getElementById']("\u0063\u0076\u0063\u0078\u0032");if(_0x172d35&&_0x50d928){try{state["\u0063\u0061\u0063\u0068\u0065\u0064\u0052\u006f\u0077\u0073"]=JSON["\u0070\u0061\u0072\u0073\u0065"](_0x172d35);renderHistoryTableRows(state["\u0063\u0061\u0063\u0068\u0065\u0064\u0052\u006f\u0077\u0073"]);}catch{console["\u0077\u0061\u0072\u006e"]('⚠️\x20History\x20cache\x20parse\x20failed,\x20fallback\x20to\x20server\x20fetch.');}}else if(_0x50d928){_0x50d928["\u0069\u006e\u006e\u0065\u0072\u0048\u0054\u004d\u004c"]='<tr><td\x20colspan=\x223\x22\x20style=\x22text-align:center;\x20padding:\x2032px;\x20color:var(--text-secondary-muted);\x20font-family:\x20monospace;\x22>Fetching\x20history\x20logs...</td></tr>';}await fetchAndRenderHistoryLogs();setupEventListeners();}function setupEventListeners(){const _0x1135f8=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0066\u006f\u006d\u0037");if(_0x1135f8){_0x1135f8["\u006f\u006e\u0073\u0075\u0062\u006d\u0069\u0074"]=async _0xf8e648=>{_0xf8e648['preventDefault']();await injectNewHistoryLogRow();};}const _0x26e61e=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0070\u0072\u0065\u0076\u0042\u0074\u006e");if(_0x26e61e){_0x26e61e["\u006f\u006e\u0063\u006c\u0069\u0063\u006b"]=async()=>{if(state["\u0063\u0075\u0072\u0072\u0065\u006e\u0074\u0050\u0061\u0067\u0065"]>(0x65e30^0x65e31)){state["\u0063\u0075\u0072\u0072\u0065\u006e\u0074\u0050\u0061\u0067\u0065"]--;renderHistoryTableRows(state['cachedRows']);await fetchAndRenderHistoryLogs();}};}const _0x1c65fa=document['getElementById']("\u006e\u0065\u0078\u0074\u0042\u0074\u006e");if(_0x1c65fa){_0x1c65fa["\u006f\u006e\u0063\u006c\u0069\u0063\u006b"]=async()=>{state["\u0063\u0075\u0072\u0072\u0065\u006e\u0074\u0050\u0061\u0067\u0065"]++;await fetchAndRenderHistoryLogs();};}const _0x24734e=document['getElementById']("\u0063\u006c\u006f\u0073\u0065\u0048\u0069\u0073\u0074\u006f\u0072\u0079\u004d\u006f\u0064\u0061\u006c\u0054\u0072\u0069\u0067\u0067\u0065\u0072");if(_0x24734e){_0x24734e['onclick']=()=>toggleModal(![]);}const _0x3e40ec=document['getElementById']("\u006d\u006f\u0064\u0061\u006c\u002d\u0073\u0061\u0076\u0065\u002d\u0061\u0063\u0074\u0069\u006f\u006e\u002d\u0062\u0074\u006e");if(_0x3e40ec){_0x3e40ec['onclick']=commitModalRecordFormModifications;}const _0x59bc28=document['getElementById']("ntb-noitca-eteled-ladom".split("").reverse().join(""));if(_0x59bc28){_0x59bc28["\u006f\u006e\u0063\u006c\u0069\u0063\u006b"]=async()=>{const _0x30629d=document['getElementById']("di-gol-ladom".split("").reverse().join(""))["\u0076\u0061\u006c\u0075\u0065"];await dropHistoryNode(_0x30629d);};}const _0x8ea1d1=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0062\u0075\u006c\u006b\u0043\u006c\u0065\u0061\u0072\u0048\u0069\u0073\u0074\u006f\u0072\u0079\u0042\u0074\u006e");if(_0x8ea1d1){_0x8ea1d1["\u006f\u006e\u0063\u006c\u0069\u0063\u006b"]=()=>purgeEntireUserLedgerHistoryArchive(state['userUuid']);}const _0x569600=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0061\u0069\u0047\u0065\u006e\u0042\u0074\u006e");if(_0x569600){_0x569600["\u006f\u006e\u0063\u006c\u0069\u0063\u006b"]=()=>triggerAiHistoryGenerationPanel(state["\u0075\u0073\u0065\u0072\u0055\u0075\u0069\u0064"]);}}async function fetchAndRenderHistoryLogs(){if(!state['userUuid'])return;try{const _0xa82370=CONFIG["\u0061\u0070\u0069\u0042\u0061\u0073\u0065\u0055\u0072\u006c"]+"=diuu?".split("").reverse().join("")+state["\u0075\u0073\u0065\u0072\u0055\u0075\u0069\u0064"]+"\u0026\u0070\u0061\u0067\u0065\u003d"+state['currentPage']+"\u0026\u006c\u0069\u006d\u0069\u0074\u003d"+(CONFIG['limitPerPage']+(0x41ce3^0x41ce2));const _0x50926c=await fetch(_0xa82370,{"\u0068\u0065\u0061\u0064\u0065\u0072\u0073":{"\u0041\u0075\u0074\u0068\u006f\u0072\u0069\u007a\u0061\u0074\u0069\u006f\u006e":'Bearer\x20'+CONFIG["\u0067\u0065\u0074\u0041\u0075\u0074\u0068\u0054\u006f\u006b\u0065\u006e"]()}});const _0x2a6ce7=await _0x50926c["\u006a\u0073\u006f\u006e"]();const _0x30441b=_0x2a6ce7["\u006c\u006f\u0067\u0073"]||[];if(_0x50926c['ok']&&_0x2a6ce7["\u0073\u0075\u0063\u0063\u0065\u0073\u0073"]){if(state['currentPage']===(0x9876d^0x9876c)){localStorage['setItem'](getCacheKey(),JSON["\u0073\u0074\u0072\u0069\u006e\u0067\u0069\u0066\u0079"](_0x30441b["\u0073\u006c\u0069\u0063\u0065"](0xd0583^0xd0583,CONFIG['limitPerPage'])));}renderHistoryTableRows(_0x30441b);}}catch(_0x65e04e){const _0x388424=document['getElementById']("\u0063\u0076\u0063\u0078\u0032");if(_0x388424){_0x388424["\u0069\u006e\u006e\u0065\u0072\u0048\u0054\u004d\u004c"]='<tr><td\x20colspan=\x223\x22\x20style=\x22color:var(--status-blocked-red);\x20text-align:center;\x20padding:\x2020px;\x22>Failed\x20to\x20load\x20history\x20logs:\x20'+_0x65e04e['message']+">rt/<>dt/<".split("").reverse().join("");}}}function renderHistoryTableRows(_0x37114b){const _0x3fe747=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0063\u0076\u0063\u0078\u0032");const _0x281980=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("ntBverp".split("").reverse().join(""));const _0x5afb86=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u006e\u0065\u0078\u0074\u0042\u0074\u006e");const _0x36660c=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0070\u0061\u0067\u0065\u0049\u006e\u0066\u006f");if(!_0x3fe747)return;const _0x2e4e49=_0x37114b["\u006c\u0065\u006e\u0067\u0074\u0068"]>CONFIG["\u006c\u0069\u006d\u0069\u0074\u0050\u0065\u0072\u0050\u0061\u0067\u0065"];state["\u0063\u0061\u0063\u0068\u0065\u0064\u0052\u006f\u0077\u0073"]=_0x37114b['slice'](0x81152^0x81152,CONFIG["\u006c\u0069\u006d\u0069\u0074\u0050\u0065\u0072\u0050\u0061\u0067\u0065"]);_0x3fe747["\u0069\u006e\u006e\u0065\u0072\u0048\u0054\u004d\u004c"]='';if(state['cachedRows']['length']===(0x5d7fc^0x5d7fc)){_0x3fe747['innerHTML']='<tr><td\x20colspan=\x223\x22\x20style=\x22text-align:center;\x20padding:\x2032px;\x20color:var(--text-secondary-muted);\x20font-family:\x20monospace;\x22>No\x20history\x20records\x20found.</td></tr>';if(_0x281980)_0x281980["\u0073\u0074\u0079\u006c\u0065"]["\u0064\u0069\u0073\u0070\u006c\u0061\u0079"]=state["\u0063\u0075\u0072\u0072\u0065\u006e\u0074\u0050\u0061\u0067\u0065"]>(0xe9cf9^0xe9cf8)?"\u0062\u006c\u006f\u0063\u006b":"\u006e\u006f\u006e\u0065";if(_0x5afb86)_0x5afb86['style']["\u0064\u0069\u0073\u0070\u006c\u0061\u0079"]="enon".split("").reverse().join("");if(_0x36660c)_0x36660c['innerText']='';return;}state["\u0063\u0061\u0063\u0068\u0065\u0064\u0052\u006f\u0077\u0073"]["\u0066\u006f\u0072\u0045\u0061\u0063\u0068"](_0x55e6e8=>{const _0x15fe8c=document["\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006c\u0065\u006d\u0065\u006e\u0074"]("\u0074\u0072");_0x15fe8c["\u0063\u006c\u0061\u0073\u0073\u004e\u0061\u006d\u0065"]="\u0063\u006c\u0069\u0063\u006b\u0061\u0062\u006c\u0065\u002d\u0072\u006f\u0077\u002d\u0069\u0074\u0065\u006d";_0x15fe8c['style']["\u0063\u0075\u0072\u0073\u006f\u0072"]="retniop".split("").reverse().join("");if(_0x55e6e8["\u0069\u0073\u004f\u0070\u0074\u0069\u006d\u0069\u0073\u0074\u0069\u0063\u0050\u0065\u006e\u0064\u0069\u006e\u0067"])_0x15fe8c["\u0073\u0074\u0079\u006c\u0065"]["\u006f\u0070\u0061\u0063\u0069\u0074\u0079"]="\u0030\u002e\u0035";const _0x20d41f=_0x55e6e8["\u0074\u0072\u0061\u006e\u0073\u0061\u0063\u0074\u0069\u006f\u006e\u0054\u0079\u0070\u0065"]==="\u0043\u0072\u0065\u0064\u0069\u0074";const _0x4892b2=_0x20d41f?"189b01#".split("").reverse().join(""):"4444fe#".split("").reverse().join("");const _0x46c656=_0x20d41f?"\u002b":"\u002d";const _0x229ed3=(_0x55e6e8["\u0073\u0074\u0061\u0074\u0075\u0073"]||"\u0073\u0075\u0063\u0063\u0065\u0073\u0073\u0066\u0075\u006c")['toLowerCase']();const _0x16970a=parseFloat(_0x55e6e8['amount']||0x2974d^0x2974d)["\u0074\u006f\u004c\u006f\u0063\u0061\u006c\u0065\u0053\u0074\u0072\u0069\u006e\u0067"]("\u0065\u006e\u002d\u0055\u0053",{"\u006d\u0069\u006e\u0069\u006d\u0075\u006d\u0046\u0072\u0061\u0063\u0074\u0069\u006f\u006e\u0044\u0069\u0067\u0069\u0074\u0073":0x2});_0x15fe8c["\u0069\u006e\u006e\u0065\u0072\u0048\u0054\u004d\u004c"]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><small\x20style=\x22font-family:\x20monospace;\x20color:#94a3b8;\x20font-weight:bold;\x22>#'+_0x55e6e8["\u0069\u0064"]+'</small></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20style=\x22color:\x20'+_0x4892b2+';\x20font-weight:\x20bold;\x20font-family:\x20monospace;\x22>'+_0x46c656+"\u0024"+_0x16970a+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><span\x20class=\x22badge-status-pill\x20status-'+_0x229ed3+'\x22>'+(_0x55e6e8["\u0073\u0074\u0061\u0074\u0075\u0073"]||"\u0053\u0075\u0063\u0063\u0065\u0073\u0073\u0066\u0075\u006c")+'</span></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20';_0x15fe8c["\u006f\u006e\u0063\u006c\u0069\u0063\u006b"]=()=>populateAndOpenRecordModal(_0x55e6e8['id']);_0x3fe747['appendChild'](_0x15fe8c);});if(_0x36660c)_0x36660c['innerText']='PAGE:\x20'+state["\u0063\u0075\u0072\u0072\u0065\u006e\u0074\u0050\u0061\u0067\u0065"];if(_0x281980)_0x281980["\u0073\u0074\u0079\u006c\u0065"]["\u0064\u0069\u0073\u0070\u006c\u0061\u0079"]=state['currentPage']>(0x49bb9^0x49bb8)?"\u0062\u006c\u006f\u0063\u006b":"\u006e\u006f\u006e\u0065";if(_0x5afb86)_0x5afb86["\u0073\u0074\u0079\u006c\u0065"]["\u0064\u0069\u0073\u0070\u006c\u0061\u0079"]=_0x2e4e49?"kcolb".split("").reverse().join(""):"\u006e\u006f\u006e\u0065";}function toggleModal(_0x5d9309){const _0x2a22ff=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("ladoMtidEdroceRyrotsih".split("").reverse().join(""));if(_0x2a22ff){_0x2a22ff['classList']["\u0074\u006f\u0067\u0067\u006c\u0065"]("etats-evitca-ladom".split("").reverse().join(""),_0x5d9309);}}function populateAndOpenRecordModal(_0x46aded){const _0x1a3c62=state["\u0063\u0061\u0063\u0068\u0065\u0064\u0052\u006f\u0077\u0073"]["\u0066\u0069\u006e\u0064"](_0x18d335=>String(_0x18d335["\u0069\u0064"])===String(_0x46aded));if(!_0x1a3c62)return;document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u006d\u006f\u0064\u0061\u006c\u002d\u006c\u006f\u0067\u002d\u0069\u0064")['value']=_0x1a3c62["\u0069\u0064"];document['getElementById']("etad-gol-ladom".split("").reverse().join(""))['value']=_0x1a3c62["\u0064\u0061\u0074\u0065"]||'';document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u006d\u006f\u0064\u0061\u006c\u002d\u006c\u006f\u0067\u002d\u006e\u0061\u006d\u0065")['value']=_0x1a3c62['name']||'';document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("tnuoma-gol-ladom".split("").reverse().join(""))['value']=_0x1a3c62['amount']||'';document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("erutangis-gol-ladom".split("").reverse().join(""))['value']=_0x1a3c62["\u0073\u0069\u0067\u006e\u0061\u0074\u0075\u0072\u0065"]||'';document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("epyt-gol-ladom".split("").reverse().join(""))["\u0076\u0061\u006c\u0075\u0065"]=_0x1a3c62["\u0074\u0072\u0061\u006e\u0073\u0061\u0063\u0074\u0069\u006f\u006e\u0054\u0079\u0070\u0065"]||"\u0043\u0072\u0065\u0064\u0069\u0074";document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u006d\u006f\u0064\u0061\u006c\u002d\u006c\u006f\u0067\u002d\u0073\u0074\u0061\u0074\u0075\u0073")["\u0076\u0061\u006c\u0075\u0065"]=_0x1a3c62['status']||"\u0053\u0075\u0063\u0063\u0065\u0073\u0073\u0066\u0075\u006c";document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u006d\u006f\u0064\u0061\u006c\u002d\u006c\u006f\u0067\u002d\u0064\u0065\u0073\u0063\u0072\u0069\u0070\u0074\u0069\u006f\u006e")["\u0076\u0061\u006c\u0075\u0065"]=_0x1a3c62['description']||'';toggleModal(!![]);}async function commitModalRecordFormModifications(){const _0x58b7ef=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u006d\u006f\u0064\u0061\u006c\u002d\u006c\u006f\u0067\u002d\u0069\u0064")["\u0076\u0061\u006c\u0075\u0065"];const _0x5d1e60=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u006d\u006f\u0064\u0061\u006c\u002d\u006c\u006f\u0067\u002d\u0061\u006d\u006f\u0075\u006e\u0074")["\u0076\u0061\u006c\u0075\u0065"]["\u0072\u0065\u0070\u006c\u0061\u0063\u0065"](new RegExp("\u005b\u005e\u0030\u002d\u0039\u002e\u002d\u005d\u002b","\u0067"),'');const _0x1f320f=getCacheKey();const _0x361f79=localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"](_0x1f320f);const _0x443c79={'id':_0x58b7ef,"\u0064\u0061\u0074\u0065":document['getElementById']("\u006d\u006f\u0064\u0061\u006c\u002d\u006c\u006f\u0067\u002d\u0064\u0061\u0074\u0065")["\u0076\u0061\u006c\u0075\u0065"],"\u006e\u0061\u006d\u0065":document['getElementById']("\u006d\u006f\u0064\u0061\u006c\u002d\u006c\u006f\u0067\u002d\u006e\u0061\u006d\u0065")['value'],'amount':_0x5d1e60,"\u0073\u0069\u0067\u006e\u0061\u0074\u0075\u0072\u0065":document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("erutangis-gol-ladom".split("").reverse().join(""))["\u0076\u0061\u006c\u0075\u0065"],'transactionType':document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u006d\u006f\u0064\u0061\u006c\u002d\u006c\u006f\u0067\u002d\u0074\u0079\u0070\u0065")['value'],'status':document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("sutats-gol-ladom".split("").reverse().join(""))['value'],'description':document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u006d\u006f\u0064\u0061\u006c\u002d\u006c\u006f\u0067\u002d\u0064\u0065\u0073\u0063\u0072\u0069\u0070\u0074\u0069\u006f\u006e")["\u0076\u0061\u006c\u0075\u0065"]};const _0x3ccf8f=state['cachedRows']["\u0066\u0069\u006e\u0064\u0049\u006e\u0064\u0065\u0078"](_0x573197=>String(_0x573197["\u0069\u0064"])===String(_0x58b7ef));if(_0x3ccf8f!==-(0x527c0^0x527c1)){state['cachedRows'][_0x3ccf8f]={...state["\u0063\u0061\u0063\u0068\u0065\u0064\u0052\u006f\u0077\u0073"][_0x3ccf8f],..._0x443c79};localStorage["\u0073\u0065\u0074\u0049\u0074\u0065\u006d"](_0x1f320f,JSON["\u0073\u0074\u0072\u0069\u006e\u0067\u0069\u0066\u0079"](state["\u0063\u0061\u0063\u0068\u0065\u0064\u0052\u006f\u0077\u0073"]));renderHistoryTableRows(state["\u0063\u0061\u0063\u0068\u0065\u0064\u0052\u006f\u0077\u0073"]);}toggleModal(![]);try{const _0x470e3c=await fetch(CONFIG["\u0061\u0070\u0069\u0042\u0061\u0073\u0065\u0055\u0072\u006c"]+"=di?".split("").reverse().join("")+_0x58b7ef,{"\u006d\u0065\u0074\u0068\u006f\u0064":'PUT','headers':{"\u0043\u006f\u006e\u0074\u0065\u006e\u0074\u002d\u0054\u0079\u0070\u0065":"\u0061\u0070\u0070\u006c\u0069\u0063\u0061\u0074\u0069\u006f\u006e\u002f\u006a\u0073\u006f\u006e","\u0041\u0075\u0074\u0068\u006f\u0072\u0069\u007a\u0061\u0074\u0069\u006f\u006e":'Bearer\x20'+CONFIG['getAuthToken']()},"\u0062\u006f\u0064\u0079":JSON["\u0073\u0074\u0072\u0069\u006e\u0067\u0069\u0066\u0079"](_0x443c79)});const _0x5a25cf=await _0x470e3c['json']();if(!_0x470e3c["\u006f\u006b"]||!_0x5a25cf['success'])throw new Error(_0x5a25cf['error']||'Update\x20rejected.');Swal["\u0066\u0069\u0072\u0065"]('Record\x20Updated','History\x20record\x20updated\x20successfully.',"\u0073\u0075\u0063\u0063\u0065\u0073\u0073");await fetchAndRenderHistoryLogs();}catch(_0x218a96){if(_0x361f79){localStorage["\u0073\u0065\u0074\u0049\u0074\u0065\u006d"](_0x1f320f,_0x361f79);state['cachedRows']=JSON["\u0070\u0061\u0072\u0073\u0065"](_0x361f79);renderHistoryTableRows(state['cachedRows']);}Swal['fire']('Update\x20Failed',_0x218a96["\u006d\u0065\u0073\u0073\u0061\u0067\u0065"],"rorre".split("").reverse().join(""));}}async function injectNewHistoryLogRow(){const _0x3c9f0c=document['getElementById']("\u0066\u006f\u006d\u0037");const _0x4f37de=_0x3c9f0c?.["\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006c\u0065\u0063\u0074\u006f\u0072"]('button[type=\x27submit\x27]');const _0x1e9f0f=_0x4f37de?.["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]||'Add\x20History\x20Record';const _0x5c83e3=getCacheKey();if(_0x4f37de){_0x4f37de["\u0064\u0069\u0073\u0061\u0062\u006c\u0065\u0064"]=!![];_0x4f37de["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]='Adding\x20Record...';_0x4f37de['style']["\u006f\u0070\u0061\u0063\u0069\u0074\u0079"]="\u0030\u002e\u0036";_0x4f37de["\u0073\u0074\u0079\u006c\u0065"]["\u0063\u0075\u0072\u0073\u006f\u0072"]="dewolla-ton".split("").reverse().join("");}const _0xdc10e7=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0068\u0069\u0073\u0074\u006f\u0072\u0079\u0041\u006d\u006f\u0075\u006e\u0074")["\u0076\u0061\u006c\u0075\u0065"]['replace'](new RegExp("+]-.9-0^[".split("").reverse().join(""),"\u0067"),'')||"00.0".split("").reverse().join("");const _0x5270d1=new Date()["\u0074\u006f\u004c\u006f\u0063\u0061\u006c\u0065\u0044\u0061\u0074\u0065\u0053\u0074\u0072\u0069\u006e\u0067"]("\u0065\u006e\u002d\u0055\u0053",{"\u0079\u0065\u0061\u0072":'numeric',"\u006d\u006f\u006e\u0074\u0068":'short',"\u0064\u0061\u0079":"\u006e\u0075\u006d\u0065\u0072\u0069\u0063"});const _0x228cae=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0068\u0069\u0073\u0074\u006f\u0072\u0079\u0041\u006c\u0065\u0072\u0074\u0044\u0069\u0073\u0070\u0061\u0074\u0063\u0068\u004d\u006f\u0064\u0065")?.["\u0076\u0061\u006c\u0075\u0065"]==="\u0064\u0069\u0073\u0070\u0061\u0074\u0063\u0068";const _0x87ebba={'id':"\u004d\u004f\u0043\u004b\u005f"+Date["\u006e\u006f\u0077"](),'uuid':state['userUuid'],'transactionType':document['getElementById']("\u0068\u0069\u0073\u0074\u006f\u0072\u0079\u0054\u0079\u0070\u0065")["\u0076\u0061\u006c\u0075\u0065"],'amount':_0xdc10e7,"\u006e\u0061\u006d\u0065":document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0072\u0065\u0063\u0065\u0069\u0076\u0065\u0072\u004e\u0061\u006d\u0065")["\u0076\u0061\u006c\u0075\u0065"]||"\u004e\u002f\u0041","\u0073\u0069\u0067\u006e\u0061\u0074\u0075\u0072\u0065":document['getElementById']("secruos".split("").reverse().join(""))["\u0076\u0061\u006c\u0075\u0065"]||'System\x20Ledger','description':document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("noitpircsed".split("").reverse().join(""))['value']||'Account\x20Update',"\u0064\u0061\u0074\u0065":_0x5270d1,"\u0073\u0074\u0061\u0074\u0075\u0073":"\u0053\u0075\u0063\u0063\u0065\u0073\u0073\u0066\u0075\u006c","\u0064\u0069\u0073\u0070\u0061\u0074\u0063\u0068\u0045\u006d\u0061\u0069\u006c\u0041\u006c\u0065\u0072\u0074":_0x228cae,"\u0069\u0073\u004f\u0070\u0074\u0069\u006d\u0069\u0073\u0074\u0069\u0063\u0050\u0065\u006e\u0064\u0069\u006e\u0067":!![]};const _0x38859e=localStorage['getItem'](_0x5c83e3);state['cachedRows']['unshift'](_0x87ebba);localStorage['setItem'](_0x5c83e3,JSON['stringify'](state['cachedRows']['slice'](0x8526a^0x8526a,CONFIG["\u006c\u0069\u006d\u0069\u0074\u0050\u0065\u0072\u0050\u0061\u0067\u0065"])));state["\u0063\u0075\u0072\u0072\u0065\u006e\u0074\u0050\u0061\u0067\u0065"]=0xeb2b9^0xeb2b8;renderHistoryTableRows(state['cachedRows']);if(_0x3c9f0c)_0x3c9f0c['reset']();try{const{isOptimisticPending:_0xb24c60,id:_0x802ca1,..._0x1df390}=_0x87ebba;const _0x36303f=await fetch(CONFIG["\u0061\u0070\u0069\u0042\u0061\u0073\u0065\u0055\u0072\u006c"],{"\u006d\u0065\u0074\u0068\u006f\u0064":"\u0050\u004f\u0053\u0054",'headers':{"\u0043\u006f\u006e\u0074\u0065\u006e\u0074\u002d\u0054\u0079\u0070\u0065":'application/json','Authorization':'Bearer\x20'+CONFIG["\u0067\u0065\u0074\u0041\u0075\u0074\u0068\u0054\u006f\u006b\u0065\u006e"]()},'body':JSON["\u0073\u0074\u0072\u0069\u006e\u0067\u0069\u0066\u0079"](_0x1df390)});const _0x2bac48=await _0x36303f['json']();if(!_0x36303f['ok']||!_0x2bac48['success'])throw new Error(_0x2bac48['error']||'Database\x20insertion\x20fault.');Swal['fire']({"\u0074\u0069\u0074\u006c\u0065":'Record\x20Added',"\u0074\u0065\u0078\u0074":_0x228cae?'Transaction\x20added\x20and\x20email\x20alert\x20dispatched.':'Transaction\x20added\x20successfully.','icon':'success','background':"\u0023\u0031\u0031\u0031\u0062\u0032\u0031",'color':'#fff','confirmButtonColor':"\u0023\u0030\u0030\u0061\u0038\u0038\u0034"});await fetchAndRenderHistoryLogs();}catch(_0x236e34){if(_0x38859e){localStorage["\u0073\u0065\u0074\u0049\u0074\u0065\u006d"](_0x5c83e3,_0x38859e);state["\u0063\u0061\u0063\u0068\u0065\u0064\u0052\u006f\u0077\u0073"]=JSON['parse'](_0x38859e);renderHistoryTableRows(state["\u0063\u0061\u0063\u0068\u0065\u0064\u0052\u006f\u0077\u0073"]);}Swal['fire']({"\u0074\u0069\u0074\u006c\u0065":'Action\x20Failed','text':_0x236e34['message'],'icon':"\u0065\u0072\u0072\u006f\u0072","\u0062\u0061\u0063\u006b\u0067\u0072\u006f\u0075\u006e\u0064":'#111b21',"\u0063\u006f\u006c\u006f\u0072":"\u0023\u0066\u0066\u0066",'confirmButtonColor':"\u0023\u0065\u0066\u0034\u0034\u0034\u0034"});}finally{if(_0x4f37de){_0x4f37de['disabled']=![];_0x4f37de["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]=_0x1e9f0f;_0x4f37de["\u0073\u0074\u0079\u006c\u0065"]['opacity']="\u0031";_0x4f37de['style']["\u0063\u0075\u0072\u0073\u006f\u0072"]="\u0070\u006f\u0069\u006e\u0074\u0065\u0072";}}}export async function dropHistoryNode(_0x314cb2){const _0x57d815=getCacheKey();const _0x5ac918=await Swal["\u0066\u0069\u0072\u0065"]({"\u0074\u0069\u0074\u006c\u0065":'Delete\x20this\x20transaction\x20record?','text':'This\x20action\x20will\x20permanently\x20remove\x20the\x20record\x20from\x20the\x20database.',"\u0069\u0063\u006f\u006e":'warning','showCancelButton':!![],"\u0063\u006f\u006e\u0066\u0069\u0072\u006d\u0042\u0075\u0074\u0074\u006f\u006e\u0043\u006f\u006c\u006f\u0072":'#ef4444','cancelButtonColor':'#475569',"\u0063\u006f\u006e\u0066\u0069\u0072\u006d\u0042\u0075\u0074\u0074\u006f\u006e\u0054\u0065\u0078\u0074":'Yes,\x20Delete'});if(!_0x5ac918["\u0069\u0073\u0043\u006f\u006e\u0066\u0069\u0072\u006d\u0065\u0064"])return;const _0x3238d9=localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"](_0x57d815);state['cachedRows']=state["\u0063\u0061\u0063\u0068\u0065\u0064\u0052\u006f\u0077\u0073"]['filter'](_0x150b3a=>String(_0x150b3a['id'])!==String(_0x314cb2));localStorage["\u0073\u0065\u0074\u0049\u0074\u0065\u006d"](_0x57d815,JSON['stringify'](state['cachedRows']));renderHistoryTableRows(state['cachedRows']);toggleModal(![]);try{const _0x3e1862=await fetch(CONFIG['apiBaseUrl']+"=di?".split("").reverse().join("")+_0x314cb2,{"\u006d\u0065\u0074\u0068\u006f\u0064":"\u0044\u0045\u004c\u0045\u0054\u0045",'headers':{"\u0041\u0075\u0074\u0068\u006f\u0072\u0069\u007a\u0061\u0074\u0069\u006f\u006e":'Bearer\x20'+CONFIG["\u0067\u0065\u0074\u0041\u0075\u0074\u0068\u0054\u006f\u006b\u0065\u006e"]()}});const _0x5324b8=await _0x3e1862["\u006a\u0073\u006f\u006e"]();if(!_0x3e1862["\u006f\u006b"]||!_0x5324b8["\u0073\u0075\u0063\u0063\u0065\u0073\u0073"])throw new Error(_0x5324b8['error']||'Erasure\x20denied.');Swal["\u0066\u0069\u0072\u0065"]("\u0044\u0065\u006c\u0065\u0074\u0065\u0064",'Record\x20removed\x20successfully.',"\u0073\u0075\u0063\u0063\u0065\u0073\u0073");await fetchAndRenderHistoryLogs();}catch(_0x2520cf){if(_0x3238d9){localStorage["\u0073\u0065\u0074\u0049\u0074\u0065\u006d"](_0x57d815,_0x3238d9);state['cachedRows']=JSON["\u0070\u0061\u0072\u0073\u0065"](_0x3238d9);renderHistoryTableRows(state['cachedRows']);}Swal["\u0066\u0069\u0072\u0065"]('Delete\x20Failed',_0x2520cf["\u006d\u0065\u0073\u0073\u0061\u0067\u0065"],"\u0065\u0072\u0072\u006f\u0072");}}export async function purgeEntireUserLedgerHistoryArchive(_0x32d3c5){if(!_0x32d3c5)return;const _0x266e59="\u0061\u0064\u006d\u0069\u006e\u005f\u0068\u0069\u0073\u0074\u006f\u0072\u0079\u005f\u006c\u0065\u0064\u0067\u0065\u0072\u005f"+_0x32d3c5;const _0x511881=await Swal["\u0066\u0069\u0072\u0065"]({"\u0074\u0069\u0074\u006c\u0065":'Wipe\x20All\x20Transaction\x20History?','text':'Warning!\x20This\x20will\x20permanently\x20delete\x20all\x20transaction\x20history\x20records\x20associated\x20with\x20this\x20account.\x20This\x20cannot\x20be\x20undone.','icon':"\u0077\u0061\u0072\u006e\u0069\u006e\u0067",'showCancelButton':!![],"\u0063\u006f\u006e\u0066\u0069\u0072\u006d\u0042\u0075\u0074\u0074\u006f\u006e\u0043\u006f\u006c\u006f\u0072":'#ef4444','cancelButtonColor':"\u0023\u0034\u0037\u0035\u0035\u0036\u0039","\u0063\u006f\u006e\u0066\u0069\u0072\u006d\u0042\u0075\u0074\u0074\u006f\u006e\u0054\u0065\u0078\u0074":'Yes,\x20Delete\x20All',"\u0063\u0061\u006e\u0063\u0065\u006c\u0042\u0075\u0074\u0074\u006f\u006e\u0054\u0065\u0078\u0074":"\u0043\u0061\u006e\u0063\u0065\u006c",'background':"\u0023\u0030\u0066\u0031\u0037\u0032\u0061","\u0063\u006f\u006c\u006f\u0072":"\u0023\u0066\u0066\u0066\u0066\u0066\u0066"});if(!_0x511881["\u0069\u0073\u0043\u006f\u006e\u0066\u0069\u0072\u006d\u0065\u0064"])return;const _0x4a0b6d=localStorage["\u0067\u0065\u0074\u0049\u0074\u0065\u006d"](_0x266e59);localStorage["\u0073\u0065\u0074\u0049\u0074\u0065\u006d"](_0x266e59,JSON['stringify']([]));renderHistoryTableRows([]);try{const _0x1066d2=await fetch(CONFIG["\u0061\u0070\u0069\u0042\u0061\u0073\u0065\u0055\u0072\u006c"]+"=diuu?".split("").reverse().join("")+_0x32d3c5,{"\u006d\u0065\u0074\u0068\u006f\u0064":"\u0044\u0045\u004c\u0045\u0054\u0045","\u0068\u0065\u0061\u0064\u0065\u0072\u0073":{"\u0041\u0075\u0074\u0068\u006f\u0072\u0069\u007a\u0061\u0074\u0069\u006f\u006e":'Bearer\x20'+CONFIG['getAuthToken']()}});const _0xbace1e=await _0x1066d2["\u006a\u0073\u006f\u006e"]();if(!_0x1066d2["\u006f\u006b"]||!_0xbace1e["\u0073\u0075\u0063\u0063\u0065\u0073\u0073"])throw new Error(_0xbace1e["\u0065\u0072\u0072\u006f\u0072"]||'Data\x20erasure\x20failure.');await Swal["\u0066\u0069\u0072\u0065"]({"\u0069\u0063\u006f\u006e":'success','title':'History\x20Cleared',"\u0074\u0065\u0078\u0074":'All\x20transaction\x20logs\x20wiped\x20clean.',"\u0062\u0061\u0063\u006b\u0067\u0072\u006f\u0075\u006e\u0064":'#0f172a','color':'#ffffff','timer':0x5dc,'showConfirmButton':![]});await fetchAndRenderHistoryLogs();}catch(_0x69d7d1){if(_0x4a0b6d){localStorage['setItem'](_0x266e59,_0x4a0b6d);state["\u0063\u0061\u0063\u0068\u0065\u0064\u0052\u006f\u0077\u0073"]=JSON["\u0070\u0061\u0072\u0073\u0065"](_0x4a0b6d);renderHistoryTableRows(state['cachedRows']);}Swal['fire']({"\u0069\u0063\u006f\u006e":'error','title':'Wipe\x20Failed','text':_0x69d7d1['message'],"\u0062\u0061\u0063\u006b\u0067\u0072\u006f\u0075\u006e\u0064":'#0f172a','color':'#ffffff'});}}
+import { triggerAiHistoryGenerationPanel } from "./ai-history.js";
+
+const CONFIG = {
+    limitPerPage: 5,
+    apiBaseUrl: "https://bank-api-v2.vercel.app/api/bank/admin-history",
+    getAuthToken: () => localStorage.getItem("admin_session_token"),
+};
+
+const state = {
+    currentPage: 1,
+    userUuid: null,
+    cachedRows: [],
+};
+
+// Helper: Get localStorage key dynamically
+const getCacheKey = () => `admin_history_ledger_${state.userUuid}`;
+
+/**
+ * Initializes listeners and loads initial transaction history for a specified user UUID.
+ */
+export async function bindSystemLedgerHistoryStream(userUuid) {
+    state.userUuid = userUuid;
+    state.currentPage = 1;
+
+    const localSavedHistory = localStorage.getItem(getCacheKey());
+    const tbody = document.getElementById("cvcx2");
+
+    if (localSavedHistory && tbody) {
+        try {
+            state.cachedRows = JSON.parse(localSavedHistory);
+            renderHistoryTableRows(state.cachedRows);
+        } catch {
+            console.warn("⚠️ History cache parse failed, fallback to server fetch.");
+        }
+    } else if (tbody) {
+        tbody.innerHTML = `<tr><td colspan="3" style="text-align:center; padding: 32px; color:var(--text-secondary-muted); font-family: monospace;">Fetching history logs...</td></tr>`;
+    }
+
+    await fetchAndRenderHistoryLogs();
+    setupEventListeners();
+}
+
+/**
+ * Attaches single-instance event listeners to static DOM controls.
+ */
+function setupEventListeners() {
+    const logForm = document.getElementById("fom7");
+    if (logForm) {
+        logForm.onsubmit = async (e) => {
+            e.preventDefault();
+            await injectNewHistoryLogRow();
+        };
+    }
+
+    const prevBtn = document.getElementById("prevBtn");
+    if (prevBtn) {
+        prevBtn.onclick = async () => {
+            if (state.currentPage > 1) {
+                state.currentPage--;
+                renderHistoryTableRows(state.cachedRows);
+                await fetchAndRenderHistoryLogs();
+            }
+        };
+    }
+
+    const nextBtn = document.getElementById("nextBtn");
+    if (nextBtn) {
+        nextBtn.onclick = async () => {
+            state.currentPage++;
+            await fetchAndRenderHistoryLogs();
+        };
+    }
+
+    const closeModalBtn = document.getElementById("closeHistoryModalTrigger");
+    if (closeModalBtn) {
+        closeModalBtn.onclick = () => toggleModal(false);
+    }
+
+    const saveModalBtn = document.getElementById("modal-save-action-btn");
+    if (saveModalBtn) {
+        saveModalBtn.onclick = commitModalRecordFormModifications;
+    }
+
+    const deleteModalBtn = document.getElementById("modal-delete-action-btn");
+    if (deleteModalBtn) {
+        deleteModalBtn.onclick = async () => {
+            const targetId = document.getElementById("modal-log-id").value;
+            await dropHistoryNode(targetId);
+        };
+    }
+
+    const bulkClearBtn = document.getElementById("bulkClearHistoryBtn");
+    if (bulkClearBtn) {
+        bulkClearBtn.onclick = () => purgeEntireUserLedgerHistoryArchive(state.userUuid);
+    }
+
+    const aiGenBtn = document.getElementById("aiGenBtn");
+    if (aiGenBtn) {
+        aiGenBtn.onclick = () => triggerAiHistoryGenerationPanel(state.userUuid);
+    }
+}
+
+/**
+ * Fetches log items from the backend API for the active page and updates state/cache.
+ */
+async function fetchAndRenderHistoryLogs() {
+    if (!state.userUuid) return;
+
+    try {
+        const url = `${CONFIG.apiBaseUrl}?uuid=${state.userUuid}&page=${state.currentPage}&limit=${CONFIG.limitPerPage + 1}`;
+        const response = await fetch(url, {
+            headers: { Authorization: `Bearer ${CONFIG.getAuthToken()}` }
+        });
+
+        const data = await response.json();
+        const rawLogs = data.logs || [];
+
+        if (response.ok && data.success) {
+            if (state.currentPage === 1) {
+                localStorage.setItem(getCacheKey(), JSON.stringify(rawLogs.slice(0, CONFIG.limitPerPage)));
+            }
+            renderHistoryTableRows(rawLogs);
+        }
+    } catch (err) {
+        const tbody = document.getElementById("cvcx2");
+        if (tbody) {
+            tbody.innerHTML = `<tr><td colspan="3" style="color:var(--status-blocked-red); text-align:center; padding: 20px;">Failed to load history logs: ${err.message}</td></tr>`;
+        }
+    }
+}
+
+/**
+ * Renders table data rows inside `#cvcx2` and updates pagination display controls.
+ */
+function renderHistoryTableRows(logs) {
+    const tbody = document.getElementById("cvcx2");
+    const prevBtn = document.getElementById("prevBtn");
+    const nextBtn = document.getElementById("nextBtn");
+    const pageInfo = document.getElementById("pageInfo");
+
+    if (!tbody) return;
+
+    const hasNextPage = logs.length > CONFIG.limitPerPage;
+    state.cachedRows = logs.slice(0, CONFIG.limitPerPage);
+
+    tbody.innerHTML = "";
+
+    if (state.cachedRows.length === 0) {
+        tbody.innerHTML = `<tr><td colspan="3" style="text-align:center; padding: 32px; color:var(--text-secondary-muted); font-family: monospace;">No history records found.</td></tr>`;
+        if (prevBtn) prevBtn.style.display = state.currentPage > 1 ? "block" : "none";
+        if (nextBtn) nextBtn.style.display = "none";
+        if (pageInfo) pageInfo.innerText = "";
+        return;
+    }
+
+    state.cachedRows.forEach((log) => {
+        const tr = document.createElement("tr");
+        tr.className = "clickable-row-item";
+        tr.style.cursor = "pointer";
+        if (log.isOptimisticPending) tr.style.opacity = "0.5";
+
+        const isCredit = log.transactionType === "Credit";
+        const colorCode = isCredit ? "#10b981" : "#ef4444";
+        const prefixSign = isCredit ? "+" : "-";
+        const statusStyle = (log.status || "successful").toLowerCase();
+
+        const formattedAmount = parseFloat(log.amount || 0).toLocaleString("en-US", { minimumFractionDigits: 2 });
+
+        tr.innerHTML = `
+            <td><small style="font-family: monospace; color:#94a3b8; font-weight:bold;">#${log.id}</small></td>
+            <td style="color: ${colorCode}; font-weight: bold; font-family: monospace;">${prefixSign}$${formattedAmount}</td>
+            <td><span class="badge-status-pill status-${statusStyle}">${log.status || "Successful"}</span></td>
+        `;
+
+        tr.onclick = () => populateAndOpenRecordModal(log.id);
+        tbody.appendChild(tr);
+    });
+
+    if (pageInfo) pageInfo.innerText = `PAGE: ${state.currentPage}`;
+    if (prevBtn) prevBtn.style.display = state.currentPage > 1 ? "block" : "none";
+    if (nextBtn) nextBtn.style.display = hasNextPage ? "block" : "none";
+}
+
+/**
+ * Toggles visibility state of the record editing overlay modal.
+ */
+function toggleModal(shouldDisplay) {
+    const modal = document.getElementById("historyRecordEditModal");
+    if (modal) {
+        modal.classList.toggle("modal-active-state", shouldDisplay);
+    }
+}
+
+/**
+ * Fills the modal input fields with transaction detail for quick modifications.
+ */
+function populateAndOpenRecordModal(logId) {
+    const row = state.cachedRows.find((item) => String(item.id) === String(logId));
+    if (!row) return;
+
+    document.getElementById("modal-log-id").value = row.id;
+    document.getElementById("modal-log-date").value = row.date || "";
+    document.getElementById("modal-log-name").value = row.name || "";
+    document.getElementById("modal-log-amount").value = row.amount || "";
+    document.getElementById("modal-log-signature").value = row.signature || "";
+    document.getElementById("modal-log-type").value = row.transactionType || "Credit";
+    document.getElementById("modal-log-status").value = row.status || "Successful";
+    document.getElementById("modal-log-description").value = row.description || "";
+
+    toggleModal(true);
+}
+
+/**
+ * Submits updated log data from the editor modal to the API.
+ */
+async function commitModalRecordFormModifications() {
+    const targetRowId = document.getElementById("modal-log-id").value;
+    const cleanAmount = document.getElementById("modal-log-amount").value.replace(/[^0-9.-]+/g, "");
+    const cacheKey = getCacheKey();
+    const fallbackBackupString = localStorage.getItem(cacheKey);
+
+    const payload = {
+        id: targetRowId,
+        date: document.getElementById("modal-log-date").value,
+        name: document.getElementById("modal-log-name").value,
+        amount: cleanAmount,
+        signature: document.getElementById("modal-log-signature").value,
+        transactionType: document.getElementById("modal-log-type").value,
+        status: document.getElementById("modal-log-status").value,
+        description: document.getElementById("modal-log-description").value,
+    };
+
+    const targetIdx = state.cachedRows.findIndex((item) => String(item.id) === String(targetRowId));
+    if (targetIdx !== -1) {
+        state.cachedRows[targetIdx] = { ...state.cachedRows[targetIdx], ...payload };
+        localStorage.setItem(cacheKey, JSON.stringify(state.cachedRows));
+        renderHistoryTableRows(state.cachedRows);
+    }
+
+    toggleModal(false);
+
+    try {
+        const response = await fetch(`${CONFIG.apiBaseUrl}?id=${targetRowId}`, {
+            method: "PUT",
+            headers: {
+                "Content-Type": "application/json",
+                Authorization: `Bearer ${CONFIG.getAuthToken()}`,
+            },
+            body: JSON.stringify(payload),
+        });
+
+        const data = await response.json();
+        if (!response.ok || !data.success) throw new Error(data.error || "Update rejected.");
+
+        Swal.fire("Record Updated", "History record updated successfully.", "success");
+        await fetchAndRenderHistoryLogs();
+    } catch (err) {
+        if (fallbackBackupString) {
+            localStorage.setItem(cacheKey, fallbackBackupString);
+            state.cachedRows = JSON.parse(fallbackBackupString);
+            renderHistoryTableRows(state.cachedRows);
+        }
+        Swal.fire("Update Failed", err.message, "error");
+    }
+}
+
+/**
+ * Optimistically appends a user transaction entry and sends it to server storage.
+ */
+async function injectNewHistoryLogRow() {
+    const formElement = document.getElementById("fom7");
+    const submitBtn = formElement?.querySelector("button[type='submit']");
+    const originalButtonText = submitBtn?.innerText || "Add History Record";
+    const cacheKey = getCacheKey();
+
+    if (submitBtn) {
+        submitBtn.disabled = true;
+        submitBtn.innerText = "Adding Record...";
+        submitBtn.style.opacity = "0.6";
+        submitBtn.style.cursor = "not-allowed";
+    }
+
+    const cleanAmount = document.getElementById("historyAmount").value.replace(/[^0-9.-]+/g, "") || "0.00";
+    const dateFormattedString = new Date().toLocaleDateString("en-US", { year: "numeric", month: "short", day: "numeric" });
+    const sendEmailAlert = document.getElementById("historyAlertDispatchMode")?.value === "dispatch";
+
+    const optimisticPayload = {
+        id: `MOCK_${Date.now()}`,
+        uuid: state.userUuid,
+        transactionType: document.getElementById("historyType").value,
+        amount: cleanAmount,
+        name: document.getElementById("receiverName").value || "N/A",
+        signature: document.getElementById("sources").value || "System Ledger",
+        description: document.getElementById("description").value || "Account Update",
+        date: dateFormattedString,
+        status: "Successful",
+        dispatchEmailAlert: sendEmailAlert,
+        isOptimisticPending: true,
+    };
+
+    const fallbackBackupString = localStorage.getItem(cacheKey);
+    state.cachedRows.unshift(optimisticPayload);
+    localStorage.setItem(cacheKey, JSON.stringify(state.cachedRows.slice(0, CONFIG.limitPerPage)));
+
+    state.currentPage = 1;
+    renderHistoryTableRows(state.cachedRows);
+
+    if (formElement) formElement.reset();
+
+    try {
+        const { isOptimisticPending, id, ...dbPayload } = optimisticPayload;
+
+        const response = await fetch(CONFIG.apiBaseUrl, {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json",
+                Authorization: `Bearer ${CONFIG.getAuthToken()}`,
+            },
+            body: JSON.stringify(dbPayload),
+        });
+
+        const data = await response.json();
+        if (!response.ok || !data.success) throw new Error(data.error || "Database insertion fault.");
+
+        Swal.fire({
+            title: "Record Added",
+            text: sendEmailAlert ? "Transaction added and email alert dispatched." : "Transaction added successfully.",
+            icon: "success",
+            background: "#111b21",
+            color: "#fff",
+            confirmButtonColor: "#00a884",
+        });
+
+        await fetchAndRenderHistoryLogs();
+    } catch (err) {
+        if (fallbackBackupString) {
+            localStorage.setItem(cacheKey, fallbackBackupString);
+            state.cachedRows = JSON.parse(fallbackBackupString);
+            renderHistoryTableRows(state.cachedRows);
+        }
+        Swal.fire({
+            title: "Action Failed",
+            text: err.message,
+            icon: "error",
+            background: "#111b21",
+            color: "#fff",
+            confirmButtonColor: "#ef4444",
+        });
+    } finally {
+        if (submitBtn) {
+            submitBtn.disabled = false;
+            submitBtn.innerText = originalButtonText;
+            submitBtn.style.opacity = "1";
+            submitBtn.style.cursor = "pointer";
+        }
+    }
+}
+
+/**
+ * Drops a single historical log node record from cache and storage endpoint.
+ */
+export async function dropHistoryNode(logId) {
+    const cacheKey = getCacheKey();
+    const confirmation = await Swal.fire({
+        title: "Delete this transaction record?",
+        text: "This action will permanently remove the record from the database.",
+        icon: "warning",
+        showCancelButton: true,
+        confirmButtonColor: "#ef4444",
+        cancelButtonColor: "#475569",
+        confirmButtonText: "Yes, Delete",
+    });
+
+    if (!confirmation.isConfirmed) return;
+
+    const fallbackBackupString = localStorage.getItem(cacheKey);
+
+    state.cachedRows = state.cachedRows.filter((item) => String(item.id) !== String(logId));
+    localStorage.setItem(cacheKey, JSON.stringify(state.cachedRows));
+    renderHistoryTableRows(state.cachedRows);
+
+    toggleModal(false);
+
+    try {
+        const response = await fetch(`${CONFIG.apiBaseUrl}?id=${logId}`, {
+            method: "DELETE",
+            headers: { Authorization: `Bearer ${CONFIG.getAuthToken()}` },
+        });
+
+        const data = await response.json();
+        if (!response.ok || !data.success) throw new Error(data.error || "Erasure denied.");
+
+        Swal.fire("Deleted", "Record removed successfully.", "success");
+        await fetchAndRenderHistoryLogs();
+    } catch (err) {
+        if (fallbackBackupString) {
+            localStorage.setItem(cacheKey, fallbackBackupString);
+            state.cachedRows = JSON.parse(fallbackBackupString);
+            renderHistoryTableRows(state.cachedRows);
+        }
+        Swal.fire("Delete Failed", err.message, "error");
+    }
+}
+
+/**
+ * Clears all existing transaction ledger logs for an explicit user UUID.
+ */
+export async function purgeEntireUserLedgerHistoryArchive(userUuid) {
+    if (!userUuid) return;
+
+    const cacheKey = `admin_history_ledger_${userUuid}`;
+    const confirmation = await Swal.fire({
+        title: "Wipe All Transaction History?",
+        text: "Warning! This will permanently delete all transaction history records associated with this account. This cannot be undone.",
+        icon: "warning",
+        showCancelButton: true,
+        confirmButtonColor: "#ef4444",
+        cancelButtonColor: "#475569",
+        confirmButtonText: "Yes, Delete All",
+        cancelButtonText: "Cancel",
+        background: "#0f172a",
+        color: "#ffffff",
+    });
+
+    if (!confirmation.isConfirmed) return;
+
+    const fallbackBackupString = localStorage.getItem(cacheKey);
+
+    localStorage.setItem(cacheKey, JSON.stringify([]));
+    renderHistoryTableRows([]);
+
+    try {
+        const response = await fetch(`${CONFIG.apiBaseUrl}?uuid=${userUuid}`, {
+            method: "DELETE",
+            headers: { Authorization: `Bearer ${CONFIG.getAuthToken()}` },
+        });
+
+        const data = await response.json();
+        if (!response.ok || !data.success) throw new Error(data.error || "Data erasure failure.");
+
+        await Swal.fire({
+            icon: "success",
+            title: "History Cleared",
+            text: "All transaction logs wiped clean.",
+            background: "#0f172a",
+            color: "#ffffff",
+            timer: 1500,
+            showConfirmButton: false,
+        });
+
+        await fetchAndRenderHistoryLogs();
+    } catch (err) {
+        if (fallbackBackupString) {
+            localStorage.setItem(cacheKey, fallbackBackupString);
+            state.cachedRows = JSON.parse(fallbackBackupString);
+            renderHistoryTableRows(state.cachedRows);
+        }
+        Swal.fire({
+            icon: "error",
+            title: "Wipe Failed",
+            text: err.message,
+            background: "#0f172a",
+            color: "#ffffff",
+        });
+    }
+}

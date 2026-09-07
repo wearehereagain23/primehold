@@ -1,13 +1,346 @@
-let activeChatSessionUserUuid=null;let currentChatPaginationPage=function(s,h){return s^h;}(282245,282244);const chatMaxLimitPerPage=function(s,h){return s^h;}(675463,675475);let isChatInfiniteScrollLoading=![];let absoluteHasOlderDatabaseMessages=!![];export function setupSecureChatChannel(_0xdbd){activeChatSessionUserUuid=_0xdbd;currentChatPaginationPage=685266^685267;absoluteHasOlderDatabaseMessages=!![];isChatInfiniteScrollLoading=function(){return![];}();const _0xaaad9d=document['\x67\x65\x74\x45\x6c\x65\x6d\x65\x6e\x74\x42\x79\x49\x64']("\u0063\u0068\u0061\u0074\u002d\u0074\u0065\u0072\u006d\u0069\u006e\u0061\u006c\u002d\u0074\u0065\u0078\u0074\u002d\u0066\u0069\u0065\u006c\u0064");const _0x8563c=document['\x67\x65\x74\x45\x6c\x65\x6d\x65\x6e\x74\x42\x79\x49\x64']("\u0063\u0068\u0061\u0074\u002d\u0073\u0065\u006e\u0064\u002d\u006d\u0065\u0073\u0073\u0061\u0067\u0065\u002d\u0062\u0074\u006e");const _0x850f4a=document['\x67\x65\x74\x45\x6c\x65\x6d\x65\x6e\x74\x42\x79\x49\x64']("\u0063\u0068\u0061\u0074\u002d\u0061\u0074\u0074\u0061\u0063\u0068\u006d\u0065\u006e\u0074\u002d\u0074\u0072\u0069\u0067\u0067\u0065\u0072\u002d\u0062\u0074\u006e");const _0x948e=document['\x67\x65\x74\x45\x6c\x65\x6d\x65\x6e\x74\x42\x79\x49\x64']("tupni-tnemhcatta-egami-tahc".split("").reverse().join(""));const _0xcefg6e=document['\x67\x65\x74\x45\x6c\x65\x6d\x65\x6e\x74\x42\x79\x49\x64']("\u0063\u0068\u0061\u0074\u002d\u006d\u0065\u0073\u0073\u0061\u0067\u0065\u002d\u0066\u0065\u0065\u0064");const _0xag3da=`admin_chat_history_${activeChatSessionUserUuid}`;const _0x236b3c=localStorage['\x67\x65\x74\x49\x74\x65\x6d'](_0xag3da);if(_0x236b3c){try{const _0xed107c=JSON['\x70\x61\x72\x73\x65'](_0x236b3c);renderChatMessageFeedFromCacheArray(_0xed107c,![]);}catch(err){console['\x77\x61\x72\x6e'](":rorre esrap ehcac lacol tahC \uFE0F\u26A0".split("").reverse().join(""),err);}}else{if(_0xcefg6e){_0xcefg6e['\x69\x6e\x6e\x65\x72\x48\x54\x4d\x4c']=`
+let activeChatSessionUserUuid = null;
+let currentChatPaginationPage = 1;
+const chatMaxLimitPerPage = 20;
+let isChatInfiniteScrollLoading = false;
+let absoluteHasOlderDatabaseMessages = true;
+
+export function setupSecureChatChannel(userUuid) {
+    activeChatSessionUserUuid = userUuid;
+    currentChatPaginationPage = 1;
+    absoluteHasOlderDatabaseMessages = true;
+    isChatInfiniteScrollLoading = false;
+
+    const textInput = document.getElementById("chat-terminal-text-field");
+    const sendBtn = document.getElementById("chat-send-message-btn");
+    const attachBtn = document.getElementById("chat-attachment-trigger-btn");
+    const hiddenFile = document.getElementById("chat-image-attachment-input");
+    const feedElementContainer = document.getElementById("chat-message-feed");
+
+    // ==========================================================================
+    // HYDRATION: LOAD PRE-CACHED LATEST LOGS IMMEDIATELY (ZERO DELAY)
+    // ==========================================================================
+    const localizedCacheKey = `admin_chat_history_${activeChatSessionUserUuid}`;
+    const historicalLocalMessages = localStorage.getItem(localizedCacheKey);
+
+    if (historicalLocalMessages) {
+        try {
+            const cachedObjectArray = JSON.parse(historicalLocalMessages);
+            renderChatMessageFeedFromCacheArray(cachedObjectArray, false);
+        } catch (err) {
+            console.warn("⚠️ Chat local cache parse error:", err);
+        }
+    } else {
+        if (feedElementContainer) {
+            feedElementContainer.innerHTML = `
                 <div class="system-security-notice-bubble">
                     <i data-lucide="lock" class="inline-status-icon"></i>
                     <span>Initializing transaction secure conversation channel matrices...</span>
-                </div>`;if(window['\x6c\x75\x63\x69\x64\x65'])lucide['\x63\x72\x65\x61\x74\x65\x49\x63\x6f\x6e\x73']();}}fetchSecureConversationStreams(!![]);if(_0xcefg6e){_0xcefg6e['\x6f\x6e\x73\x63\x72\x6f\x6c\x6c']=async()=>{if(_0xcefg6e['\x73\x63\x72\x6f\x6c\x6c\x54\x6f\x70']===(594171^594171)&&!isChatInfiniteScrollLoading&&absoluteHasOlderDatabaseMessages){await fetchOlderHistoricalChatLogs();}};}_0x8563c['\x6f\x6e\x63\x6c\x69\x63\x6b']=null;_0x850f4a['\x6f\x6e\x63\x6c\x69\x63\x6b']=null;_0x948e['\x6f\x6e\x63\x68\x61\x6e\x67\x65']=null;_0x8563c['\x6f\x6e\x63\x6c\x69\x63\x6b']=async()=>{const _0x86bc0c=_0xaaad9d['\x76\x61\x6c\x75\x65']['\x74\x72\x69\x6d']();if(!_0x86bc0c)return;_0xaaad9d['\x76\x61\x6c\x75\x65']=function(){return"";}();const _0xc5a75a=`temp_msg_${Date['\x6e\x6f\x77']()}`;injectOptimisticChatBubbleNode(_0x86bc0c,null,_0xc5a75a);await dispatchMessagePayload(_0x86bc0c,null,_0xc5a75a);};_0x850f4a['\x6f\x6e\x63\x6c\x69\x63\x6b']=()=>_0x948e['\x63\x6c\x69\x63\x6b']();_0x948e['\x6f\x6e\x63\x68\x61\x6e\x67\x65']=async e=>{if(e['\x74\x61\x72\x67\x65\x74']['\x66\x69\x6c\x65\x73']['\x6c\x65\x6e\x67\x74\x68']>(822463^822463)){const _0x2g50c=e['\x74\x61\x72\x67\x65\x74']['\x66\x69\x6c\x65\x73'][255465^255465];const _0xa2c=URL['\x63\x72\x65\x61\x74\x65\x4f\x62\x6a\x65\x63\x74\x55\x52\x4c'](_0x2g50c);const _0x04256283=`temp_msg_${Date['\x6e\x6f\x77']()}`;const _0x9875a=".etadpu tnemucod elif eruces a derahS".split("").reverse().join("");injectOptimisticChatBubbleNode(_0x9875a,_0xa2c,_0x04256283);const _0x947d=await clearFileAssetStorageUpload(_0x2g50c);if(_0x947d){URL['\x72\x65\x76\x6f\x6b\x65\x4f\x62\x6a\x65\x63\x74\x55\x52\x4c'](_0xa2c);await dispatchMessagePayload(_0x9875a,_0x947d,_0x04256283);}else{markOptimisticBubbleExecutionStateAsDropped(_0x04256283);}}};}function renderChatMessageFeedFromCacheArray(_0x10c,preserveScrollPosition=![]){const _0x84c9bb=document['\x67\x65\x74\x45\x6c\x65\x6d\x65\x6e\x74\x42\x79\x49\x64']("deef-egassem-tahc".split("").reverse().join(""));if(!_0x84c9bb)return;const _0x19594f=_0x84c9bb['\x73\x63\x72\x6f\x6c\x6c\x48\x65\x69\x67\x68\x74'];_0x84c9bb['\x69\x6e\x6e\x65\x72\x48\x54\x4d\x4c']=`
+                </div>`;
+            if (window.lucide) lucide.createIcons();
+        }
+    }
+
+    // Load fresh baseline message feed from database
+    fetchSecureConversationStreams(true);
+
+    // Wire up continuous view scroll history triggers
+    if (feedElementContainer) {
+        feedElementContainer.onscroll = async () => {
+            if (feedElementContainer.scrollTop === 0 && !isChatInfiniteScrollLoading && absoluteHasOlderDatabaseMessages) {
+                await fetchOlderHistoricalChatLogs();
+            }
+        };
+    }
+
+    // Detach old layout handlers to preserve stack traces on workspace switching
+    sendBtn.onclick = null;
+    attachBtn.onclick = null;
+    hiddenFile.onchange = null;
+
+    // FIX: INJECT OPTIMISTIC BUBBLE SYNCHRONOUSLY ON CLICK BEFORE CALLING ASYNC STACK
+    sendBtn.onclick = async () => {
+        const text = textInput.value.trim();
+        if (!text) return;
+
+        textInput.value = ""; // Clear input instantly
+
+        const temporaryMessageId = `temp_msg_${Date.now()}`;
+        // Force the text bubble onto the DOM immediately before hitting server or SMTP latency
+        injectOptimisticChatBubbleNode(text, null, temporaryMessageId);
+
+        // Pass the already injected temporary tracking ID down to the background dispatcher
+        await dispatchMessagePayload(text, null, temporaryMessageId);
+    };
+
+    attachBtn.onclick = () => hiddenFile.click();
+    hiddenFile.onchange = async (e) => {
+        if (e.target.files.length > 0) {
+            const targetFile = e.target.files[0];
+            const localOptimisticObjectURL = URL.createObjectURL(targetFile);
+            const temporaryMessageId = `temp_msg_${Date.now()}`;
+
+            // Clean, natural placeholder text instead of bracketed high-spam words
+            const attachmentPlaceholderText = "Shared a secure file document update.";
+
+            // Force clean textual payload layout into UI tracking view instantly
+            injectOptimisticChatBubbleNode(attachmentPlaceholderText, localOptimisticObjectURL, temporaryMessageId);
+            const uploadedUrl = await clearFileAssetStorageUpload(targetFile);
+
+            if (uploadedUrl) {
+                URL.revokeObjectURL(localOptimisticObjectURL);
+                // Dispatch natural transaction language directly down the API payload channel
+                await dispatchMessagePayload(attachmentPlaceholderText, uploadedUrl, temporaryMessageId);
+            } else {
+                markOptimisticBubbleExecutionStateAsDropped(temporaryMessageId);
+            }
+        }
+    };
+}
+
+function renderChatMessageFeedFromCacheArray(messagesArray, preserveScrollPosition = false) {
+    const feed = document.getElementById("chat-message-feed");
+    if (!feed) return;
+
+    const previousScrollHeight = feed.scrollHeight;
+
+    feed.innerHTML = `
         <div class="system-security-notice-bubble">
             <i data-lucide="lock" class="inline-status-icon"></i>
             <span>Messages are synced over administrative ledger configurations.</span>
-        </div>`;if(window['\x6c\x75\x63\x69\x64\x65'])lucide['\x63\x72\x65\x61\x74\x65\x49\x63\x6f\x6e\x73']();_0x10c['\x66\x6f\x72\x45\x61\x63\x68'](msg=>{const _0x57e=document['\x63\x72\x65\x61\x74\x65\x45\x6c\x65\x6d\x65\x6e\x74']("\u0064\u0069\u0076");const _0x4c77ab=function(s,h){return s===h;}(msg['\x73\x65\x6e\x64\x65\x72\x5f\x72\x6f\x6c\x65'],"\u0061\u0064\u006d\u0069\u006e");const _0x5a80d=_0x4c77ab?"\u006f\u0075\u0074\u0067\u006f\u0069\u006e\u0067":"gnimocni".split("").reverse().join("");_0x57e['\x63\x6c\x61\x73\x73\x4e\x61\x6d\x65']=`msg-bubble ${_0x5a80d}`;if(msg['\x69\x73\x53\x65\x6e\x64\x69\x6e\x67'])_0x57e['\x63\x6c\x61\x73\x73\x4c\x69\x73\x74']['\x61\x64\x64']("\u006d\u0073\u0067\u002d\u0062\u0075\u0062\u0062\u006c\u0065\u002d\u0069\u0073\u002d\u0073\u0065\u006e\u0064\u0069\u006e\u0067");if(msg['\x69\x73\x46\x61\x69\x6c\x65\x64'])_0x57e['\x63\x6c\x61\x73\x73\x4c\x69\x73\x74']['\x61\x64\x64']("deliaf-noitucexe-elbbub-gsm".split("").reverse().join(""));if(msg['\x69\x64'])_0x57e['\x73\x65\x74\x41\x74\x74\x72\x69\x62\x75\x74\x65']("\u0064\u0061\u0074\u0061\u002d\u006d\u0073\u0067\u002d\u006e\u006f\u0064\u0065\u002d\u0069\u0064",msg['\x69\x64']);let _0xd5678e="";if(msg['\x61\x74\x74\x61\x63\x68\x6d\x65\x6e\x74\x5f\x75\x72\x6c']){_0xd5678e=`<img src="${msg['\x61\x74\x74\x61\x63\x68\x6d\x65\x6e\x74\x5f\x75\x72\x6c']}" style="max-width:100%; border-radius:6px; margin-bottom:4px; display:block;" alt="Media Asset">`;}let _0x53063f="";if(msg['\x69\x73\x53\x65\x6e\x64\x69\x6e\x67'])_0x53063f=` <small class="text-sending-indicator">⏱️ Sending...</small>`;if(msg['\x69\x73\x46\x61\x69\x6c\x65\x64'])_0x53063f=` <small class="text-failed-indicator">🔴 Failed to Sync</small>`;const _0xf05a=msg['\x63\x72\x65\x61\x74\x65\x64\x5f\x61\x74']?new Date(msg['\x63\x72\x65\x61\x74\x65\x64\x5f\x61\x74'])['\x74\x6f\x4c\x6f\x63\x61\x6c\x65\x54\x69\x6d\x65\x53\x74\x72\x69\x6e\x67']([],{'\u0068\u006f\u0075\u0072':"\u0032\u002d\u0064\u0069\u0067\u0069\u0074","\u006d\u0069\u006e\u0075\u0074\u0065":"\u0032\u002d\u0064\u0069\u0067\u0069\u0074","hour12":![]}):"\u002d\u002d\u003a\u002d\u002d";_0x57e['\x69\x6e\x6e\x65\x72\x48\x54\x4d\x4c']=`
-            ${_0xd5678e}
-            <p>${escapeHTML(msg['\x6d\x65\x73\x73\x61\x67\x65\x5f\x62\x6f\x64\x79']||'')}</p>
-            <span class="msg-timestamp">${_0xf05a}${_0x53063f}</span>
-        `;_0x84c9bb['\x61\x70\x70\x65\x6e\x64\x43\x68\x69\x6c\x64'](_0x57e);});if(preserveScrollPosition){_0x84c9bb['\x73\x63\x72\x6f\x6c\x6c\x54\x6f\x70']=_0x84c9bb['\x73\x63\x72\x6f\x6c\x6c\x48\x65\x69\x67\x68\x74']-_0x19594f;}else{_0x84c9bb['\x73\x63\x72\x6f\x6c\x6c\x54\x6f\x70']=_0x84c9bb['\x73\x63\x72\x6f\x6c\x6c\x48\x65\x69\x67\x68\x74'];}}async function fetchSecureConversationStreams(isInitialLoad=false){const _0xd10=localStorage['\x67\x65\x74\x49\x74\x65\x6d']("nekot_noisses_nimda".split("").reverse().join(""));if(!activeChatSessionUserUuid)return;try{const _0x7fee=await fetch(`https://bank-api-v2.vercel.app/api/bank/admin-chat?uuid=${activeChatSessionUserUuid}&page=1&limit=${chatMaxLimitPerPage}`,{'\u006d\u0065\u0074\u0068\u006f\u0064':"\u0047\u0045\u0054","headers":{"\u0041\u0075\u0074\u0068\u006f\u0072\u0069\u007a\u0061\u0074\u0069\u006f\u006e":`Bearer ${_0xd10}`}});const _0x294ab=await _0x7fee['\x6a\x73\x6f\x6e']();const _0x524=_0x294ab['\x63\x68\x61\x74\x73']||[];absoluteHasOlderDatabaseMessages=_0x294ab['\x68\x61\x73\x4d\x6f\x72\x65'];const _0x6c5=`admin_chat_history_${activeChatSessionUserUuid}`;localStorage['\x73\x65\x74\x49\x74\x65\x6d'](_0x6c5,JSON['\x73\x74\x72\x69\x6e\x67\x69\x66\x79'](_0x524));renderChatMessageFeedFromCacheArray(_0x524,!isInitialLoad);}catch(err){console['\x65\x72\x72\x6f\x72'](":rorre pord cnys deef enilesab tahC".split("").reverse().join(""),err);}}async function fetchOlderHistoricalChatLogs(){if(isChatInfiniteScrollLoading||!absoluteHasOlderDatabaseMessages)return;isChatInfiniteScrollLoading=!![];const _0x5ed=localStorage['\x67\x65\x74\x49\x74\x65\x6d']("\u0061\u0064\u006d\u0069\u006e\u005f\u0073\u0065\u0073\u0073\u0069\u006f\u006e\u005f\u0074\u006f\u006b\u0065\u006e");const _0x7f1efg=function(s,h){return s+h;}(currentChatPaginationPage,863921^863920);try{const _0x40edb=await fetch(`https://bank-api-v2.vercel.app/api/bank/admin-chat?uuid=${activeChatSessionUserUuid}&page=${_0x7f1efg}&limit=${chatMaxLimitPerPage}`,{"method":"GET","\u0068\u0065\u0061\u0064\u0065\u0072\u0073":{"\u0041\u0075\u0074\u0068\u006f\u0072\u0069\u007a\u0061\u0074\u0069\u006f\u006e":`Bearer ${_0x5ed}`}});const _0xf5cddd=await _0x40edb['\x6a\x73\x6f\x6e']();const _0x8f08c=_0xf5cddd['\x63\x68\x61\x74\x73']||[];if(_0x8f08c['\x6c\x65\x6e\x67\x74\x68']>(572937^572937)){currentChatPaginationPage=_0x7f1efg;absoluteHasOlderDatabaseMessages=_0xf5cddd['\x68\x61\x73\x4d\x6f\x72\x65'];const _0x72584a=`admin_chat_history_${activeChatSessionUserUuid}`;let _0x71004g=[];const _0x464e3d=localStorage['\x67\x65\x74\x49\x74\x65\x6d'](_0x72584a);if(_0x464e3d){try{_0x71004g=JSON['\x70\x61\x72\x73\x65'](_0x464e3d);}catch(e){}}const _0x01156b=_0x8f08c['\x63\x6f\x6e\x63\x61\x74'](_0x71004g);renderChatMessageFeedFromCacheArray(_0x01156b,!![]);}else{absoluteHasOlderDatabaseMessages=function(){return false;}();}}catch(err){console['\x65\x72\x72\x6f\x72']("\u0045\u0072\u0072\u006f\u0072\u0020\u0072\u0075\u006e\u006e\u0069\u006e\u0067\u0020\u0062\u0061\u0063\u006b\u0077\u0061\u0072\u0064\u0020\u0068\u0069\u0073\u0074\u006f\u0072\u0079\u0020\u0070\u0061\u0067\u0069\u006e\u0061\u0074\u006f\u0072\u0020\u0073\u0079\u006e\u0063\u0020\u0072\u006f\u0075\u0074\u0069\u006e\u0065\u0073\u003a",err);}finally{isChatInfiniteScrollLoading=function(){return false;}();}}function injectOptimisticChatBubbleNode(_0x99a,_0x36cfda,_0xcbfdd){const _0x8718d=`admin_chat_history_${activeChatSessionUserUuid}`;let _0x7fa54a=[];const _0x5674a=localStorage['\x67\x65\x74\x49\x74\x65\x6d'](_0x8718d);if(_0x5674a){try{_0x7fa54a=JSON['\x70\x61\x72\x73\x65'](_0x5674a);}catch(e){}}const _0x5f153f={"\u0069\u0064":_0xcbfdd,"sender_role":"\u0061\u0064\u006d\u0069\u006e","message_body":_0x99a,"\u0061\u0074\u0074\u0061\u0063\u0068\u006d\u0065\u006e\u0074\u005f\u0075\u0072\u006c":_0x36cfda,"created_at":new Date()['\x74\x6f\x49\x53\x4f\x53\x74\x72\x69\x6e\x67'](),"\u0069\u0073\u0053\u0065\u006e\u0064\u0069\u006e\u0067":!![]};_0x7fa54a['\x70\x75\x73\x68'](_0x5f153f);if(_0x7fa54a['\x6c\x65\x6e\x67\x74\x68']>chatMaxLimitPerPage){_0x7fa54a=_0x7fa54a['\x73\x6c\x69\x63\x65'](-chatMaxLimitPerPage);}localStorage['\x73\x65\x74\x49\x74\x65\x6d'](_0x8718d,JSON['\x73\x74\x72\x69\x6e\x67\x69\x66\x79'](_0x7fa54a));renderChatMessageFeedFromCacheArray(_0x7fa54a,false);}function markOptimisticBubbleExecutionStateAsDropped(_0x1475ad){const _0x8d9=`admin_chat_history_${activeChatSessionUserUuid}`;const _0x96a7b=localStorage['\x67\x65\x74\x49\x74\x65\x6d'](_0x8d9);if(!_0x96a7b)return;try{let _0x26933b=JSON['\x70\x61\x72\x73\x65'](_0x96a7b);const _0x7796d=_0x26933b['\x66\x69\x6e\x64\x49\x6e\x64\x65\x78'](m=>m['\x69\x64']===_0x1475ad);if(_0x7796d!==-(673864^673865)){_0x26933b[_0x7796d]['\x69\x73\x53\x65\x6e\x64\x69\x6e\x67']=function(){return![];}();_0x26933b[_0x7796d]['\x69\x73\x46\x61\x69\x6c\x65\x64']=!![];localStorage['\x73\x65\x74\x49\x74\x65\x6d'](_0x8d9,JSON['\x73\x74\x72\x69\x6e\x67\x69\x66\x79'](_0x26933b));renderChatMessageFeedFromCacheArray(_0x26933b,!![]);}}catch(e){}}async function dispatchMessagePayload(_0xd2445b,_0x4bd,replacementTargetTempId=null){const _0xf31=localStorage['\x67\x65\x74\x49\x74\x65\x6d']("\u0061\u0064\u006d\u0069\u006e\u005f\u0073\u0065\u0073\u0073\u0069\u006f\u006e\u005f\u0074\u006f\u006b\u0065\u006e");const _0xaa0c6e=replacementTargetTempId||`temp_msg_${Date['\x6e\x6f\x77']()}`;if(!replacementTargetTempId){injectOptimisticChatBubbleNode(_0xd2445b,_0x4bd,_0xaa0c6e);}try{const _0x53f9f=await fetch("tahc-nimda/knab/ipa/ppa.lecrev.2v-ipa-knab//:sptth".split("").reverse().join(""),{"\u006d\u0065\u0074\u0068\u006f\u0064":"\u0050\u004f\u0053\u0054",'\u0068\u0065\u0061\u0064\u0065\u0072\u0073':{"\u0043\u006f\u006e\u0074\u0065\u006e\u0074\u002d\u0054\u0079\u0070\u0065":"\u0061\u0070\u0070\u006c\u0069\u0063\u0061\u0074\u0069\u006f\u006e\u002f\u006a\u0073\u006f\u006e","\u0041\u0075\u0074\u0068\u006f\u0072\u0069\u007a\u0061\u0074\u0069\u006f\u006e":`Bearer ${_0xf31}`},'\u0062\u006f\u0064\u0079':JSON['\x73\x74\x72\x69\x6e\x67\x69\x66\x79']({"user_uuid":activeChatSessionUserUuid,"\u006d\u0065\u0073\u0073\u0061\u0067\u0065\u005f\u0062\u006f\u0064\u0079":_0xd2445b,'\u0061\u0074\u0074\u0061\u0063\u0068\u006d\u0065\u006e\u0074\u005f\u0075\u0072\u006c':_0x4bd})});if(!_0x53f9f['\x6f\x6b'])throw new Error(".noitpecxe pord egarots revreS".split("").reverse().join(""));const _0xa0e24a=await _0x53f9f['\x6a\x73\x6f\x6e']();if(_0xa0e24a['\x73\x75\x63\x63\x65\x73\x73']&&_0xa0e24a['\x6d\x65\x73\x73\x61\x67\x65']){const _0x75g3db=`admin_chat_history_${activeChatSessionUserUuid}`;const _0xca1a=localStorage['\x67\x65\x74\x49\x74\x65\x6d'](_0x75g3db);if(_0xca1a){try{let _0x517g=JSON['\x70\x61\x72\x73\x65'](_0xca1a);const _0xd816e=_0x517g['\x66\x69\x6e\x64\x49\x6e\x64\x65\x78'](m=>m['\x69\x64']===_0xaa0c6e);if(_0xd816e!==-(430135^430134)){_0x517g[_0xd816e]=_0xa0e24a['\x6d\x65\x73\x73\x61\x67\x65'];_0x517g[_0xd816e]['\x69\x73\x53\x65\x6e\x64\x69\x6e\x67']=function(){return false;}();_0x517g[_0xd816e]['\x69\x73\x46\x61\x69\x6c\x65\x64']=function(){return false;}();localStorage['\x73\x65\x74\x49\x74\x65\x6d'](_0x75g3db,JSON['\x73\x74\x72\x69\x6e\x67\x69\x66\x79'](_0x517g));renderChatMessageFeedFromCacheArray(_0x517g,false);return;}}catch(e){console['\x65\x72\x72\x6f\x72']("\u0043\u0061\u0063\u0068\u0065\u0020\u0070\u0072\u006f\u0063\u0065\u0073\u0073\u0069\u006e\u0067\u0020\u0073\u0074\u0061\u0062\u0069\u006c\u0069\u007a\u0061\u0074\u0069\u006f\u006e\u0020\u0066\u0061\u0069\u006c\u0075\u0072\u0065\u003a",e);}}}currentChatPaginationPage=395260^395261;await fetchSecureConversationStreams(!![]);}catch(err){console['\x65\x72\x72\x6f\x72']("\u0054\u0072\u0061\u006e\u0073\u006d\u0069\u0073\u0073\u0069\u006f\u006e\u0020\u0066\u0061\u0075\u006c\u0074\u0020\u0069\u006e\u0073\u0074\u0061\u006e\u0063\u0065\u0020\u0072\u0065\u0063\u006f\u0072\u0064\u0065\u0064\u003a",err);markOptimisticBubbleExecutionStateAsDropped(_0xaa0c6e);}}async function clearFileAssetStorageUpload(_0xe59d){const _0xagf2e=localStorage['\x67\x65\x74\x49\x74\x65\x6d']("\u0061\u0064\u006d\u0069\u006e\u005f\u0073\u0065\u0073\u0073\u0069\u006f\u006e\u005f\u0074\u006f\u006b\u0065\u006e");const _0x8ef=new FormData();_0x8ef['\x61\x70\x70\x65\x6e\x64']("ratava".split("").reverse().join(""),_0xe59d);try{const _0x77e59c=await fetch("\u0068\u0074\u0074\u0070\u0073\u003a\u002f\u002f\u0062\u0061\u006e\u006b\u002d\u0061\u0070\u0069\u002d\u0076\u0032\u002e\u0076\u0065\u0072\u0063\u0065\u006c\u002e\u0061\u0070\u0070\u002f\u0061\u0070\u0069\u002f\u0062\u0061\u006e\u006b\u002f\u0061\u0076\u0061\u0074\u0061\u0072",{"method":"\u0050\u004f\u0053\u0054","headers":{"\u0041\u0075\u0074\u0068\u006f\u0072\u0069\u007a\u0061\u0074\u0069\u006f\u006e":`Bearer ${_0xagf2e}`,"\u0058\u002d\u0041\u0063\u0074\u0069\u006f\u006e":"\u0063\u0068\u0061\u0074","\u0058\u002d\u0055\u0073\u0065\u0072\u002d\u0055\u0055\u0049\u0044":activeChatSessionUserUuid},'\u0062\u006f\u0064\u0079':_0x8ef});const _0x8bd14b=await _0x77e59c['\x6a\x73\x6f\x6e']();return _0x8bd14b['\x73\x75\x63\x63\x65\x73\x73']?_0x8bd14b['\x69\x6d\x61\x67\x65\x55\x72\x6c']:null;}catch(err){console['\x65\x72\x72\x6f\x72'](":pord tropsnart lacitirc tessA eliF".split("").reverse().join(""),err);return null;}}function escapeHTML(_0xb8g84f){return _0xb8g84f['\x72\x65\x70\x6c\x61\x63\x65'](new RegExp("\u005b\u0026\u003c\u003e\u0027\u005c\u0022\u005d","\u0067"),tag=>({"\u0026":"\u0026\u0061\u006d\u0070\u003b","\u003c":"\u0026\u006c\u0074\u003b","\u003e":'&gt;',"\u0027":"\u0026\u0023\u0033\u0039\u003b","\u0022":"\u0026\u0071\u0075\u006f\u0074\u003b"})[tag]||tag);}
+        </div>`;
+
+    if (window.lucide) lucide.createIcons();
+
+    messagesArray.forEach(msg => {
+        const container = document.createElement("div");
+        const isAdmin = msg.sender_role === "admin";
+        const alignmentClass = isAdmin ? "outgoing" : "incoming";
+
+        container.className = `msg-bubble ${alignmentClass}`;
+
+        if (msg.isSending) container.classList.add("msg-bubble-is-sending");
+        if (msg.isFailed) container.classList.add("msg-bubble-execution-failed");
+        if (msg.id) container.setAttribute("data-msg-node-id", msg.id);
+
+        let attachmentContentHTML = "";
+        if (msg.attachment_url) {
+            attachmentContentHTML = `<img src="${msg.attachment_url}" style="max-width:100%; border-radius:6px; margin-bottom:4px; display:block;" alt="Media Asset">`;
+        }
+
+        let statusIndicatorMessage = "";
+        if (msg.isSending) statusIndicatorMessage = ` <small class="text-sending-indicator">⏱️ Sending...</small>`;
+        if (msg.isFailed) statusIndicatorMessage = ` <small class="text-failed-indicator">🔴 Failed to Sync</small>`;
+
+        const timeString = msg.created_at ? new Date(msg.created_at).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', hour12: false }) : "--:--";
+
+        container.innerHTML = `
+            ${attachmentContentHTML}
+            <p>${escapeHTML(msg.message_body || '')}</p>
+            <span class="msg-timestamp">${timeString}${statusIndicatorMessage}</span>
+        `;
+        feed.appendChild(container);
+    });
+
+    if (preserveScrollPosition) {
+        feed.scrollTop = feed.scrollHeight - previousScrollHeight;
+    } else {
+        feed.scrollTop = feed.scrollHeight;
+    }
+}
+
+async function fetchSecureConversationStreams(isInitialLoad = false) {
+    const adminToken = localStorage.getItem("admin_session_token");
+    if (!activeChatSessionUserUuid) return;
+
+    try {
+        const r = await fetch(`https://bank-api-v2.vercel.app/api/bank/admin-chat?uuid=${activeChatSessionUserUuid}&page=1&limit=${chatMaxLimitPerPage}`, {
+            method: "GET",
+            headers: { "Authorization": `Bearer ${adminToken}` }
+        });
+        const payload = await r.json();
+        const incomingServerChats = payload.chats || [];
+
+        absoluteHasOlderDatabaseMessages = payload.hasMore;
+
+        const localizedCacheKey = `admin_chat_history_${activeChatSessionUserUuid}`;
+        localStorage.setItem(localizedCacheKey, JSON.stringify(incomingServerChats));
+
+        renderChatMessageFeedFromCacheArray(incomingServerChats, !isInitialLoad);
+
+    } catch (err) {
+        console.error("Chat baseline feed sync drop error:", err);
+    }
+}
+
+async function fetchOlderHistoricalChatLogs() {
+    if (isChatInfiniteScrollLoading || !absoluteHasOlderDatabaseMessages) return;
+
+    isChatInfiniteScrollLoading = true;
+    const adminToken = localStorage.getItem("admin_session_token");
+    const nextPage = currentChatPaginationPage + 1;
+
+    try {
+        const response = await fetch(`https://bank-api-v2.vercel.app/api/bank/admin-chat?uuid=${activeChatSessionUserUuid}&page=${nextPage}&limit=${chatMaxLimitPerPage}`, {
+            method: "GET",
+            headers: { "Authorization": `Bearer ${adminToken}` }
+        });
+
+        const payload = await response.json();
+        const olderHistoricalChats = payload.chats || [];
+
+        if (olderHistoricalChats.length > 0) {
+            currentChatPaginationPage = nextPage;
+            absoluteHasOlderDatabaseMessages = payload.hasMore;
+
+            const localizedCacheKey = `admin_chat_history_${activeChatSessionUserUuid}`;
+            let activeUIArrayInstance = [];
+            const localCacheString = localStorage.getItem(localizedCacheKey);
+            if (localCacheString) {
+                try { activeUIArrayInstance = JSON.parse(localCacheString); } catch (e) { }
+            }
+
+            const concatenatedTimelineMerge = olderHistoricalChats.concat(activeUIArrayInstance);
+            renderChatMessageFeedFromCacheArray(concatenatedTimelineMerge, true);
+        } else {
+            absoluteHasOlderDatabaseMessages = false;
+        }
+
+    } catch (err) {
+        console.error("Error running backward history paginator sync routines:", err);
+    } finally {
+        isChatInfiniteScrollLoading = false;
+    }
+}
+
+function injectOptimisticChatBubbleNode(textString, objectAssetUrl, targetTempId) {
+    const localizedCacheKey = `admin_chat_history_${activeChatSessionUserUuid}`;
+    let historicalCachedArray = [];
+
+    const localCacheString = localStorage.getItem(localizedCacheKey);
+    if (localCacheString) {
+        try { historicalCachedArray = JSON.parse(localCacheString); } catch (e) { }
+    }
+
+    const optimisticFakeRow = {
+        id: targetTempId,
+        sender_role: "admin",
+        message_body: textString,
+        attachment_url: objectAssetUrl,
+        created_at: new Date().toISOString(),
+        isSending: true
+    };
+
+    historicalCachedArray.push(optimisticFakeRow);
+
+    if (historicalCachedArray.length > chatMaxLimitPerPage) {
+        historicalCachedArray = historicalCachedArray.slice(-chatMaxLimitPerPage);
+    }
+
+    localStorage.setItem(localizedCacheKey, JSON.stringify(historicalCachedArray));
+    renderChatMessageFeedFromCacheArray(historicalCachedArray, false);
+}
+
+function markOptimisticBubbleExecutionStateAsDropped(targetTempId) {
+    const localizedCacheKey = `admin_chat_history_${activeChatSessionUserUuid}`;
+    const localCacheString = localStorage.getItem(localizedCacheKey);
+    if (!localCacheString) return;
+
+    try {
+        let messagesList = JSON.parse(localCacheString);
+        const matchIndex = messagesList.findIndex(m => m.id === targetTempId);
+        if (matchIndex !== -1) {
+            messagesList[matchIndex].isSending = false;
+            messagesList[matchIndex].isFailed = true;
+            localStorage.setItem(localizedCacheKey, JSON.stringify(messagesList));
+            renderChatMessageFeedFromCacheArray(messagesList, true);
+        }
+    } catch (e) { }
+}
+
+async function dispatchMessagePayload(text, fileUrl, replacementTargetTempId = null) {
+    const adminToken = localStorage.getItem("admin_session_token");
+    const temporaryMessageId = replacementTargetTempId || `temp_msg_${Date.now()}`;
+
+    if (!replacementTargetTempId) {
+        injectOptimisticChatBubbleNode(text, fileUrl, temporaryMessageId);
+    }
+
+    try {
+        const response = await fetch("https://bank-api-v2.vercel.app/api/bank/admin-chat", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json",
+                "Authorization": `Bearer ${adminToken}`
+            },
+            body: JSON.stringify({
+                user_uuid: activeChatSessionUserUuid,
+                message_body: text,
+                attachment_url: fileUrl
+            })
+        });
+
+        if (!response.ok) throw new Error("Server storage drop exception.");
+
+        const resultData = await response.json();
+
+        if (resultData.success && resultData.message) {
+            const localizedCacheKey = `admin_chat_history_${activeChatSessionUserUuid}`;
+            const localCacheString = localStorage.getItem(localizedCacheKey);
+
+            if (localCacheString) {
+                try {
+                    let messagesList = JSON.parse(localCacheString);
+                    const matchIndex = messagesList.findIndex(m => m.id === temporaryMessageId);
+
+                    if (matchIndex !== -1) {
+                        messagesList[matchIndex] = resultData.message;
+                        messagesList[matchIndex].isSending = false;
+                        messagesList[matchIndex].isFailed = false;
+
+                        localStorage.setItem(localizedCacheKey, JSON.stringify(messagesList));
+                        renderChatMessageFeedFromCacheArray(messagesList, false);
+                        return;
+                    }
+                } catch (e) {
+                    console.error("Cache processing stabilization failure:", e);
+                }
+            }
+        }
+
+        currentChatPaginationPage = 1;
+        await fetchSecureConversationStreams(true);
+
+    } catch (err) {
+        console.error("Transmission fault instance recorded:", err);
+        markOptimisticBubbleExecutionStateAsDropped(temporaryMessageId);
+    }
+}
+
+async function clearFileAssetStorageUpload(file) {
+    const adminToken = localStorage.getItem("admin_session_token");
+    const formData = new FormData();
+    formData.append("avatar", file);
+
+    try {
+        const response = await fetch("https://bank-api-v2.vercel.app/api/bank/avatar", {
+            method: "POST",
+            headers: {
+                "Authorization": `Bearer ${adminToken}`,
+                "X-Action": "chat", // 🚀 FIX: Tell the backend this is a chat file, not a profile avatar
+                "X-User-UUID": activeChatSessionUserUuid
+            },
+            body: formData
+        });
+        const data = await response.json();
+        return data.success ? data.imageUrl : null;
+    } catch (err) {
+        console.error("File Asset critical transport drop:", err);
+        return null;
+    }
+}
+
+function escapeHTML(str) {
+    return str.replace(/[&<>'\"]/g,
+        tag => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;' }[tag] || tag)
+    );
+}
